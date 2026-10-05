@@ -8,5 +8,6 @@
   "accent": "#D7FF1F",
   "light": "#F2F2EE",
   "line": "#2A2A2F",
-  "deco": "bar"
+  "deco": "bar",
+  "pitch": 1.4
 }

@@ -1,0 +1,124 @@
+[
+  {
+    "id": "g1-p1",
+    "day": "G1",
+    "slot": "post1",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/palestra/img/s/g1-p1.jpg",
+    "caption": "È lunedì. Il petto non si discute.\n\nTagga il tuo compagno di allenamento che non salta mai il lunedì.\n\n#lunedipetto #gymbro #palestra"
+  },
+  {
+    "id": "g1-p2",
+    "day": "G1",
+    "slot": "post2",
+    "type": "image",
+    "format": "F02",
+    "image": "pages/palestra/img/s/g1-p2.jpg",
+    "caption": "Sai benissimo chi è: il giorno gambe, per lui, non esiste. 🦵\n\nTaggalo qui sotto.\n\n#lunedipetto #giornogambe #gymbro"
+  },
+  {
+    "id": "g1-p3",
+    "day": "G1",
+    "slot": "post3",
+    "type": "carousel",
+    "format": "F03",
+    "images": [
+      "pages/palestra/img/car/g1-p3/g1-p3-1.jpg",
+      "pages/palestra/img/car/g1-p3/g1-p3-2.jpg",
+      "pages/palestra/img/car/g1-p3/g1-p3-3.jpg",
+      "pages/palestra/img/car/g1-p3/g1-p3-4.jpg",
+      "pages/palestra/img/car/g1-p3/g1-p3-5.jpg",
+      "pages/palestra/img/car/g1-p3/g1-p3-6.jpg"
+    ],
+    "caption": "Tipi di gymbro: quanti ne hai incontrati questa settimana?\n\nSalva il post e tagga il tuo compagno di scheda.\n\n#lunedipetto #gymbro #palestra"
+  },
+  {
+    "id": "g1-st",
+    "day": "G1",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/palestra/img/st/g1-st.jpg"
+  },
+  {
+    "id": "g2-p1",
+    "day": "G2",
+    "slot": "post1",
+    "type": "image",
+    "format": "F04",
+    "image": "pages/palestra/img/s/g2-p1.jpg",
+    "caption": "Ore 6:50. Tutti arrivano \"tra 5 minuti\". La palestra apre alle 7.\n\nMandala al tuo gruppo allenamento.\n\n#lunedipetto #palestra #gymbro"
+  },
+  {
+    "id": "g2-p2",
+    "day": "G2",
+    "slot": "post2",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/palestra/img/s/g2-p2.jpg",
+    "caption": "La panca è libera. In teoria. In pratica c'è un telefono e uno che \"sta solo rispondendo\".\n\nTagga chi occupa la panca per mandare messaggi.\n\n#lunedipetto #palestra #panca"
+  },
+  {
+    "id": "g2-p3",
+    "day": "G2",
+    "slot": "post3",
+    "type": "image",
+    "format": "F02",
+    "image": "pages/palestra/img/s/g2-p3.jpg",
+    "caption": "\"Oggi faccio leggero.\" Venti minuti dopo il bilanciere è irriconoscibile.\n\nTagga chi lo dice ogni volta.\n\n#lunedipetto #gymbro #palestra"
+  },
+  {
+    "id": "g2-st",
+    "day": "G2",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/palestra/img/st/g2-st.jpg"
+  },
+  {
+    "id": "g3-p1",
+    "day": "G3",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/palestra/img/car/g3-p1/g3-p1-1.jpg",
+      "pages/palestra/img/car/g3-p1/g3-p1-2.jpg",
+      "pages/palestra/img/car/g3-p1/g3-p1-3.jpg",
+      "pages/palestra/img/car/g3-p1/g3-p1-4.jpg",
+      "pages/palestra/img/car/g3-p1/g3-p1-5.jpg",
+      "pages/palestra/img/car/g3-p1/g3-p1-6.jpg"
+    ],
+    "caption": "Top 5 scuse per saltare le gambe. Ne hai usata almeno una, ammettilo.\n\nSalva e mandala a chi salta sempre il giorno gambe.\n\n#lunedipetto #giornogambe #gymbro"
+  },
+  {
+    "id": "g3-p2",
+    "day": "G3",
+    "slot": "post2",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/palestra/img/s/g3-p2.jpg",
+    "caption": "Prima settimana: scheda stampata, borsa nuova e sicurezza da veterano. Brando approva.\n\nTagga chi si è iscritto da poco.\n\n#lunedipetto #palestra #gymbro"
+  },
+  {
+    "id": "g3-p3",
+    "day": "G3",
+    "slot": "post3",
+    "type": "carousel",
+    "format": "F08",
+    "images": [
+      "pages/palestra/img/car/g3-p3/g3-p3-1.jpg",
+      "pages/palestra/img/car/g3-p3/g3-p3-2.jpg"
+    ],
+    "caption": "Mito: più sudi, più bruci. Realtà: l'asciugamano lavora più di te.\n\nSalva e manda a chi suda più di tutti.\n\n#lunedipetto #palestra #gymbro"
+  },
+  {
+    "id": "g3-st",
+    "day": "G3",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/palestra/img/st/g3-st.jpg"
+  }
+]
