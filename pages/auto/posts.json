@@ -122,5 +122,484 @@
     "type": "story",
     "format": "F10",
     "image": "pages/auto/img/st/g3-st.jpg"
+  },
+  {
+    "id": "g4-p1",
+    "day": "G4",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F03",
+    "images": [
+      "pages/auto/img/car/g4-p1/g4-p1-1.jpg",
+      "pages/auto/img/car/g4-p1/g4-p1-2.jpg",
+      "pages/auto/img/car/g4-p1/g4-p1-3.jpg",
+      "pages/auto/img/car/g4-p1/g4-p1-4.jpg",
+      "pages/auto/img/car/g4-p1/g4-p1-5.jpg",
+      "pages/auto/img/car/g4-p1/g4-p1-6.jpg"
+    ],
+    "caption": "In macchina il passeggero ha sempre un ruolo. Il tuo qual è?\n\nSalva e tagga il tuo passeggero.\n\n#sgommando #auto #viaggio"
+  },
+  {
+    "id": "g4-p2",
+    "day": "G4",
+    "slot": "post2",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/auto/img/s/g4-p2.jpg",
+    "caption": "\"Alla prossima, svolta a destra.\" Era la scorsa.\n\nTagga chi ha un navigatore in ritardo.\n\n#sgommando #auto #navigatore"
+  },
+  {
+    "id": "g4-p3",
+    "day": "G4",
+    "slot": "post3",
+    "type": "image",
+    "format": "F06",
+    "image": "pages/auto/img/s/g4-p3.jpg",
+    "caption": "5 agosto 1888: Bertha Benz guida per 106 km da Mannheim a Pforzheim, con i suoi due figli e senza avvisare il marito. È il primo viaggio lungo della storia in automobile.\n\nSalva e mandalo a chi parte sempre all'ultimo.\n\nFonte: Mercedes-Benz; Focus; Geopop. Verificato il 5 ottobre 2026.\n\n#sgommando #auto #storia",
+    "fonte": "Mercedes-Benz Media, 'Bertha Benz Fahrt 1888'; Focus.it, 'Chi ha compiuto il primo viaggio in auto della storia'; Geopop, 'Bertha Benz' (5 agosto 1888, Mannheim-Pforzheim, 106 km)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g4-st",
+    "day": "G4",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/auto/img/st/g4-st.jpg"
+  },
+  {
+    "id": "g5-p1",
+    "day": "G5",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F09",
+    "images": [
+      "pages/auto/img/car/g5-p1/g5-p1-1.jpg",
+      "pages/auto/img/car/g5-p1/g5-p1-2.jpg",
+      "pages/auto/img/car/g5-p1/g5-p1-3.jpg",
+      "pages/auto/img/car/g5-p1/g5-p1-4.jpg",
+      "pages/auto/img/car/g5-p1/g5-p1-5.jpg",
+      "pages/auto/img/car/g5-p1/g5-p1-6.jpg"
+    ],
+    "caption": "Il 4 luglio 1957 nasce la Nuova 500, progettata da Dante Giacosa per costare poco, da comprare e da mantenere.\n\nSalva e mandalo a un appassionato.\n\nFonte: Automotive World; MoMA; Wikipedia. Verificato il 5 ottobre 2026.\n\n#sgommando #auto #fiat500",
+    "fonte": "Automotive World, 'New Fiat 500 unveiled July 4'; MoMA, 'Dante Giacosa. 500F city car'; Wikipedia, 'Fiat 500' (presentata il 4 luglio 1957, progettata da Dante Giacosa, auto economica da comprare e mantenere)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g5-p2",
+    "day": "G5",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/auto/img/car/g5-p2/g5-p2-1.jpg",
+      "pages/auto/img/car/g5-p2/g5-p2-2.jpg",
+      "pages/auto/img/car/g5-p2/g5-p2-3.jpg",
+      "pages/auto/img/car/g5-p2/g5-p2-4.jpg",
+      "pages/auto/img/car/g5-p2/g5-p2-5.jpg",
+      "pages/auto/img/car/g5-p2/g5-p2-6.jpg"
+    ],
+    "caption": "Il criterio è nostro: le spie che fanno più paura.\n\nSalva e scrivi nei commenti la tua.\n\n#sgommando #auto #spie"
+  },
+  {
+    "id": "g5-p3",
+    "day": "G5",
+    "slot": "post3",
+    "type": "image",
+    "format": "F04",
+    "image": "pages/auto/img/s/g5-p3.jpg",
+    "caption": "I consigli di Zio Gigi: gratis, sicuri, mai verificati. Per il rumore strano, meglio il meccanico.\n\nMandalo al tuo Zio Gigi.\n\n#sgommando #auto #ziogigi"
+  },
+  {
+    "id": "g5-st",
+    "day": "G5",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/auto/img/st/g5-st.jpg"
+  },
+  {
+    "id": "g6-p1",
+    "day": "G6",
+    "slot": "post1",
+    "type": "image",
+    "format": "F07",
+    "image": "pages/auto/img/s/g6-p1.jpg",
+    "caption": "Due modi di vivere l'auto. Nessuno ha ragione.\n\nScrivi nei commenti da che parte stai.\n\n#sgommando #auto"
+  },
+  {
+    "id": "g6-p2",
+    "day": "G6",
+    "slot": "post2",
+    "type": "image",
+    "format": "F02",
+    "image": "pages/auto/img/s/g6-p2.jpg",
+    "caption": "Una pioggia e l'auto è pulita. Costa zero, rende tanto.\n\nTagga chi lava l'auto con la pioggia.\n\n#sgommando #auto #lavaggio"
+  },
+  {
+    "id": "g6-p3",
+    "day": "G6",
+    "slot": "post3",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/auto/img/s/g6-p3.jpg",
+    "caption": "Il flash. La lettera. Il costo di un weekend.\n\nTagga chi ci è già passato.\n\n#sgommando #auto #ztl"
+  },
+  {
+    "id": "g6-st",
+    "day": "G6",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/auto/img/st/g6-st.jpg"
+  },
+  {
+    "id": "g7-p1",
+    "day": "G7",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F03",
+    "images": [
+      "pages/auto/img/car/g7-p1/g7-p1-1.jpg",
+      "pages/auto/img/car/g7-p1/g7-p1-2.jpg",
+      "pages/auto/img/car/g7-p1/g7-p1-3.jpg",
+      "pages/auto/img/car/g7-p1/g7-p1-4.jpg",
+      "pages/auto/img/car/g7-p1/g7-p1-5.jpg",
+      "pages/auto/img/car/g7-p1/g7-p1-6.jpg"
+    ],
+    "caption": "In autostrada ognuno ha il suo stile. Tu quale sei?\n\nSalva e tagga il tuo compagno di viaggio.\n\n#sgommando #auto #autostrada"
+  },
+  {
+    "id": "g7-p2",
+    "day": "G7",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F08",
+    "images": [
+      "pages/auto/img/car/g7-p2/g7-p2-1.jpg",
+      "pages/auto/img/car/g7-p2/g7-p2-2.jpg"
+    ],
+    "caption": "Mito: più costa, meglio va. Realtà: se il tuo motore non richiede la benzina super, nei test non cambia né potenza né consumi. Usa il carburante indicato dal costruttore.\n\nSalva e mandalo a chi fa sempre il pieno di super.\n\nFonte: AAA; Consumer Reports. Verificato il 5 ottobre 2026.\n\n#sgommando #auto #carburante",
+    "fonte": "AAA Automotive Research, 'Premium Fuel' (2016): nessuna differenza costante in potenza, consumi o emissioni su motori progettati per la benzina normale; Consumer Reports, 'Drivers waste billions of dollars buying premium gasoline'",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g7-p3",
+    "day": "G7",
+    "slot": "post3",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/auto/img/s/g7-p3.jpg",
+    "caption": "Venti minuti di giri. Poi il posto era due metri più in là.\n\nTagga chi cerca parcheggio come un cacciatore.\n\n#sgommando #auto #parcheggio"
+  },
+  {
+    "id": "g7-st",
+    "day": "G7",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/auto/img/st/g7-st.jpg"
+  },
+  {
+    "id": "g8-p1",
+    "day": "G8",
+    "slot": "post1",
+    "type": "image",
+    "format": "F06",
+    "image": "pages/auto/img/s/g8-p1.jpg",
+    "caption": "Gomme alla pressione giusta: consumi in meno dello 0,6% in media, fino al 3% in alcuni casi. Il valore corretto è sull'adesivo dello sportello o nel libretto, non sul fianco della gomma.\n\nSalva e mandalo a chi non controlla mai la pressione.\n\nFonte: fueleconomy.gov. Verificato il 5 ottobre 2026.\n\n#sgommando #auto #gomme",
+    "fonte": "fueleconomy.gov, 'Keeping Your Vehicle in Shape' (media 0,6%, fino a 3%; circa 0,2% in più di consumo per ogni psi in meno)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g8-p2",
+    "day": "G8",
+    "slot": "post2",
+    "type": "image",
+    "format": "F04",
+    "image": "pages/auto/img/s/g8-p2.jpg",
+    "caption": "Il rumore normale del Meccanico: sempre normale, mai gratis.\n\nMandalo al tuo meccanico (con affetto).\n\n#sgommando #auto #meccanico"
+  },
+  {
+    "id": "g8-p3",
+    "day": "G8",
+    "slot": "post3",
+    "type": "image",
+    "format": "F02",
+    "image": "pages/auto/img/s/g8-p3.jpg",
+    "caption": "Cartella, raccoglitore, archivio. L'auto vale meno delle fatture.\n\nTagga chi le conserva tutte.\n\n#sgommando #auto #meccanico"
+  },
+  {
+    "id": "g8-st",
+    "day": "G8",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/auto/img/st/g8-st.jpg"
+  },
+  {
+    "id": "g9-p1",
+    "day": "G9",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/auto/img/car/g9-p1/g9-p1-1.jpg",
+      "pages/auto/img/car/g9-p1/g9-p1-2.jpg",
+      "pages/auto/img/car/g9-p1/g9-p1-3.jpg",
+      "pages/auto/img/car/g9-p1/g9-p1-4.jpg",
+      "pages/auto/img/car/g9-p1/g9-p1-5.jpg",
+      "pages/auto/img/car/g9-p1/g9-p1-6.jpg"
+    ],
+    "caption": "Il criterio è nostro: quello che trovi sempre nel cruscotto.\n\nSalva e scrivi nei commenti il tuo.\n\n#sgommando #auto"
+  },
+  {
+    "id": "g9-p2",
+    "day": "G9",
+    "slot": "post2",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/auto/img/s/g9-p2.jpg",
+    "caption": "\"Dipende.\" La risposta più costosa dell'officina.\n\nTagga chi ha chiesto della cinghia.\n\n#sgommando #auto #meccanico"
+  },
+  {
+    "id": "g9-p3",
+    "day": "G9",
+    "slot": "post3",
+    "type": "image",
+    "format": "F07",
+    "image": "pages/auto/img/s/g9-p3.jpg",
+    "caption": "Estive o invernali? Dal 15 novembre al 15 aprile, nelle strade con l'ordinanza, serve montare le invernali o avere le catene a bordo. La soglia dei 7 °C è quella indicata dai produttori.\n\nScrivi nei commenti cosa monti tu.\n\nFonte: Missionline; Diritto.it; Sicurauto. Verificato il 5 ottobre 2026.\n\n#sgommando #auto #gomme",
+    "fonte": "Missionline, 'Pneumatici invernali (o catene): scatta l'obbligo'; Diritto.it, 'Obbligo di pneumatici invernali o catene a bordo dal 15 novembre'; Sicurauto, 'Gomme invernali dal 15 novembre: cosa rischia chi guida senza' (15 novembre-15 aprile; sotto i 7 °C)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g9-st",
+    "day": "G9",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/auto/img/st/g9-st.jpg"
+  },
+  {
+    "id": "g10-p1",
+    "day": "G10",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F03",
+    "images": [
+      "pages/auto/img/car/g10-p1/g10-p1-1.jpg",
+      "pages/auto/img/car/g10-p1/g10-p1-2.jpg",
+      "pages/auto/img/car/g10-p1/g10-p1-3.jpg",
+      "pages/auto/img/car/g10-p1/g10-p1-4.jpg",
+      "pages/auto/img/car/g10-p1/g10-p1-5.jpg",
+      "pages/auto/img/car/g10-p1/g10-p1-6.jpg"
+    ],
+    "caption": "Il parcheggio del supermercato è un gioco di ruolo.\n\nSalva e tagga chi conosci.\n\n#sgommando #auto #parcheggio"
+  },
+  {
+    "id": "g10-p2",
+    "day": "G10",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F09",
+    "images": [
+      "pages/auto/img/car/g10-p2/g10-p2-1.jpg",
+      "pages/auto/img/car/g10-p2/g10-p2-2.jpg",
+      "pages/auto/img/car/g10-p2/g10-p2-3.jpg",
+      "pages/auto/img/car/g10-p2/g10-p2-4.jpg",
+      "pages/auto/img/car/g10-p2/g10-p2-5.jpg",
+      "pages/auto/img/car/g10-p2/g10-p2-6.jpg"
+    ],
+    "caption": "Nel 1959 Nils Bohlin inventa la cintura a tre punti. Il costruttore decide di condividere il brevetto con tutti. Si stima che abbia salvato almeno un milione di vite.\n\nAllacciala sempre. Salva e mandalo a chi non lo fa.\n\nFonte: Volvo Group; Arnold Clark. Verificato il 5 ottobre 2026.\n\n#sgommando #auto #sicurezza",
+    "fonte": "Volvo Group, 'The three points that saved one million lives'; Arnold Clark, 'Why Volvo gave away the patent for its most important invention' (Nils Bohlin, 1959; brevetto reso disponibile a tutti; almeno un milione di vite salvate)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g10-p3",
+    "day": "G10",
+    "slot": "post3",
+    "type": "image",
+    "format": "F02",
+    "image": "pages/auto/img/s/g10-p3.jpg",
+    "caption": "Finché non succede. Ricordati la cintura.\n\nTagga chi lo dice sempre.\n\n#sgommando #auto"
+  },
+  {
+    "id": "g10-st",
+    "day": "G10",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/auto/img/st/g10-st.jpg"
+  },
+  {
+    "id": "g11-p1",
+    "day": "G11",
+    "slot": "post1",
+    "type": "image",
+    "format": "F04",
+    "image": "pages/auto/img/s/g11-p1.jpg",
+    "caption": "La diagnosi di Zio Gigi: precisa come sempre.\n\nMandalo al tuo Zio Gigi.\n\n#sgommando #auto #ziogigi"
+  },
+  {
+    "id": "g11-p2",
+    "day": "G11",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/auto/img/car/g11-p2/g11-p2-1.jpg",
+      "pages/auto/img/car/g11-p2/g11-p2-2.jpg",
+      "pages/auto/img/car/g11-p2/g11-p2-3.jpg",
+      "pages/auto/img/car/g11-p2/g11-p2-4.jpg",
+      "pages/auto/img/car/g11-p2/g11-p2-5.jpg",
+      "pages/auto/img/car/g11-p2/g11-p2-6.jpg"
+    ],
+    "caption": "Il criterio è nostro: i profumatori che hai visto almeno una volta.\n\nSalva e scrivi nei commenti il tuo.\n\n#sgommando #auto"
+  },
+  {
+    "id": "g11-p3",
+    "day": "G11",
+    "slot": "post3",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/auto/img/s/g11-p3.jpg",
+    "caption": "Domani la revisione. Stanotte la preghiera.\n\nTagga chi ha la revisione domani.\n\n#sgommando #auto #revisione"
+  },
+  {
+    "id": "g11-st",
+    "day": "G11",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/auto/img/st/g11-st.jpg"
+  },
+  {
+    "id": "g12-p1",
+    "day": "G12",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F08",
+    "images": [
+      "pages/auto/img/car/g12-p1/g12-p1-1.jpg",
+      "pages/auto/img/car/g12-p1/g12-p1-2.jpg"
+    ],
+    "caption": "Mito: riaccendere consuma più che tenere il motore acceso. Realtà (secondo il Dipartimento dell'Energia USA): se sei fermo e in sicurezza per più di 10 secondi, spegnere conviene.\n\nSalva e mandalo a chi aspetta con il motore acceso.\n\nFonte: US Department of Energy. Verificato il 5 ottobre 2026.\n\n#sgommando #auto #consumi",
+    "fonte": "US Department of Energy (energy.gov), idling: oltre 10 secondi di minimo si consuma più carburante che riavviando il motore; usura da riavvio stimata in circa 10 dollari l'anno",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g12-p2",
+    "day": "G12",
+    "slot": "post2",
+    "type": "image",
+    "format": "F07",
+    "image": "pages/auto/img/s/g12-p2.jpg",
+    "caption": "Quanta energia diventa movimento: nell'elettrica oltre il 77% di quella della rete, nella benzina dal 12% al 30% di quella del carburante. Un confronto solo sull'efficienza, non su costi o autonomia.\n\nScrivi nei commenti cosa guidi tu.\n\nFonte: US Department of Energy (fueleconomy.gov). Verificato il 5 ottobre 2026.\n\n#sgommando #auto #elettrica",
+    "fonte": "US Department of Energy, fueleconomy.gov, 'Electric vehicles': conversione oltre 77% dell'energia elettrica in potenza alle ruote contro 12-30% dell'energia contenuta nella benzina",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g12-p3",
+    "day": "G12",
+    "slot": "post3",
+    "type": "image",
+    "format": "F02",
+    "image": "pages/auto/img/s/g12-p3.jpg",
+    "caption": "La spia accesa non è un consiglio. È una sfida.\n\nTagga chi fa benzina all'ultimo chilometro.\n\n#sgommando #auto #benzina"
+  },
+  {
+    "id": "g12-st",
+    "day": "G12",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/auto/img/st/g12-st.jpg"
+  },
+  {
+    "id": "g13-p1",
+    "day": "G13",
+    "slot": "post1",
+    "type": "image",
+    "format": "F06",
+    "image": "pages/auto/img/s/g13-p1.jpg",
+    "caption": "1.227,985 km/h: il record di velocità su terra, di ThrustSSC, il 15 ottobre 1997 nel deserto del Nevada. Due motori a reazione, un pilota esperto, una pista chiusa: non è un'auto da strada.\n\nSalva e mandalo a chi parla di velocità.\n\nFonte: Guinness World Records; Wikipedia. Verificato il 5 ottobre 2026.\n\n#sgommando #auto #record",
+    "fonte": "Guinness World Records, 'Land speed (fastest car)': 1.227,985 km/h, Andy Green, ThrustSSC, 15 ottobre 1997, Black Rock Desert, Nevada; Wikipedia, 'ThrustSSC' (due motori Rolls-Royce Spey 202)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g13-p2",
+    "day": "G13",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F03",
+    "images": [
+      "pages/auto/img/car/g13-p2/g13-p2-1.jpg",
+      "pages/auto/img/car/g13-p2/g13-p2-2.jpg",
+      "pages/auto/img/car/g13-p2/g13-p2-3.jpg",
+      "pages/auto/img/car/g13-p2/g13-p2-4.jpg",
+      "pages/auto/img/car/g13-p2/g13-p2-5.jpg",
+      "pages/auto/img/car/g13-p2/g13-p2-6.jpg"
+    ],
+    "caption": "In vacanza l'autista ha sempre un carattere. Il tuo?\n\nSalva e tagga l'autista di famiglia.\n\n#sgommando #auto #vacanza"
+  },
+  {
+    "id": "g13-p3",
+    "day": "G13",
+    "slot": "post3",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/auto/img/s/g13-p3.jpg",
+    "caption": "Il rumore dal tetto. Il sorriso che si spegne.\n\nTagga chi ha dimenticato il bagaglio sul tetto.\n\n#sgommando #auto #vacanza"
+  },
+  {
+    "id": "g13-st",
+    "day": "G13",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/auto/img/st/g13-st.jpg"
+  },
+  {
+    "id": "g14-p1",
+    "day": "G14",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/auto/img/car/g14-p1/g14-p1-1.jpg",
+      "pages/auto/img/car/g14-p1/g14-p1-2.jpg",
+      "pages/auto/img/car/g14-p1/g14-p1-3.jpg",
+      "pages/auto/img/car/g14-p1/g14-p1-4.jpg",
+      "pages/auto/img/car/g14-p1/g14-p1-5.jpg",
+      "pages/auto/img/car/g14-p1/g14-p1-6.jpg"
+    ],
+    "caption": "Il criterio è la reputazione. Quante ne hai sentite?\n\nSalva e mandalo al tuo meccanico.\n\n#sgommando #auto #meccanico"
+  },
+  {
+    "id": "g14-p2",
+    "day": "G14",
+    "slot": "post2",
+    "type": "image",
+    "format": "F04",
+    "image": "pages/auto/img/s/g14-p2.jpg",
+    "caption": "Le due settimane di Sgommando, riassunte dal Meccanico (finto).\n\nMandalo a chi ha un meccanico di fiducia.\n\n#sgommando #auto #meccanico"
+  },
+  {
+    "id": "g14-p3",
+    "day": "G14",
+    "slot": "post3",
+    "type": "image",
+    "format": "F07",
+    "image": "pages/auto/img/s/g14-p3.jpg",
+    "caption": "Il sogno e la realtà. L'auto che hai ti porta ancora al lavoro.\n\nScrivi nei commenti la tua.\n\n#sgommando #auto"
+  },
+  {
+    "id": "g14-st",
+    "day": "G14",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/auto/img/st/g14-st.jpg"
   }
 ]
