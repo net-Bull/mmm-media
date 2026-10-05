@@ -39,3 +39,9 @@ Stato: bozza, ondata 2. Nome scelto da Tony (5 ott 2026). Disponibilità degli h
 - Argomento sensibile sulla sicurezza: ogni post con consigli è verificato e senza incoraggiare rischi.
 - Dati su modelli, norme e record verificati con fonte.
 - Il nome richiama la guida in pista: il tono resta ironico sul motociclista che "ci crede" (il ginocchio che non tocca mai). Niente contenuti che incoraggino la guida al limite su strada pubblica.
+
+## Scelte finali (Tony, 5 ott 2026)
+Se differiscono dalle sezioni sopra, valgono queste.
+- Motto: "In teoria"
+- Logo: curva stradale con uno slider del ginocchio disegnato da noi, con il nome
+- Palette: antracite `#17181C`, rosso corsa `#E63946`, crema `#F4EFE6`

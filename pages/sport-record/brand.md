@@ -36,3 +36,9 @@ I record e i primati cambiano. Ogni post ha nel suo file `fonte:` e `verificato 
 ## Rischi
 - Foto di atleti: restano fuori, la grafica è originale.
 - Precisione dei dati: è il vero rischio di reputazione.
+
+## Scelte finali (Tony, 5 ott 2026)
+Se differiscono dalle sezioni sopra, valgono queste.
+- Motto: "Il record è solo l'inizio"
+- Logo: cronometro stilizzato con il nome
+- Palette: blu notte `#0B1D3A`, oro `#E7B416`, bianco `#FFFFFF`

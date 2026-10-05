@@ -39,3 +39,9 @@ I trailer sono materiale dei distributori, e un repost integrale è un contenuto
 - È la nicchia con più rischio copyright. Strategia: contenuto originale, pochissimo materiale altrui.
 - Spoiler: avvisare nella prima slide.
 - Fatti e date: sempre con fonte.
+
+## Scelte finali (Tony, 5 ott 2026)
+Se differiscono dalle sezioni sopra, valgono queste.
+- Motto: "Un'inquadratura alla volta"
+- Logo: biglietto del cinema con il nome
+- Palette: nero cinema `#0D0D0F`, rosso poltrona `#B3202A`, oro pellicola `#D9A441`

@@ -41,3 +41,9 @@ Stato: bozza, ondata 1. Nome scelto da Tony (5 ott 2026). Disponibilità degli h
 ## Rischi
 - Contenuto molto affollato: la differenziazione sta nei personaggi e nella voce italiana locale.
 - Mai mostrare o consigliare integratori o diete con numeri.
+
+## Scelte finali (Tony, 5 ott 2026)
+Se differiscono dalle sezioni sopra, valgono queste.
+- Motto: "Il lunedì è sacro"
+- Logo: nome in maiuscolo condensato con un manubrio stilizzato al posto della "I"
+- Palette: nero `#0E0E10`, giallo acido `#D7FF1F`, bianco sporco `#F2F2EE`

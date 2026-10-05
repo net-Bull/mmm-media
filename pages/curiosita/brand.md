@@ -36,3 +36,9 @@ Ogni post ha `fonte:` e `verificato il:`. Almeno due fonti indipendenti quando i
 ## Rischi
 - Contenuti falsi molto diffusi: attenzione a "fatti" virali senza fonte.
 - Pubblico meno mirato al funnel: va usata come pagina di volume, non come principale.
+
+## Scelte finali (Tony, 5 ott 2026)
+Se differiscono dalle sezioni sopra, valgono queste.
+- Motto: "Una cosa vera al giorno"
+- Logo: lampadina o lente disegnata da noi, con il nome
+- Palette: crema `#F5F0E6`, blu inchiostro `#14213D`, arancio `#F4A261`

@@ -41,3 +41,9 @@ Stato: bozza, ondata 2. Nome scelto da Tony (5 ott 2026). Disponibilità degli h
 - Dati tecnici e di legge cambiano: verificare.
 - Niente consigli di guida pericolosi o su modifiche non omologate.
 - Il nome richiama le sgommate: il tono resta ironico sul "quasi" (l'auto che non parte, la frizione del vicino). Niente contenuti che mostrino o incoraggino sgommate, drift o gare su strada pubblica.
+
+## Scelte finali (Tony, 5 ott 2026)
+Se differiscono dalle sezioni sopra, valgono queste.
+- Motto: "Più fumo che arrosto"
+- Logo: traccia di gomma nera a forma di S, con il nome accanto
+- Palette: grigio asfalto `#1B1D21`, arancio segnale `#FF6B1A`, bianco `#FFFFFF`

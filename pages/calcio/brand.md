@@ -43,3 +43,9 @@ Stato: bozza, ondata 1. Nome scelto da Tony (5 ott 2026). Disponibilità degli h
 - Foto, stemmi e video partita sono licenziati: restano fuori.
 - Le notizie di mercato sono rapide e a volte false: nessuna notizia non confermata.
 - Mai statistiche a memoria.
+
+## Scelte finali (Tony, 5 ott 2026)
+Se differiscono dalle sezioni sopra, valgono queste.
+- Motto: "Rigore? Ma quando mai"
+- Logo: fischietto e cartellino disegnati da noi accanto al nome
+- Palette: nero lavagna `#16181A`, giallo cartellino `#FFD400`, bianco gesso `#F7F7F2` (il verde prato della sezione Look resta solo come accento opzionale)
