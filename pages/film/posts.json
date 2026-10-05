@@ -1,0 +1,141 @@
+[
+  {
+    "id": "g1-p1",
+    "day": "G1",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F03",
+    "images": [
+      "pages/film/img/car/g1-p1/g1-p1-1.jpg",
+      "pages/film/img/car/g1-p1/g1-p1-2.jpg",
+      "pages/film/img/car/g1-p1/g1-p1-3.jpg",
+      "pages/film/img/car/g1-p1/g1-p1-4.jpg",
+      "pages/film/img/car/g1-p1/g1-p1-5.jpg",
+      "pages/film/img/car/g1-p1/g1-p1-6.jpg"
+    ],
+    "caption": "In sala ce n'è sempre uno per tipo. Tu quale sei?\n\nSalva e tagga chi ti siede accanto.\n\n#fotogrammacult #cinema #film"
+  },
+  {
+    "id": "g1-p2",
+    "day": "G1",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/film/img/car/g1-p2/g1-p2-1.jpg",
+      "pages/film/img/car/g1-p2/g1-p2-2.jpg",
+      "pages/film/img/car/g1-p2/g1-p2-3.jpg",
+      "pages/film/img/car/g1-p2/g1-p2-4.jpg",
+      "pages/film/img/car/g1-p2/g1-p2-5.jpg",
+      "pages/film/img/car/g1-p2/g1-p2-6.jpg"
+    ],
+    "caption": "Il criterio è dichiarato: durata. Cinque classici che tutti hanno iniziato e quasi tutti hanno sospeso a metà. (Le durate cambiano a seconda dell'edizione: qui le più citate.)\n\nSalva e scrivi nei commenti quale hai davvero finito.\n\nFonte: Rolling Stone Italia; Cinefilos. Verificato il 5 ottobre 2026.\n\n#fotogrammacult #cinema #classici",
+    "fonte": "Rolling Stone Italia, 'Non avete scuse: 12 film lunghissimi da vedere adesso o mai più'; Il Post, 'Dove sono finiti i film sotto le due ore?' (15 aprile 2026); durate indicate: Via col vento 3h58, C'era una volta in America (versione europea) 3h49, Lawrence d'Arabia 3h42, Il Gattopardo 3h25, Titanic 3h15",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g1-p3",
+    "day": "G1",
+    "slot": "post3",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/film/img/s/g1-p3.jpg",
+    "caption": "Un film solo? Impossibile. Ne servono almeno quattro, in ordine di priorità.\n\nTagga chi consiglia film a raffica.\n\n#fotogrammacult #cinema #film"
+  },
+  {
+    "id": "g1-st",
+    "day": "G1",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/film/img/st/g1-st.jpg"
+  },
+  {
+    "id": "g2-p1",
+    "day": "G2",
+    "slot": "post1",
+    "type": "image",
+    "format": "F02",
+    "image": "pages/film/img/s/g2-p1.jpg",
+    "caption": "Sai già quale scena. E sai già quando la citerà.\n\nTagga chi cita sempre la stessa scena.\n\n#fotogrammacult #cinema #film"
+  },
+  {
+    "id": "g2-p2",
+    "day": "G2",
+    "slot": "post2",
+    "type": "image",
+    "format": "F06",
+    "image": "pages/film/img/s/g2-p2.jpg",
+    "caption": "Lo squalo si vede pochissimo perché lo squalo meccanico si guastava in mare: l'acqua salata rovinava cavi e idraulica. Così il regista ha costruito la paura sul non vedere.\n\nSalva e mandalo a chi ha rivisto il film una decina di volte.\n\nFonte: Tom's Guide; Bold Entrance; Syfy. Verificato il 5 ottobre 2026.\n\n#fotogrammacult #cinema #curiosita",
+    "fonte": "Tom's Guide, 'Jaws 50th anniversary: how everything going wrong made the film a classic'; Bold Entrance, 'Remembering Bruce, the malfunctioning animatronic shark'; Syfy (tre squali meccanici, corrosione da acqua salata, riprese a Martha's Vineyard)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g2-p3",
+    "day": "G2",
+    "slot": "post3",
+    "type": "image",
+    "format": "F07",
+    "image": "pages/film/img/s/g2-p3.jpg",
+    "caption": "Il vecchio duello. Nessun vincitore, solo tanti commenti.\n\nScrivi nei commenti da che parte stai.\n\n#fotogrammacult #cinema #libri"
+  },
+  {
+    "id": "g2-st",
+    "day": "G2",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/film/img/st/g2-st.jpg"
+  },
+  {
+    "id": "g3-p1",
+    "day": "G3",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/film/img/car/g3-p1/g3-p1-1.jpg",
+      "pages/film/img/car/g3-p1/g3-p1-2.jpg",
+      "pages/film/img/car/g3-p1/g3-p1-3.jpg",
+      "pages/film/img/car/g3-p1/g3-p1-4.jpg",
+      "pages/film/img/car/g3-p1/g3-p1-5.jpg",
+      "pages/film/img/car/g3-p1/g3-p1-6.jpg"
+    ],
+    "caption": "Bastano due note. Il criterio è nostro: quelle che riconosci subito, senza sentirle.\n\nSalva e scrivi nei commenti quale manca.\n\n#fotogrammacult #cinema #colonnesonore"
+  },
+  {
+    "id": "g3-p2",
+    "day": "G3",
+    "slot": "post2",
+    "type": "image",
+    "format": "F04",
+    "image": "pages/film/img/s/g3-p2.jpg",
+    "caption": "Scegliere il film della serata è già un film. E dura più di due ore.\n\nMandalo al tuo gruppo.\n\n#fotogrammacult #cinema #film"
+  },
+  {
+    "id": "g3-p3",
+    "day": "G3",
+    "slot": "post3",
+    "type": "carousel",
+    "format": "F09",
+    "images": [
+      "pages/film/img/car/g3-p3/g3-p3-1.jpg",
+      "pages/film/img/car/g3-p3/g3-p3-2.jpg",
+      "pages/film/img/car/g3-p3/g3-p3-3.jpg",
+      "pages/film/img/car/g3-p3/g3-p3-4.jpg",
+      "pages/film/img/car/g3-p3/g3-p3-5.jpg",
+      "pages/film/img/car/g3-p3/g3-p3-6.jpg"
+    ],
+    "caption": "Un incontro di boxe visto in tv, tre giorni e mezzo di scrittura e un rifiuto da 275.000 dollari: così nasce Rocky.\n\nSalva e mandalo a chi sale ancora le scale a due a due.\n\nFonte: AFI Catalog; No Film School; Cinema Scholars. Verificato il 5 ottobre 2026.\n\n#fotogrammacult #cinema #rocky",
+    "fonte": "AFI Catalog, 'Rocky (1976)'; No Film School, 'How Sylvester Stallone fought to keep the Rocky script from being sold without him'; Cinema Scholars, 'Rocky (1976): still the champ fifty years later' (incontro Ali-Wepner 24 marzo 1975; scrittura in 3,5 giorni; offerta fino a 275.000 dollari; budget 1.075.000 dollari)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g3-st",
+    "day": "G3",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/film/img/st/g3-st.jpg"
+  }
+]
