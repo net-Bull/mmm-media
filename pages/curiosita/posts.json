@@ -154,5 +154,580 @@
     "type": "story",
     "format": "F10",
     "image": "pages/curiosita/img/st/g3-st.jpg"
+  },
+  {
+    "id": "g4-p1",
+    "day": "G4",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F09",
+    "images": [
+      "pages/curiosita/img/car/g4-p1/g4-p1-1.jpg",
+      "pages/curiosita/img/car/g4-p1/g4-p1-2.jpg",
+      "pages/curiosita/img/car/g4-p1/g4-p1-3.jpg",
+      "pages/curiosita/img/car/g4-p1/g4-p1-4.jpg",
+      "pages/curiosita/img/car/g4-p1/g4-p1-5.jpg",
+      "pages/curiosita/img/car/g4-p1/g4-p1-6.jpg"
+    ],
+    "caption": "La Luna si allontana dalla Terra di circa 3,8 cm all'anno: lo misuriamo con laser puntati sui riflettori lasciati dalle missioni lunari, il primo con l'Apollo 11 nel 1969.\n\nSalva e mandalo a chi guarda la Luna.\n\nFonte: Wikipedia (Lunar distance); Cambridge Blog; Futura Sciences. Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #spazio",
+    "fonte": "Wikipedia, 'Lunar distance' (distanza media 384.400 km; recessione 3,8 cm/anno da Lunar Laser Ranging); Cambridge Blog, 'A mirror on the Moon: 50th anniversary of Apollo 11' (retroriflettori, 1969)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g4-p2",
+    "day": "G4",
+    "slot": "post2",
+    "type": "image",
+    "format": "F06",
+    "image": "pages/curiosita/img/s/g4-p2.jpg",
+    "caption": "La luce che vedi dal Sole è partita circa 8 minuti e 20 secondi fa.\n\nSalva e mandalo a chi guarda il tramonto.\n\nFonte: Smithsonian (How Things Fly); Universe Today; HyperPhysics. Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #sole",
+    "fonte": "Smithsonian National Air and Space Museum, 'How long does it take light from the Sun to get to Earth?'; Universe Today, 'How long does it take sunlight to reach the Earth'; HyperPhysics (Georgia State University), 'The Sun'",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g4-p3",
+    "day": "G4",
+    "slot": "post3",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/curiosita/img/car/g4-p3/g4-p3-1.jpg",
+      "pages/curiosita/img/car/g4-p3/g4-p3-2.jpg",
+      "pages/curiosita/img/car/g4-p3/g4-p3-3.jpg",
+      "pages/curiosita/img/car/g4-p3/g4-p3-4.jpg",
+      "pages/curiosita/img/car/g4-p3/g4-p3-5.jpg",
+      "pages/curiosita/img/car/g4-p3/g4-p3-6.jpg"
+    ],
+    "caption": "Cinque invenzioni italiane, dalla più antica alla più recente. Le attribuzioni sono quelle tradizionali.\n\nSalva e scrivi nei commenti quale manca.\n\nFonte: Wanted in Rome; Rustic Pathways; Essential Italy. Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #italia",
+    "fonte": "Wanted in Rome, 'The top 10 Italian inventions'; Rustic Pathways, 'The 27 best Italian inventions'; Essential Italy, 'Life-changing Italian inventions' (occhiali circa 1286; pianoforte circa 1700; pila 1799; macchina espresso 1884; radio 1895)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g4-st",
+    "day": "G4",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/curiosita/img/st/g4-st.jpg"
+  },
+  {
+    "id": "g5-p1",
+    "day": "G5",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F09",
+    "images": [
+      "pages/curiosita/img/car/g5-p1/g5-p1-1.jpg",
+      "pages/curiosita/img/car/g5-p1/g5-p1-2.jpg",
+      "pages/curiosita/img/car/g5-p1/g5-p1-3.jpg",
+      "pages/curiosita/img/car/g5-p1/g5-p1-4.jpg",
+      "pages/curiosita/img/car/g5-p1/g5-p1-5.jpg",
+      "pages/curiosita/img/car/g5-p1/g5-p1-6.jpg"
+    ],
+    "caption": "Il Colosseo in quattro numeri: inaugurato nell'80 d.C., circa 50.000 spettatori, 189 x 156 metri, quattro piani.\n\nSalva e mandalo a chi non c'è mai stato.\n\nFonte: World History Encyclopedia; Skuola.net; Museionline. Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #roma",
+    "fonte": "World History Encyclopedia, 'Colosseo'; Skuola.net, appunti sul Colosseo; Museionline, 'Anfiteatro Flavio (Colosseo)' (inaugurazione 80 d.C. con Tito; capienza stimata 50.000; 189 x 156 m; quattro piani)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g5-p2",
+    "day": "G5",
+    "slot": "post2",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/curiosita/img/s/g5-p2.jpg",
+    "caption": "Si dice che sia l'unica opera umana visibile dallo spazio. Ma da un'orbita bassa, a occhio nudo, non si vede: è larga solo circa 6 metri.\n\nTagga chi ci ha creduto.\n\nFonte: Sky at Night Magazine; Ripley's; Lenz. Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #mito",
+    "fonte": "Sky at Night Magazine, 'Can you see the Great Wall of China from space?'; Ripley's, 'Space myth'; testimonianze degli astronauti Yang Liwei e Chris Hadfield (non visibile a occhio nudo dall'orbita bassa)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g5-p3",
+    "day": "G5",
+    "slot": "post3",
+    "type": "carousel",
+    "format": "F08",
+    "images": [
+      "pages/curiosita/img/car/g5-p3/g5-p3-1.jpg",
+      "pages/curiosita/img/car/g5-p3/g5-p3-2.jpg"
+    ],
+    "caption": "Mito: i pipistrelli sono ciechi. Realtà: vedono, e molte specie usano anche l'ecolocalizzazione per orientarsi al buio.\n\nSalva e mandalo a chi li teme.\n\nFonte: Geopop; Focus Junior; Sky TG24. Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #animali",
+    "fonte": "Geopop, 'Come funziona il sonar dei pipistrelli'; Focus Junior, pipistrelli; Sky TG24, 'Giornata internazionale pipistrelli, ecco i falsi miti da sfatare'",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g5-st",
+    "day": "G5",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/curiosita/img/st/g5-st.jpg"
+  },
+  {
+    "id": "g6-p1",
+    "day": "G6",
+    "slot": "post1",
+    "type": "image",
+    "format": "F06",
+    "image": "pages/curiosita/img/s/g6-p1.jpg",
+    "caption": "Conta i secondi tra il lampo e il tuono e dividi per 3: ottieni la distanza del temporale in chilometri. Se senti il tuono, entra al chiuso.\n\nSalva e mandalo a chi ha paura dei temporali.\n\nFonte: NOAA; Hong Kong Observatory; University of Waikato. Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #meteo",
+    "fonte": "NOAA, 'Lightning safety' (node 10809); Hong Kong Observatory, 'Why does lightning always come before thunder'; University of Waikato, Physics Stop (suono circa 340 m/s: 3 secondi per chilometro)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g6-p2",
+    "day": "G6",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F09",
+    "images": [
+      "pages/curiosita/img/car/g6-p2/g6-p2-1.jpg",
+      "pages/curiosita/img/car/g6-p2/g6-p2-2.jpg",
+      "pages/curiosita/img/car/g6-p2/g6-p2-3.jpg",
+      "pages/curiosita/img/car/g6-p2/g6-p2-4.jpg",
+      "pages/curiosita/img/car/g6-p2/g6-p2-5.jpg",
+      "pages/curiosita/img/car/g6-p2/g6-p2-6.jpg"
+    ],
+    "caption": "Un comune italiano completamente circondato dalla Svizzera: Campione d'Italia, exclave sul lago di Lugano, con un casinò aperto nel 1917.\n\nSalva e mandalo a chi ama le curiosità geografiche.\n\nFonte: Geopop; Swissinfo; Dizionario storico della Svizzera. Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #italia",
+    "fonte": "Geopop, 'Perché Campione d'Italia è un comune italiano anche se si trova in Svizzera'; Swissinfo, 'Un pezzo d'Italia con la Svizzera attorno'; Dizionario storico della Svizzera, 'Campione d'Italia' (exclave, feudo milanese, Campoformido 1797, casinò 1917)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g6-p3",
+    "day": "G6",
+    "slot": "post3",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/curiosita/img/car/g6-p3/g6-p3-1.jpg",
+      "pages/curiosita/img/car/g6-p3/g6-p3-2.jpg",
+      "pages/curiosita/img/car/g6-p3/g6-p3-3.jpg",
+      "pages/curiosita/img/car/g6-p3/g6-p3-4.jpg",
+      "pages/curiosita/img/car/g6-p3/g6-p3-5.jpg"
+    ],
+    "caption": "Quattro record della natura. Il criterio è nostro: i numeri più grandi che puoi verificare.\n\nSalva e scrivi nei commenti quale ti sorprende.\n\nFonte: Montagna.tv; Siviaggia; Focus Junior. Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #natura",
+    "fonte": "Montagna.tv, 'Qual è il monte più alto del mondo' (Everest 8.848,86 m, misura Cina-Nepal 2020); Siviaggia, 'Luoghi da record: i più estremi del mondo'; Focus Junior (Challenger Deep circa 10.924 m; lago Baikal 1.642 m; Salto Angel 979 m)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g6-st",
+    "day": "G6",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/curiosita/img/st/g6-st.jpg"
+  },
+  {
+    "id": "g7-p1",
+    "day": "G7",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F09",
+    "images": [
+      "pages/curiosita/img/car/g7-p1/g7-p1-1.jpg",
+      "pages/curiosita/img/car/g7-p1/g7-p1-2.jpg",
+      "pages/curiosita/img/car/g7-p1/g7-p1-3.jpg",
+      "pages/curiosita/img/car/g7-p1/g7-p1-4.jpg",
+      "pages/curiosita/img/car/g7-p1/g7-p1-5.jpg",
+      "pages/curiosita/img/car/g7-p1/g7-p1-6.jpg"
+    ],
+    "caption": "La cerniera lampo nasce nel 1893 con Whitcomb Judson, ma la versione moderna è di Gideon Sundback, nel 1913. I primi ordini vengono dall'esercito americano.\n\nSalva e mandalo a chi ha una zip rotta.\n\nFonte: Il Post; Focus; Hagley Museum. Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #oggetti",
+    "fonte": "Il Post, 'Zip storia YKK' (2016); Focus, 'Quando fu inventata la cerniera lampo'; Hagley Museum (Judson 1893; Sundback 1913; primi ordini dall'esercito americano)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g7-p2",
+    "day": "G7",
+    "slot": "post2",
+    "type": "image",
+    "format": "F07",
+    "image": "pages/curiosita/img/s/g7-p2.jpg",
+    "caption": "Cleopatra visse più vicina nel tempo allo sbarco sulla Luna (1969) che alla costruzione della Grande Piramide (circa 2560 a.C.).\n\nScrivi nei commenti cosa ti ha sorpreso.\n\nFonte: WorldAtlas; Lenz; ScienceBlog. Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #storia",
+    "fonte": "WorldAtlas, 'Did Cleopatra really live closer in time to the first lunar landing than the Great Pyramids?'; Lenz, claim analysis; ScienceBlog (Grande Piramide circa 2560 a.C.; Cleopatra circa 30 a.C.; sbarco sulla Luna 1969)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g7-p3",
+    "day": "G7",
+    "slot": "post3",
+    "type": "image",
+    "format": "F06",
+    "image": "pages/curiosita/img/s/g7-p3.jpg",
+    "caption": "Per una forma di Parmigiano Reggiano servono circa 550 litri di latte (le fonti indicano tra 520 e 550) e almeno 12 mesi di stagionatura.\n\nSalva e mandalo a chi lo grattugia sulla pasta.\n\nFonte: Consorzio del Parmigiano Reggiano; Dissapore; Turismo Mantova. Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #cibo",
+    "fonte": "Consorzio del Parmigiano Reggiano, disciplinare e linee guida 2025; Dissapore, 'Guida completa al Parmigiano Reggiano'; Turismo Mantova, 'Parmigiano Reggiano DOP' (circa 520-550 litri di latte per forma; stagionatura minima 12 mesi)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g7-st",
+    "day": "G7",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/curiosita/img/st/g7-st.jpg"
+  },
+  {
+    "id": "g8-p1",
+    "day": "G8",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F08",
+    "images": [
+      "pages/curiosita/img/car/g8-p1/g8-p1-1.jpg",
+      "pages/curiosita/img/car/g8-p1/g8-p1-2.jpg"
+    ],
+    "caption": "Mito: chiudere le app in background fa risparmiare batteria. Realtà: Apple e Google dicono che di solito non serve, e riaprirle da zero richiede più energia.\n\nSalva e mandalo a chi chiude tutto di continuo.\n\nFonte: Geopop; iPhone Italia; TuttoAndroid. Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #tecnologia",
+    "fonte": "Geopop, 'È vero che bisogna chiudere le app aperte sul cellulare per risparmiare batteria?'; iPhone Italia, 'Craig Federighi chiarisce: chiudere le app in multitasking è inutile'; TuttoAndroid",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g8-p2",
+    "day": "G8",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F09",
+    "images": [
+      "pages/curiosita/img/car/g8-p2/g8-p2-1.jpg",
+      "pages/curiosita/img/car/g8-p2/g8-p2-2.jpg",
+      "pages/curiosita/img/car/g8-p2/g8-p2-3.jpg",
+      "pages/curiosita/img/car/g8-p2/g8-p2-4.jpg",
+      "pages/curiosita/img/car/g8-p2/g8-p2-5.jpg",
+      "pages/curiosita/img/car/g8-p2/g8-p2-6.jpg"
+    ],
+    "caption": "Il 3 dicembre 1992 Neil Papworth invia il primo SMS: due parole, \"Merry Christmas\", al telefono di un dirigente Vodafone.\n\nSalva e mandalo a chi scrive ancora SMS.\n\nFonte: History.com; Vodafone; Android Authority. Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #tecnologia",
+    "fonte": "History.com, 'First SMS text message sent'; Vodafone UK, 'Merry Christmas: the 30th anniversary of the first text message'; Android Authority, 'First SMS text message'",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g8-p3",
+    "day": "G8",
+    "slot": "post3",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/curiosita/img/car/g8-p3/g8-p3-1.jpg",
+      "pages/curiosita/img/car/g8-p3/g8-p3-2.jpg",
+      "pages/curiosita/img/car/g8-p3/g8-p3-3.jpg",
+      "pages/curiosita/img/car/g8-p3/g8-p3-4.jpg"
+    ],
+    "caption": "Tre città, tre record. Il criterio è nostro: i più curiosi che puoi verificare.\n\nSalva e scrivi nei commenti la tua città da record.\n\nFonte: WorldAtlas; Amusing Planet; New World Encyclopedia. Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #citta",
+    "fonte": "WorldAtlas, 'National capital cities in Europe' (Reykjavík capitale più a nord); Amusing Planet, 'Istanbul, the city that lies in two continents'; New World Encyclopedia, 'Istanbul'; Roma contiene la Città del Vaticano (enclave)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g8-st",
+    "day": "G8",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/curiosita/img/st/g8-st.jpg"
+  },
+  {
+    "id": "g9-p1",
+    "day": "G9",
+    "slot": "post1",
+    "type": "image",
+    "format": "F06",
+    "image": "pages/curiosita/img/s/g9-p1.jpg",
+    "caption": "Nel 1582 il calendario gregoriano fece saltare dieci giorni: dopo il 4 ottobre venne il 15 ottobre.\n\nSalva e mandalo a chi ha il compleanno in quei giorni.\n\nFonte: Il Post; Focus. Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #calendario",
+    "fonte": "Il Post, 'Quando entrò in vigore il calendario gregoriano' (4 ottobre 2016); Focus, 'Il calendario gregoriano ha 434 anni' (giovedì 4 ottobre 1582, poi venerdì 15 ottobre; scarto di 10 giorni rispetto al giuliano)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g9-p2",
+    "day": "G9",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F09",
+    "images": [
+      "pages/curiosita/img/car/g9-p2/g9-p2-1.jpg",
+      "pages/curiosita/img/car/g9-p2/g9-p2-2.jpg",
+      "pages/curiosita/img/car/g9-p2/g9-p2-3.jpg",
+      "pages/curiosita/img/car/g9-p2/g9-p2-4.jpg",
+      "pages/curiosita/img/car/g9-p2/g9-p2-5.jpg",
+      "pages/curiosita/img/car/g9-p2/g9-p2-6.jpg"
+    ],
+    "caption": "Nel marzo del 960, a Capua, una sentenza riporta la frase \"Sao ko kelle terre...\": è considerata l'atto di nascita dell'italiano scritto.\n\nSalva e mandalo a chi ama la lingua.\n\nFonte: Finestre sull'Arte; Sololibri; Touring Club. Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #lingua",
+    "fonte": "Finestre sull'Arte, 'Sao ko kelle terre: alle origini dell'italiano, il Placito di Capua'; Sololibri, 'Cos'è il Placito Capuano'; Touring Club, 'Capua città della lingua italiana' (Placito capuano, marzo 960)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g9-p3",
+    "day": "G9",
+    "slot": "post3",
+    "type": "image",
+    "format": "F07",
+    "image": "pages/curiosita/img/s/g9-p3.jpg",
+    "caption": "La balenottera azzurra è il più grande animale mai esistito: in media 24-30 metri e fino a circa 150 tonnellate. L'elefante africano è il più grande animale terrestre: fino a circa 6 tonnellate.\n\nScrivi nei commenti il tuo animale preferito.\n\nFonte: Wikipedia (Largest and heaviest animals); UC Davis; Scholastic. Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #animali",
+    "fonte": "Wikipedia, 'Largest and heaviest animals'; UC Davis, 'World's biggest animal on earth'; Scholastic, 'Giants of the earth' (balenottera azzurra 24-30 m, 100-150 t; elefante africano circa 13 piedi alla spalla, fino a 6 t)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g9-st",
+    "day": "G9",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/curiosita/img/st/g9-st.jpg"
+  },
+  {
+    "id": "g10-p1",
+    "day": "G10",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F09",
+    "images": [
+      "pages/curiosita/img/car/g10-p1/g10-p1-1.jpg",
+      "pages/curiosita/img/car/g10-p1/g10-p1-2.jpg",
+      "pages/curiosita/img/car/g10-p1/g10-p1-3.jpg",
+      "pages/curiosita/img/car/g10-p1/g10-p1-4.jpg",
+      "pages/curiosita/img/car/g10-p1/g10-p1-5.jpg",
+      "pages/curiosita/img/car/g10-p1/g10-p1-6.jpg"
+    ],
+    "caption": "Nel 1928 una piastra di Petri contaminata dalla muffa mostra a Fleming che i batteri vicini muoiono: nasce la scoperta della penicillina.\n\nSalva e mandalo a chi ama le storie di scienza.\n\nFonte: Pharmacy Times; Highbrow; Sigmalive. Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #scienza",
+    "fonte": "Pharmacy Times, 'Alexander Fleming and the discovery of penicillin'; Highbrow, 'Discovery of penicillin, 1928'; Sigmalive, 'On this day: Alexander Fleming discovers penicillin (1928)'",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g10-p2",
+    "day": "G10",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/curiosita/img/car/g10-p2/g10-p2-1.jpg",
+      "pages/curiosita/img/car/g10-p2/g10-p2-2.jpg",
+      "pages/curiosita/img/car/g10-p2/g10-p2-3.jpg",
+      "pages/curiosita/img/car/g10-p2/g10-p2-4.jpg",
+      "pages/curiosita/img/car/g10-p2/g10-p2-5.jpg"
+    ],
+    "caption": "Quattro strumenti che sembrano moderni e hanno secoli. Il criterio è la data: dal più antico.\n\nSalva e scrivi nei commenti quello che ti ha sorpreso.\n\nFonte: Focus Junior; Geopop; Essential Italy. Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #storia",
+    "fonte": "Focus Junior, 'Occhiali: una storia tutta da leggere'; Geopop, '13 invenzioni che hanno cambiato la storia degli ultimi 600 anni'; Essential Italy (carta Cai Lun 105 d.C.; bussola circa 1040; orologi meccanici XIII secolo; occhiali circa 1286)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g10-p3",
+    "day": "G10",
+    "slot": "post3",
+    "type": "carousel",
+    "format": "F08",
+    "images": [
+      "pages/curiosita/img/car/g10-p3/g10-p3-1.jpg",
+      "pages/curiosita/img/car/g10-p3/g10-p3-2.jpg"
+    ],
+    "caption": "Mito: usiamo solo il 10% del cervello. Realtà: le neuroscienze mostrano che quasi tutto il cervello è attivo nelle 24 ore. Pesa circa il 3% del corpo e usa circa il 20% dell'energia.\n\nSalva e mandalo a chi ci crede ancora.\n\nFonte: Geopop; Focus; Il Post. Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #cervello",
+    "fonte": "Geopop, 'Ma è vero che sfruttiamo solo il 10% del nostro cervello?'; Focus, 'Il falso mito che vorrebbe che usiamo solo il 10% del nostro cervello'; Il Post, 'Come usare più del 10 per cento del cervello' (2014)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g10-st",
+    "day": "G10",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/curiosita/img/st/g10-st.jpg"
+  },
+  {
+    "id": "g11-p1",
+    "day": "G11",
+    "slot": "post1",
+    "type": "image",
+    "format": "F06",
+    "image": "pages/curiosita/img/s/g11-p1.jpg",
+    "caption": "La Gioconda misura 77 x 53 cm: olio su tavola di pioppo, dipinta intorno al 1503-1506 e oggi al Louvre. Più piccola di come te la immagini.\n\nSalva e mandalo a chi l'ha vista dal vivo.\n\nFonte: Libreriamo; Studenti.it; Fondazione Zeri. Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #arte",
+    "fonte": "Libreriamo, '5 curiosità sulla Gioconda'; Studenti.it, 'La Gioconda: storia, descrizione e significato'; Fondazione Zeri, scheda 'Ritratto di Monna Lisa' (77 x 53 cm; olio su tavola di pioppo; 1503-1506 circa; Louvre)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g11-p2",
+    "day": "G11",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F09",
+    "images": [
+      "pages/curiosita/img/car/g11-p2/g11-p2-1.jpg",
+      "pages/curiosita/img/car/g11-p2/g11-p2-2.jpg",
+      "pages/curiosita/img/car/g11-p2/g11-p2-3.jpg",
+      "pages/curiosita/img/car/g11-p2/g11-p2-4.jpg",
+      "pages/curiosita/img/car/g11-p2/g11-p2-5.jpg",
+      "pages/curiosita/img/car/g11-p2/g11-p2-6.jpg"
+    ],
+    "caption": "Pompei e il Vesuvio: per secoli si è detto il 24 agosto del 79 d.C. Nel 2018 un'iscrizione a carboncino ha riaperto il dibattito sull'ottobre. Uno studio del 2024 conferma la data di Plinio, agosto.\n\nSalva e mandalo a chi ama la storia.\n\nFonte: LaPresse; Finestre sull'Arte; Parco archeologico di Pompei. Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #storia",
+    "fonte": "LaPresse, 'Pompei, uno studio conferma la versione di Plinio: ecco la data dell'eruzione' (12 dicembre 2024); Finestre sull'Arte, 'Zuchtriegel riapre il dibattito sull'eruzione di Pompei: agosto oppure ottobre?'; Parco archeologico di Pompei, E-Journal degli Scavi, 'La data della distruzione di Pompei'",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g11-p3",
+    "day": "G11",
+    "slot": "post3",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/curiosita/img/s/g11-p3.jpg",
+    "caption": "Nel romanzo di Mary Shelley del 1818, Frankenstein è Victor, lo scienziato. Il mostro non ha un nome.\n\nTagga chi ha sempre sbagliato.\n\nFonte: WorldCat; Wikipedia (Frankenstein). Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #libri",
+    "fonte": "WorldCat, 'Frankenstein; or, The Modern Prometheus' (1818); Wikipedia, 'Frankenstein' (Victor Frankenstein è lo scienziato; la creatura non ha un nome nel romanzo)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g11-st",
+    "day": "G11",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/curiosita/img/st/g11-st.jpg"
+  },
+  {
+    "id": "g12-p1",
+    "day": "G12",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F09",
+    "images": [
+      "pages/curiosita/img/car/g12-p1/g12-p1-1.jpg",
+      "pages/curiosita/img/car/g12-p1/g12-p1-2.jpg",
+      "pages/curiosita/img/car/g12-p1/g12-p1-3.jpg",
+      "pages/curiosita/img/car/g12-p1/g12-p1-4.jpg",
+      "pages/curiosita/img/car/g12-p1/g12-p1-5.jpg",
+      "pages/curiosita/img/car/g12-p1/g12-p1-6.jpg"
+    ],
+    "caption": "Le api comunicano dove trovare il cibo con una danza a otto: l'angolo indica la direzione rispetto al Sole. Karl von Frisch lo ha scoperto e nel 1973 ha vinto il Nobel.\n\nSalva e mandalo a chi ama la natura.\n\nFonte: Nobel Prize; Linda Hall Library; New World Encyclopedia. Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #natura",
+    "fonte": "NobelPrize.org, comunicato 1973 (Medicina); Linda Hall Library, 'Karl von Frisch'; New World Encyclopedia, 'Karl von Frisch' (waggle dance: direzione rispetto al Sole, distanza)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g12-p2",
+    "day": "G12",
+    "slot": "post2",
+    "type": "image",
+    "format": "F07",
+    "image": "pages/curiosita/img/s/g12-p2.jpg",
+    "caption": "Secondo le Nazioni Unite, nel 1804 eravamo un miliardo. Il 15 novembre 2022 siamo arrivati a otto miliardi.\n\nSalva e mandalo a chi ama i numeri.\n\nFonte: Nazioni Unite (UN DESA); Population Education. Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #numeri",
+    "fonte": "UN DESA, Policy Brief No. 140 'A world of 8 billion'; Population Education, 'When will the world population reach 8 billion?' (1 miliardo nel 1804; 8 miliardi il 15 novembre 2022)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g12-p3",
+    "day": "G12",
+    "slot": "post3",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/curiosita/img/car/g12-p3/g12-p3-1.jpg",
+      "pages/curiosita/img/car/g12-p3/g12-p3-2.jpg",
+      "pages/curiosita/img/car/g12-p3/g12-p3-3.jpg",
+      "pages/curiosita/img/car/g12-p3/g12-p3-4.jpg",
+      "pages/curiosita/img/car/g12-p3/g12-p3-5.jpg"
+    ],
+    "caption": "Quattro fatti sull'Italia che pochi conoscono. Il criterio è nostro: curiosità che si possono verificare.\n\nSalva e scrivi nei commenti il tuo.\n\nFonte: geopop.it; L'Indipendente; Wikipedia (Mount Etna); Swissinfo. Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #italia",
+    "fonte": "geopop.it, 'La classifica dei 10 paesi con più siti UNESCO'; L'Indipendente (15 dicembre 2025); Wikipedia, 'Mount Etna' (3.369 m nel luglio 2024); Swissinfo, 'Un pezzo d'Italia con la Svizzera attorno'; Vaticano e San Marino sono Stati enclavati nel territorio italiano",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g12-st",
+    "day": "G12",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/curiosita/img/st/g12-st.jpg"
+  },
+  {
+    "id": "g13-p1",
+    "day": "G13",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F08",
+    "images": [
+      "pages/curiosita/img/car/g13-p1/g13-p1-1.jpg",
+      "pages/curiosita/img/car/g13-p1/g13-p1-2.jpg"
+    ],
+    "caption": "Mito: il vetro è un liquido che scorre. Realtà: è un solido amorfo. Le finestre antiche più spesse in basso erano irregolari fin dalla produzione.\n\nSalva e mandalo a chi lo ripete.\n\nFonte: Focus; Il Post; CORDIS. Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #scienza",
+    "fonte": "Focus, 'È vero che il vetro è un liquido?'; Il Post, 'Fatichiamo ancora a spiegarci il vetro' (30 agosto 2023); CORDIS, 'A new clue in the glass puzzle'",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g13-p2",
+    "day": "G13",
+    "slot": "post2",
+    "type": "image",
+    "format": "F06",
+    "image": "pages/curiosita/img/s/g13-p2.jpg",
+    "caption": "Il diametro del Sole è circa 109 volte quello della Terra: circa 1,39 milioni di km contro circa 12.700.\n\nSalva e mandalo a chi pensa che la Terra sia grande.\n\nFonte: HyperPhysics; Highpoint Scientific; Universe Today. Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #spazio",
+    "fonte": "HyperPhysics (Georgia State University), 'The Sun' (diametro 1,39 milioni di km, circa 109 volte la Terra); Highpoint Scientific, 'Understanding the scale of the Sun'; Universe Today",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g13-p3",
+    "day": "G13",
+    "slot": "post3",
+    "type": "carousel",
+    "format": "F09",
+    "images": [
+      "pages/curiosita/img/car/g13-p3/g13-p3-1.jpg",
+      "pages/curiosita/img/car/g13-p3/g13-p3-2.jpg",
+      "pages/curiosita/img/car/g13-p3/g13-p3-3.jpg",
+      "pages/curiosita/img/car/g13-p3/g13-p3-4.jpg",
+      "pages/curiosita/img/car/g13-p3/g13-p3-5.jpg",
+      "pages/curiosita/img/car/g13-p3/g13-p3-6.jpg"
+    ],
+    "caption": "L'8 novembre 1895 Röntgen scopre i raggi X per caso. Nel dicembre di quell'anno scatta la prima radiografia e nel 1901 vince il primo Nobel per la fisica.\n\nSalva e mandalo a chi ama la storia della scienza.\n\nFonte: Il Post; Geopop; Sky TG24. Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #scienza",
+    "fonte": "Il Post, 'La scoperta dei raggi X, 120 anni fa' (8 novembre 2015); Geopop, '150 anni fa furono scoperti i raggi X'; Sky TG24, 'Centoventidue anni fa la scoperta dei Raggi X' (8 novembre 1895; radiografia della mano della moglie a dicembre 1895; Nobel 1901)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g13-st",
+    "day": "G13",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/curiosita/img/st/g13-st.jpg"
+  },
+  {
+    "id": "g14-p1",
+    "day": "G14",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/curiosita/img/car/g14-p1/g14-p1-1.jpg",
+      "pages/curiosita/img/car/g14-p1/g14-p1-2.jpg",
+      "pages/curiosita/img/car/g14-p1/g14-p1-3.jpg",
+      "pages/curiosita/img/car/g14-p1/g14-p1-4.jpg",
+      "pages/curiosita/img/car/g14-p1/g14-p1-5.jpg",
+      "pages/curiosita/img/car/g14-p1/g14-p1-6.jpg"
+    ],
+    "caption": "I cinque fatti che ci sono piaciuti di più in queste due settimane. Il criterio è nostro: sono quelli che ci hanno sorpreso.\n\nSalva e scrivi nei commenti il tuo.\n\nFonte: Case Western Reserve University; geopop.it; Libreriamo; Il Post. Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #riepilogo",
+    "fonte": "Fonti dei singoli fatti: Case Western Reserve University (ossa); calcolo 10^9 s = 31,7 anni; geopop.it (UNESCO); Libreriamo e Il Post (ciao); Il Post (Napoleone), come nei post dei giorni G1-G3",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g14-p2",
+    "day": "G14",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F09",
+    "images": [
+      "pages/curiosita/img/car/g14-p2/g14-p2-1.jpg",
+      "pages/curiosita/img/car/g14-p2/g14-p2-2.jpg",
+      "pages/curiosita/img/car/g14-p2/g14-p2-3.jpg",
+      "pages/curiosita/img/car/g14-p2/g14-p2-4.jpg",
+      "pages/curiosita/img/car/g14-p2/g14-p2-5.jpg",
+      "pages/curiosita/img/car/g14-p2/g14-p2-6.jpg"
+    ],
+    "caption": "Un cuore adulto, a riposo, batte da 60 a 100 volte al minuto: circa 100.000 volte al giorno. Nessuna indicazione medica: solo un dato.\n\nSalva e mandalo a chi vuole sapere di più.\n\nFonte: American Heart Association; Willamette Valley Medical Center. Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #corpoumano",
+    "fonte": "American Heart Association (frequenza cardiaca a riposo 60-100 battiti al minuto; circa 100.000 battiti al giorno); Willamette Valley Medical Center, 'It does that? Fun facts about your hard-working heart'",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g14-p3",
+    "day": "G14",
+    "slot": "post3",
+    "type": "image",
+    "format": "F07",
+    "image": "pages/curiosita/img/s/g14-p3.jpg",
+    "caption": "Il fatto più incredibile e il più banale di questi 14 giorni. Il criterio è nostro.\n\nScrivi nei commenti quale scegli.\n\n#sapevatelo #curiosita #riepilogo"
+  },
+  {
+    "id": "g14-st",
+    "day": "G14",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/curiosita/img/st/g14-st.jpg"
   }
 ]
