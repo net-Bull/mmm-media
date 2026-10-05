@@ -1,0 +1,13 @@
+{
+  "name": "Fotogramma Cult",
+  "font_file": "AbrilFatface-Regular.ttf",
+  "font_url": "abrilfatface/AbrilFatface-Regular.ttf",
+  "upper": false,
+  "track": 0.0,
+  "dark": "#0D0D0F",
+  "accent": "#D9A441",
+  "light": "#F3EBD8",
+  "line": "#2A2A2F",
+  "deco": "bar",
+  "pitch": 1.32
+}

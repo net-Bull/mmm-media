@@ -1,0 +1,13 @@
+{
+  "name": "Col Ginocchio a terra",
+  "font_file": "BebasNeue-Regular.ttf",
+  "font_url": "bebasneue/BebasNeue-Regular.ttf",
+  "upper": true,
+  "track": 0.04,
+  "dark": "#17181C",
+  "accent": "#E63946",
+  "light": "#F4EFE6",
+  "line": "#2B2D33",
+  "deco": "bar",
+  "pitch": 1.18
+}

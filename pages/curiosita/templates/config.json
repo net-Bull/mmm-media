@@ -1,0 +1,13 @@
+{
+  "name": "Sapevatelo!",
+  "font_file": "DMSerifDisplay-Regular.ttf",
+  "font_url": "dmserifdisplay/DMSerifDisplay-Regular.ttf",
+  "upper": false,
+  "track": 0.0,
+  "dark": "#14213D",
+  "accent": "#F4A261",
+  "light": "#F5F0E6",
+  "line": "#2A3B63",
+  "deco": "bar",
+  "pitch": 1.32
+}

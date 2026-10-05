@@ -1,0 +1,58 @@
+[
+  {
+    "id": "F01-pov",
+    "format": "F01",
+    "text": "il capogruppo dice «5 minuti e partiamo» e sono passati 40 minuti"
+  },
+  {
+    "id": "F02-tagga",
+    "format": "F02",
+    "text": "chi dice «oggi giro tranquillo» e torna a notte"
+  },
+  {
+    "id": "F03-tipi",
+    "format": "F03",
+    "title": "Tipi di motociclista",
+    "items": [
+      {
+        "name": "Il capogruppo",
+        "joke": "Conosce il tragitto. Solo a modo suo."
+      },
+      {
+        "name": "Quello con il cupolino",
+        "joke": "Aerodinamico anche al bar."
+      },
+      {
+        "name": "Quello del caffè",
+        "joke": "Il giro è una scusa per il cornetto."
+      },
+      {
+        "name": "Quello in ritardo",
+        "joke": "Arriva sempre quando si riparte."
+      }
+    ],
+    "cta": "Tagga il tuo gruppo"
+  },
+  {
+    "id": "F05-classifica",
+    "format": "F05",
+    "title": "Top 4 frasi prima di partire",
+    "items": [
+      "Faccio solo benzina",
+      "Si parte alle otto, non alle otto e dieci",
+      "Il percorso lo conosco",
+      "Non piove, dai"
+    ]
+  },
+  {
+    "id": "F08-mito",
+    "format": "F08",
+    "myth": "In moto basta una giacca qualsiasi",
+    "truth": "Casco, giacca e guanti omologati: il resto è fantasia, e l'asfalto non ci scherza."
+  },
+  {
+    "id": "F10-story",
+    "format": "F10",
+    "question": "Cornetto prima o dopo il giro?"
+  }
+]

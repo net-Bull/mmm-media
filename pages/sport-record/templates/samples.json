@@ -1,0 +1,66 @@
+[
+  {
+    "id": "F01-pov",
+    "format": "F01",
+    "text": "il tuo amico dice «lo batto io, quel record» e non si allena dal 2019"
+  },
+  {
+    "id": "F02-tagga",
+    "format": "F02",
+    "text": "chi dice «l'avrei battuto io» davanti a un record mondiale"
+  },
+  {
+    "id": "F03-tipi",
+    "format": "F03",
+    "title": "Tipi di tifoso di record",
+    "items": [
+      {
+        "name": "Quello dei cronometri",
+        "joke": "Ferma il tempo anche alla cottura della pasta."
+      },
+      {
+        "name": "Quello del «ai miei tempi»",
+        "joke": "Ai suoi tempi si correva scalzi."
+      },
+      {
+        "name": "Quello dei decimali",
+        "joke": "Si commuove per un centesimo."
+      },
+      {
+        "name": "Quello del divano",
+        "joke": "Il record lo batte il telecomando."
+      }
+    ],
+    "cta": "Tagga il tuo tipo di tifoso"
+  },
+  {
+    "id": "F05-classifica",
+    "format": "F05",
+    "title": "Top 4 scuse per non battere un record",
+    "items": [
+      "Il vento era contrario",
+      "Ho dormito male",
+      "La pista era lenta",
+      "Ero un po' freddo"
+    ]
+  },
+  {
+    "id": "F06-stat",
+    "format": "F06",
+    "label": "ESEMPIO — dato da verificare",
+    "value": "00",
+    "text": "Qui va il record verificato, con data e fonte.",
+    "source": "[fonte e data di verifica obbligatorie]"
+  },
+  {
+    "id": "F08-mito",
+    "format": "F08",
+    "myth": "I record durano per sempre",
+    "truth": "I record cadono. Ogni post riporta la data in cui è stato verificato."
+  },
+  {
+    "id": "F10-story",
+    "format": "F10",
+    "question": "Quale record vorresti battere? Sii realista"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "F01-pov",
+    "format": "F01",
+    "text": "tutti ti dicono «lo sanno tutti» e nessuno sa dove l'ha letto"
+  },
+  {
+    "id": "F02-tagga",
+    "format": "F02",
+    "text": "chi dice «è scientificamente provato» senza dire da chi"
+  },
+  {
+    "id": "F03-tipi",
+    "format": "F03",
+    "title": "Tipi di cuginetto sapientone",
+    "items": [
+      {
+        "name": "Quello del «l'ho letto»",
+        "joke": "Dove? Un post. Di chi? Boh."
+      },
+      {
+        "name": "Quello dei numeri",
+        "joke": "Cita percentuali che non esistono."
+      },
+      {
+        "name": "Quello dell'antica Roma",
+        "joke": "Tutto, ma proprio tutto, l'hanno inventato i Romani."
+      },
+      {
+        "name": "Quello dell'enciclopedia",
+        "joke": "Controlla. Gli dà fastidio, ma controlla."
+      }
+    ],
+    "cta": "Tagga il tuo cuginetto sapientone"
+  },
+  {
+    "id": "F05-classifica",
+    "format": "F05",
+    "title": "Top 4 «fatti» che non sono veri",
+    "items": [
+      "Esempio 1 da verificare",
+      "Esempio 2 da verificare",
+      "Esempio 3 da verificare",
+      "Esempio 4 da verificare"
+    ]
+  },
+  {
+    "id": "F06-stat",
+    "format": "F06",
+    "label": "ESEMPIO — dato da verificare",
+    "value": "00",
+    "text": "Qui va la curiosità verificata, con due fonti indipendenti.",
+    "source": "[fonte e data di verifica obbligatorie]"
+  },
+  {
+    "id": "F08-mito",
+    "format": "F08",
+    "myth": "Se non è smentito, è vero",
+    "truth": "Se non c'è una fonte, non è un fatto. Si controlla prima di condividere."
+  },
+  {
+    "id": "F10-story",
+    "format": "F10",
+    "question": "Qual è la cosa che hai scoperto per ultima e ti ha sorpreso?"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "F01-pov",
+    "format": "F01",
+    "text": "il meccanico dice «è una cosa da niente» e il preventivo ha tre zeri"
+  },
+  {
+    "id": "F02-tagga",
+    "format": "F02",
+    "text": "chi dice «ci penso io, è la frizione»"
+  },
+  {
+    "id": "F03-tipi",
+    "format": "F03",
+    "title": "Tipi di automobilista",
+    "items": [
+      {
+        "name": "Quello del cruise control",
+        "joke": "Va a 118 sempre, in ogni condizione."
+      },
+      {
+        "name": "Quello con la 500 d'epoca",
+        "joke": "Parla più dell'auto che di sé."
+      },
+      {
+        "name": "Quello del parcheggio",
+        "joke": "Tre manovre, poi si arrende e va oltre."
+      },
+      {
+        "name": "Quello delle spie",
+        "joke": "La spia si è accesa a marzo. Sta bene."
+      }
+    ],
+    "cta": "Tagga il tuo tipo di automobilista"
+  },
+  {
+    "id": "F05-classifica",
+    "format": "F05",
+    "title": "Top 4 frasi del meccanico",
+    "items": [
+      "Dobbiamo guardare meglio",
+      "È un rumore normale",
+      "Le serve il tagliando completo",
+      "Non è coperto da garanzia"
+    ]
+  },
+  {
+    "id": "F08-mito",
+    "format": "F08",
+    "myth": "Il bollo si paga solo se usi l'auto",
+    "truth": "Il bollo si paga perché l'auto esiste. Verifica sempre le regole della tua regione."
+  },
+  {
+    "id": "F10-story",
+    "format": "F10",
+    "question": "Spia accesa: la ignori o corri in officina?"
+  }
+]

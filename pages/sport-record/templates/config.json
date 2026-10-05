@@ -1,0 +1,12 @@
+{
+  "name": "Oltre ogni limite",
+  "font_file": "Anton-Regular.ttf",
+  "font_url": "anton/Anton-Regular.ttf",
+  "upper": true,
+  "track": 0.02,
+  "dark": "#0B1D3A",
+  "accent": "#E7B416",
+  "light": "#FFFFFF",
+  "line": "#1F3559",
+  "deco": "bar"
+}

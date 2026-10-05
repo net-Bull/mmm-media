@@ -1,0 +1,66 @@
+[
+  {
+    "id": "F01-pov",
+    "format": "F01",
+    "text": "dici «ho visto quel film cult» e il tuo amico ti chiede se hai capito il finale"
+  },
+  {
+    "id": "F02-tagga",
+    "format": "F02",
+    "text": "chi cita una scena a ogni cena"
+  },
+  {
+    "id": "F03-tipi",
+    "format": "F03",
+    "title": "Tipi di spettatore",
+    "items": [
+      {
+        "name": "Quello del finale",
+        "joke": "Racconta come finisce prima dell'inizio."
+      },
+      {
+        "name": "Quello dei sottotitoli",
+        "joke": "Li vuole anche se è in italiano."
+      },
+      {
+        "name": "Quello del «era meglio il libro»",
+        "joke": "Sempre. Anche se non c'è un libro."
+      },
+      {
+        "name": "Quello del rewatch",
+        "joke": "Lo rivede ogni anno. Alle stesse lacrime."
+      }
+    ],
+    "cta": "Tagga il tuo tipo di spettatore"
+  },
+  {
+    "id": "F05-classifica",
+    "format": "F05",
+    "title": "Top 4 frasi al cinema",
+    "items": [
+      "Aspetta, che cos'è successo?",
+      "Questo l'avevo già visto",
+      "Ma chi è quello?",
+      "Io il finale l'avevo capito"
+    ]
+  },
+  {
+    "id": "F06-stat",
+    "format": "F06",
+    "label": "ESEMPIO — dato da verificare",
+    "value": "00",
+    "text": "Qui va la curiosità verificata sul film, con fonte.",
+    "source": "[fonte e data di verifica obbligatorie]"
+  },
+  {
+    "id": "F08-mito",
+    "format": "F08",
+    "myth": "Un film cult è un film perfetto",
+    "truth": "Un film cult è un film che si rivede. La perfezione non c'entra."
+  },
+  {
+    "id": "F10-story",
+    "format": "F10",
+    "question": "Film da rivedere stasera: uno solo!"
+  }
+]

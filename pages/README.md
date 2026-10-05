@@ -28,7 +28,7 @@ Finché le pagine non sono create e online, nei file non si inseriscono date di 
 ## Cosa può fare l'agente adesso (senza account)
 Per ogni pagina dell'ondata 1, in questo ordine, **una pagina alla volta e solo dopo l'ok di Tony sul nome**:
 1. Verificare la disponibilità degli handle candidati e riferire a Tony (senza creare account).
-2. Creare in Canva il brand kit (palette e font da `brand.md`) e un template per ogni formato usato nel piano.
+2. Kit brand e template sono già pronti nel repo: `<slug>/brand/` (logo, avatar, scheda) e `<slug>/templates/` (config e esempi). Il kit Canva lo crea Tony a mano. Le immagini si generano con `python3 pages/_shared/tools/templates.py <slug> <spec.json> <cartella>` (vedi `_shared/templates.md`); niente Canva per la produzione di serie.
 3. Produrre le immagini del lotto G1-G3 (poi a blocchi di 3-4 giorni) in JPEG (misure in `_shared/formats.md`), caricarle in `pages/<slug>/img/...`.
 4. Per i post con dati: ricerca web, `fonte:` e `verificato il:`.
 5. Preparare `pages/<slug>/posts.json`: per ogni post `id`, `day` (G1-G14), `slot`, `type`, immagini e caption, **senza date**. Il `calendar.json` con le date (`when`) si genera solo quando la pagina è online e Tony dà la data di lancio.

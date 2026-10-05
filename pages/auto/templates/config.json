@@ -1,0 +1,13 @@
+{
+  "name": "Sgommando",
+  "font_file": "BarlowCondensed-ExtraBold.ttf",
+  "font_url": "barlowcondensed/BarlowCondensed-ExtraBold.ttf",
+  "upper": true,
+  "track": 0.03,
+  "dark": "#1B1D21",
+  "accent": "#FF6B1A",
+  "light": "#FFFFFF",
+  "line": "#2E3137",
+  "deco": "bar",
+  "pitch": 1.18
+}
