@@ -23,4 +23,8 @@ Tony gestisce la pagina Instagram **@maschiomediomediocre** (MMM, "Maschio Medio
 
 ## Stato al 5 ott 2026
 - Pubblicati dal calendario: 34 post dal 6 al 19 ott (24 singoli, 6 chat, 4 caroselli). Il primo (G02-M) esce il 6 ott alle 08:00: verificare che esca una sola volta (le vecchie programmazioni Canva sono state rimosse).
-- Da fare: backup dei workflow in `~/backup/`; rinnovo token; Stories (1080x1920); poi reels/video con voce e avatar (servizi esterni da scegliere; i video richiedono URL pubblico HTTPS: dominio o storage esterno); eventuale ingrandimento server.
+- Fatto: backup dei workflow in `~/backup/workflows-*.json` (solo riferimenti alle credenziali, nessun token). Workflow v2 attivo, vecchio "MMM - Pubblica su Instagram" inattivo.
+- Rinnovo token: script `refresh-ig-token.sh` sul server (fuori dal repo). Rinnova il token, aggiorna la credenziale n8n "Instagram Token MMM", tiene una copia di sicurezza della credenziale fuori dal repo e scrive solo l'esito in `~/backup/refresh.log` (mai il token). Primo rinnovo fatto il 5 ott 2026 (scadenza ~3 dic). Cron settimanale installato (domenica 04:00, utente `claude`). Verificare il post del 6 ott col token nuovo e il primo rinnovo automatico dell'11 ott nel log.
+- Stories: il workflow v2 le gestisce già con `type: "story"` in `calendar.json` (solo `id`, `when`, `image_url`, niente caption; JPEG 1080x1920 in `img/st/`). Story di prova `story-001` (rilancio G02-M) programmata il 6 ott alle 12:00: verificare che esca una sola volta. Le Stories via API non supportano sticker interattivi.
+- Push su GitHub dal server: via SSH con una deploy key dedicata a questo repo (con permesso di scrittura), tenuta fuori dal repo. Mai usare i token di n8n per git.
+- Da fare: altre Stories; poi reels/video con voce e avatar (servizi esterni da scegliere; i video richiedono URL pubblico HTTPS: dominio o storage esterno); eventuale ingrandimento server.
