@@ -122,5 +122,480 @@
     "type": "story",
     "format": "F10",
     "image": "pages/moto/img/st/g3-st.jpg"
+  },
+  {
+    "id": "g4-p1",
+    "day": "G4",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F03",
+    "images": [
+      "pages/moto/img/car/g4-p1/g4-p1-1.jpg",
+      "pages/moto/img/car/g4-p1/g4-p1-2.jpg",
+      "pages/moto/img/car/g4-p1/g4-p1-3.jpg",
+      "pages/moto/img/car/g4-p1/g4-p1-4.jpg",
+      "pages/moto/img/car/g4-p1/g4-p1-5.jpg",
+      "pages/moto/img/car/g4-p1/g4-p1-6.jpg"
+    ],
+    "caption": "Il passeggero in moto ha sempre un carattere. Il tuo?\n\nSalva e tagga il tuo passeggero.\n\n#moto #motociclisti"
+  },
+  {
+    "id": "g4-p2",
+    "day": "G4",
+    "slot": "post2",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/moto/img/s/g4-p2.jpg",
+    "caption": "La moto nuova. La pioggia. Il garage ancora aperto.\n\nTagga chi ha fatto il battesimo con l'acqua.\n\n#moto #motociclisti"
+  },
+  {
+    "id": "g4-p3",
+    "day": "G4",
+    "slot": "post3",
+    "type": "image",
+    "format": "F06",
+    "image": "pages/moto/img/s/g4-p3.jpg",
+    "caption": "Moto Guzzi nasce il 15 marzo 1921 a Genova e produce a Mandello del Lario. È il più antico costruttore europeo in produzione continua. L'aquila nel logo ricorda un pilota amico dei fondatori.\n\nSalva e mandalo a chi ama le moto italiane.\n\nFonte: Wikipedia; Inmoto. Verificato il 5 ottobre 2026.\n\n#moto #motociclisti #motoguzzi",
+    "fonte": "Wikipedia, 'Moto Guzzi'; Inmoto, 'Moto Guzzi, una storia lunga cento anni'; Motorweb Museum, 'The history of the Guzzi establishment' (fondata il 15 marzo 1921; stabilimento a Mandello del Lario; più antico costruttore europeo in produzione continua)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g4-st",
+    "day": "G4",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/moto/img/st/g4-st.jpg"
+  },
+  {
+    "id": "g5-p1",
+    "day": "G5",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F09",
+    "images": [
+      "pages/moto/img/car/g5-p1/g5-p1-1.jpg",
+      "pages/moto/img/car/g5-p1/g5-p1-2.jpg",
+      "pages/moto/img/car/g5-p1/g5-p1-3.jpg",
+      "pages/moto/img/car/g5-p1/g5-p1-4.jpg",
+      "pages/moto/img/car/g5-p1/g5-p1-5.jpg",
+      "pages/moto/img/car/g5-p1/g5-p1-6.jpg"
+    ],
+    "caption": "L'idea nasce nel deserto libico, nel 1977, quando Thierry Sabine si perde. La prima Parigi-Dakar parte il 26 dicembre 1978 e arriva a Dakar il 14 gennaio 1979 con 74 veicoli.\n\nSalva e mandalo a chi sogna il deserto.\n\nFonte: Standvirtual; OA Sport; Quotidiano.net. Verificato il 5 ottobre 2026.\n\n#moto #motociclisti #dakar",
+    "fonte": "Standvirtual, 'A história do primeiro Dakar'; OA Sport, 'Dakar 2018: una corsa che ha trovato la sua dimensione'; Quotidiano.net, 'Parigi-Dakar: è un percorso ancora attuale?' (Sabine si perde nel deserto libico nel 1977; partenza 26 dicembre 1978; 74 veicoli arrivati su circa 180)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g5-p2",
+    "day": "G5",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/moto/img/car/g5-p2/g5-p2-1.jpg",
+      "pages/moto/img/car/g5-p2/g5-p2-2.jpg",
+      "pages/moto/img/car/g5-p2/g5-p2-3.jpg",
+      "pages/moto/img/car/g5-p2/g5-p2-4.jpg",
+      "pages/moto/img/car/g5-p2/g5-p2-5.jpg",
+      "pages/moto/img/car/g5-p2/g5-p2-6.jpg"
+    ],
+    "caption": "Il criterio è nostro: quello che manca sempre al ritrovo.\n\nSalva e scrivi nei commenti la tua.\n\n#moto #motociclisti"
+  },
+  {
+    "id": "g5-p3",
+    "day": "G5",
+    "slot": "post3",
+    "type": "image",
+    "format": "F04",
+    "image": "pages/moto/img/s/g5-p3.jpg",
+    "caption": "\"Ultimo caffè\" non vuol dire niente. Lo sa il gruppo.\n\nMandalo al tuo gruppo del giro.\n\n#moto #motociclisti"
+  },
+  {
+    "id": "g5-st",
+    "day": "G5",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/moto/img/st/g5-st.jpg"
+  },
+  {
+    "id": "g6-p1",
+    "day": "G6",
+    "slot": "post1",
+    "type": "image",
+    "format": "F07",
+    "image": "pages/moto/img/s/g6-p1.jpg",
+    "caption": "Carattere o elettronica? Il garage ha posto per entrambe.\n\nScrivi nei commenti da che parte stai.\n\n#moto #motociclisti"
+  },
+  {
+    "id": "g6-p2",
+    "day": "G6",
+    "slot": "post2",
+    "type": "image",
+    "format": "F02",
+    "image": "pages/moto/img/s/g6-p2.jpg",
+    "caption": "Il giro è sporco. La moto no. Per ora.\n\nTagga chi lava la moto prima di uscire.\n\n#moto #motociclisti"
+  },
+  {
+    "id": "g6-p3",
+    "day": "G6",
+    "slot": "post3",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/moto/img/s/g6-p3.jpg",
+    "caption": "Cinque minuti, un caffè, una storia. Un'ora.\n\nTagga chi la sosta non la fa mai breve.\n\n#moto #motociclisti"
+  },
+  {
+    "id": "g6-st",
+    "day": "G6",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/moto/img/st/g6-st.jpg"
+  },
+  {
+    "id": "g7-p1",
+    "day": "G7",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F03",
+    "images": [
+      "pages/moto/img/car/g7-p1/g7-p1-1.jpg",
+      "pages/moto/img/car/g7-p1/g7-p1-2.jpg",
+      "pages/moto/img/car/g7-p1/g7-p1-3.jpg",
+      "pages/moto/img/car/g7-p1/g7-p1-4.jpg",
+      "pages/moto/img/car/g7-p1/g7-p1-5.jpg",
+      "pages/moto/img/car/g7-p1/g7-p1-6.jpg"
+    ],
+    "caption": "In inverno la moto è ferma, il motociclista no. Tu chi sei?\n\nSalva e tagga il tuo amico in letargo.\n\n#moto #motociclisti"
+  },
+  {
+    "id": "g7-p2",
+    "day": "G7",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F08",
+    "images": [
+      "pages/moto/img/car/g7-p2/g7-p2-1.jpg",
+      "pages/moto/img/car/g7-p2/g7-p2-2.jpg"
+    ],
+    "caption": "Mito: la moto ferma non ha bisogno di niente. Realtà: la batteria si scarica anche da ferma, e le centraline assorbono energia. Un mantenitore di carica aiuta.\n\nSalva e mandalo a chi mette il telo e se ne dimentica.\n\nFonte: Insella; Dueruote. Verificato il 5 ottobre 2026.\n\n#moto #motociclisti #manutenzione",
+    "fonte": "Insella, 'Le 5 regole per tenere in forma la moto d'inverno' e 'Pausa invernale della moto: errori da non fare'; Dueruote, 'Batteria della moto scarica: perché e come prevenire' (batteria che si scarica da ferma, centraline che assorbono energia, mantenitore di carica)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g7-p3",
+    "day": "G7",
+    "slot": "post3",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/moto/img/s/g7-p3.jpg",
+    "caption": "Primo giorno di sole. Primo clic. Poi niente.\n\nTagga chi ha la batteria scarica ad aprile.\n\n#moto #motociclisti"
+  },
+  {
+    "id": "g7-st",
+    "day": "G7",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/moto/img/st/g7-st.jpg"
+  },
+  {
+    "id": "g8-p1",
+    "day": "G8",
+    "slot": "post1",
+    "type": "image",
+    "format": "F06",
+    "image": "pages/moto/img/s/g8-p1.jpg",
+    "caption": "Dopo la legge del 1986 l'uso del casco tra i motociclisti è passato dal 15% al 97%. Il casco si indossa, sempre e allacciato.\n\nSalva e mandalo a chi pensa \"tanto è un tratto breve\".\n\nFonte: Istituto Superiore di Sanità (Epicentro). Verificato il 5 ottobre 2026.\n\n#moto #motociclisti #sicurezza",
+    "fonte": "Istituto Superiore di Sanità, Epicentro, 'Il casco: uso e impatto in Italia' (2001): dal 1986 casco obbligatorio per i motociclisti; uso salito dal 15% al 97%",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g8-p2",
+    "day": "G8",
+    "slot": "post2",
+    "type": "image",
+    "format": "F04",
+    "image": "pages/moto/img/s/g8-p2.jpg",
+    "caption": "Quello con il cupolino racconta il suo viaggio. Dalle foto.\n\nMandalo a chi viaggia per i social.\n\n#moto #motociclisti"
+  },
+  {
+    "id": "g8-p3",
+    "day": "G8",
+    "slot": "post3",
+    "type": "image",
+    "format": "F02",
+    "image": "pages/moto/img/s/g8-p3.jpg",
+    "caption": "Poi guarda la ricevuta del pieno. E cambia argomento.\n\nTagga chi lo dice sempre.\n\n#moto #motociclisti"
+  },
+  {
+    "id": "g8-st",
+    "day": "G8",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/moto/img/st/g8-st.jpg"
+  },
+  {
+    "id": "g9-p1",
+    "day": "G9",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/moto/img/car/g9-p1/g9-p1-1.jpg",
+      "pages/moto/img/car/g9-p1/g9-p1-2.jpg",
+      "pages/moto/img/car/g9-p1/g9-p1-3.jpg",
+      "pages/moto/img/car/g9-p1/g9-p1-4.jpg",
+      "pages/moto/img/car/g9-p1/g9-p1-5.jpg",
+      "pages/moto/img/car/g9-p1/g9-p1-6.jpg"
+    ],
+    "caption": "Il criterio è nostro: le soste che il gruppo ricorda.\n\nSalva e scrivi nei commenti la tua.\n\n#moto #motociclisti #sosta"
+  },
+  {
+    "id": "g9-p2",
+    "day": "G9",
+    "slot": "post2",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/moto/img/s/g9-p2.jpg",
+    "caption": "\"Proseguire per cinque chilometri.\" Sterrato. Gomme da strada.\n\nTagga chi si è fidato del navigatore.\n\n#moto #motociclisti"
+  },
+  {
+    "id": "g9-p3",
+    "day": "G9",
+    "slot": "post3",
+    "type": "image",
+    "format": "F07",
+    "image": "pages/moto/img/s/g9-p3.jpg",
+    "caption": "Montagna o mare: la domanda di ogni giro.\n\nScrivi nei commenti da che parte stai.\n\n#moto #motociclisti"
+  },
+  {
+    "id": "g9-st",
+    "day": "G9",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/moto/img/st/g9-st.jpg"
+  },
+  {
+    "id": "g10-p1",
+    "day": "G10",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F03",
+    "images": [
+      "pages/moto/img/car/g10-p1/g10-p1-1.jpg",
+      "pages/moto/img/car/g10-p1/g10-p1-2.jpg",
+      "pages/moto/img/car/g10-p1/g10-p1-3.jpg",
+      "pages/moto/img/car/g10-p1/g10-p1-4.jpg",
+      "pages/moto/img/car/g10-p1/g10-p1-5.jpg",
+      "pages/moto/img/car/g10-p1/g10-p1-6.jpg"
+    ],
+    "caption": "Al distributore ognuno ha il suo rito.\n\nSalva e tagga il tuo amico.\n\n#moto #motociclisti"
+  },
+  {
+    "id": "g10-p2",
+    "day": "G10",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F09",
+    "images": [
+      "pages/moto/img/car/g10-p2/g10-p2-1.jpg",
+      "pages/moto/img/car/g10-p2/g10-p2-2.jpg",
+      "pages/moto/img/car/g10-p2/g10-p2-3.jpg",
+      "pages/moto/img/car/g10-p2/g10-p2-4.jpg",
+      "pages/moto/img/car/g10-p2/g10-p2-5.jpg",
+      "pages/moto/img/car/g10-p2/g10-p2-6.jpg"
+    ],
+    "caption": "Dal 1973 al 1977, Ted Simon gira il mondo con una Triumph da 500 cc: 126.000 km in 45 paesi. Ne nasce \"Jupiter's Travels\".\n\nSalva e mandalo a chi sogna un viaggio lungo.\n\nFonte: Wikipedia; Christian Science Monitor. Verificato il 5 ottobre 2026.\n\n#moto #motociclisti #viaggio",
+    "fonte": "Wikipedia, 'Jupiter's Travels' e 'Ted Simon'; Christian Science Monitor, recensione del 27 febbraio 1980 (Triumph Tiger 100 da 500 cc, 1973-1977, circa 126.000 km, 45 paesi, libro pubblicato nel 1979)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g10-p3",
+    "day": "G10",
+    "slot": "post3",
+    "type": "image",
+    "format": "F02",
+    "image": "pages/moto/img/s/g10-p3.jpg",
+    "caption": "\"Una strada bellissima.\" Che non esiste sulle mappe.\n\nTagga chi ha sempre un amico così.\n\n#moto #motociclisti"
+  },
+  {
+    "id": "g10-st",
+    "day": "G10",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/moto/img/st/g10-st.jpg"
+  },
+  {
+    "id": "g11-p1",
+    "day": "G11",
+    "slot": "post1",
+    "type": "image",
+    "format": "F04",
+    "image": "pages/moto/img/s/g11-p1.jpg",
+    "caption": "Il giro \"tranquillo\" del Capogruppo: sempre più lungo di come lo racconta.\n\nMandalo al tuo Capogruppo.\n\n#moto #motociclisti"
+  },
+  {
+    "id": "g11-p2",
+    "day": "G11",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/moto/img/car/g11-p2/g11-p2-1.jpg",
+      "pages/moto/img/car/g11-p2/g11-p2-2.jpg",
+      "pages/moto/img/car/g11-p2/g11-p2-3.jpg",
+      "pages/moto/img/car/g11-p2/g11-p2-4.jpg",
+      "pages/moto/img/car/g11-p2/g11-p2-5.jpg",
+      "pages/moto/img/car/g11-p2/g11-p2-6.jpg"
+    ],
+    "caption": "Il criterio è nostro: i rumori che riconosci anche a occhi chiusi.\n\nSalva e scrivi nei commenti il tuo.\n\n#moto #motociclisti"
+  },
+  {
+    "id": "g11-p3",
+    "day": "G11",
+    "slot": "post3",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/moto/img/s/g11-p3.jpg",
+    "caption": "Il cielo era azzurro. Fino all'ultima curva.\n\nTagga chi è rimasto bagnato a metà strada.\n\n#moto #motociclisti"
+  },
+  {
+    "id": "g11-st",
+    "day": "G11",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/moto/img/st/g11-st.jpg"
+  },
+  {
+    "id": "g12-p1",
+    "day": "G12",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F08",
+    "images": [
+      "pages/moto/img/car/g12-p1/g12-p1-1.jpg",
+      "pages/moto/img/car/g12-p1/g12-p1-2.jpg"
+    ],
+    "caption": "Mito: la pressione delle gomme si controlla una volta l'anno. Realtà: almeno un paio di volte al mese, sempre a gomme fredde, e secondo i valori del costruttore.\n\nSalva e mandalo a chi non controlla mai le gomme.\n\nFonte: Motorbox; Pirelli. Verificato il 5 ottobre 2026.\n\n#moto #motociclisti #gomme",
+    "fonte": "Motorbox, 'Gomme moto: consigli, pressioni strada e pista'; Pirelli, 'Come e quando controllare la pressione degli pneumatici' (controllo almeno un paio di volte al mese, a freddo, valori del costruttore)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g12-p2",
+    "day": "G12",
+    "slot": "post2",
+    "type": "image",
+    "format": "F07",
+    "image": "pages/moto/img/s/g12-p2.jpg",
+    "caption": "Due moto, due vite. Una ha il telo, l'altra la cassetta.\n\nScrivi nei commenti la tua.\n\n#moto #motociclisti"
+  },
+  {
+    "id": "g12-p3",
+    "day": "G12",
+    "slot": "post3",
+    "type": "image",
+    "format": "F02",
+    "image": "pages/moto/img/s/g12-p3.jpg",
+    "caption": "Un mese diventa sei. La moto aspetta. La batteria no.\n\nTagga chi la lascia ferma da troppo.\n\n#moto #motociclisti"
+  },
+  {
+    "id": "g12-st",
+    "day": "G12",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/moto/img/st/g12-st.jpg"
+  },
+  {
+    "id": "g13-p1",
+    "day": "G13",
+    "slot": "post1",
+    "type": "image",
+    "format": "F06",
+    "image": "pages/moto/img/s/g13-p1.jpg",
+    "caption": "15 titoli mondiali tra il 1966 e il 1975, 122 vittorie: Giacomo Agostini è il pilota con più titoli nella storia del motomondiale.\n\nSalva e mandalo a un appassionato di corse.\n\nFonte: MotoGP.com; Red Bull; Classic Two Wheels. Verificato il 5 ottobre 2026.\n\n#moto #motociclisti #agostini",
+    "fonte": "MotoGP.com, 'King Ago' (18 giugno 2024); Red Bull, 'MotoGP records'; Classic Two Wheels, 'Racing's Greats: Giacomo Agostini' (15 titoli mondiali tra 350 e 500, 1966-1975; 122 vittorie)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g13-p2",
+    "day": "G13",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F03",
+    "images": [
+      "pages/moto/img/car/g13-p2/g13-p2-1.jpg",
+      "pages/moto/img/car/g13-p2/g13-p2-2.jpg",
+      "pages/moto/img/car/g13-p2/g13-p2-3.jpg",
+      "pages/moto/img/car/g13-p2/g13-p2-4.jpg",
+      "pages/moto/img/car/g13-p2/g13-p2-5.jpg",
+      "pages/moto/img/car/g13-p2/g13-p2-6.jpg"
+    ],
+    "caption": "Ogni gruppo moto ha il suo carattere. Il tuo?\n\nSalva e tagga il tuo gruppo.\n\n#moto #motociclisti"
+  },
+  {
+    "id": "g13-p3",
+    "day": "G13",
+    "slot": "post3",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/moto/img/s/g13-p3.jpg",
+    "caption": "Tre moto, quattro caschi, cento attrezzi. Nessuno ha il coraggio di toccare niente.\n\nTagga chi ha un museo in garage.\n\n#moto #motociclisti"
+  },
+  {
+    "id": "g13-st",
+    "day": "G13",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/moto/img/st/g13-st.jpg"
+  },
+  {
+    "id": "g14-p1",
+    "day": "G14",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/moto/img/car/g14-p1/g14-p1-1.jpg",
+      "pages/moto/img/car/g14-p1/g14-p1-2.jpg",
+      "pages/moto/img/car/g14-p1/g14-p1-3.jpg",
+      "pages/moto/img/car/g14-p1/g14-p1-4.jpg",
+      "pages/moto/img/car/g14-p1/g14-p1-5.jpg",
+      "pages/moto/img/car/g14-p1/g14-p1-6.jpg"
+    ],
+    "caption": "Il criterio è la reputazione. Quante ne hai sentite?\n\nSalva e mandale al tuo Capogruppo.\n\n#moto #motociclisti"
+  },
+  {
+    "id": "g14-p2",
+    "day": "G14",
+    "slot": "post2",
+    "type": "image",
+    "format": "F04",
+    "image": "pages/moto/img/s/g14-p2.jpg",
+    "caption": "Le due settimane di Col Ginocchio a terra, riassunte dal Capogruppo (finto).\n\nMandalo al tuo gruppo.\n\n#moto #motociclisti"
+  },
+  {
+    "id": "g14-p3",
+    "day": "G14",
+    "slot": "post3",
+    "type": "image",
+    "format": "F07",
+    "image": "pages/moto/img/s/g14-p3.jpg",
+    "caption": "Il sogno e la realtà. La moto che hai ti porta dove vuoi.\n\nScrivi nei commenti la tua.\n\n#moto #motociclisti"
+  },
+  {
+    "id": "g14-st",
+    "day": "G14",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/moto/img/st/g14-st.jpg"
   }
 ]
