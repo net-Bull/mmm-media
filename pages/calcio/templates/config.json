@@ -1,0 +1,13 @@
+{
+  "name": "Fallo da dietro",
+  "font_file": "ArchivoBlack-Regular.ttf",
+  "font_url": "archivoblack/ArchivoBlack-Regular.ttf",
+  "upper": true,
+  "track": 0.01,
+  "dark": "#16181A",
+  "accent": "#FFD400",
+  "light": "#F7F7F2",
+  "line": "#2C2F33",
+  "deco": "pitch",
+  "pitch": 1.32
+}

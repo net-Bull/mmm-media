@@ -1,0 +1,12 @@
+{
+  "name": "Lunedì-Petto",
+  "font_file": "Anton-Regular.ttf",
+  "font_url": "anton/Anton-Regular.ttf",
+  "upper": true,
+  "track": 0.02,
+  "dark": "#0E0E10",
+  "accent": "#D7FF1F",
+  "light": "#F2F2EE",
+  "line": "#2A2A2F",
+  "deco": "bar"
+}

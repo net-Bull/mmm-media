@@ -1,0 +1,108 @@
+[
+  {
+    "id": "F01-pov",
+    "format": "F01",
+    "text": "è lunedì e sei già in palestra per il petto, come da tradizione"
+  },
+  {
+    "id": "F02-tagga",
+    "format": "F02",
+    "text": "l'amico che salta sempre le gambe"
+  },
+  {
+    "id": "F03-tipi",
+    "format": "F03",
+    "title": "Tipi di gymbro",
+    "items": [
+      {
+        "name": "Il teorico",
+        "joke": "Spiega la scheda a tutti. La sua è ferma dal 2022."
+      },
+      {
+        "name": "Il silenzioso",
+        "joke": "Arriva, solleva, se ne va. Non sai nemmeno come si chiama."
+      },
+      {
+        "name": "Il selfista",
+        "joke": "Il bilanciere serve per la luce giusta."
+      },
+      {
+        "name": "Il nuovo",
+        "joke": "Chiede scusa alla panca prima di sedersi."
+      }
+    ],
+    "cta": "Tagga il tuo compagno di scheda"
+  },
+  {
+    "id": "F04-chat",
+    "format": "F04",
+    "group": "Gruppo allenamento",
+    "messages": [
+      {
+        "side": "l",
+        "who": "Brando",
+        "text": "Ragazzi arrivo tra 5 minuti"
+      },
+      {
+        "side": "l",
+        "who": "Il Nuovo",
+        "text": "Io sono già qua, dove siete?"
+      },
+      {
+        "side": "r",
+        "who": "io",
+        "text": "Anche io arrivo tra 5 minuti"
+      },
+      {
+        "side": "l",
+        "who": "Brando",
+        "text": "Sono 40 minuti che arrivo tra 5 minuti"
+      },
+      {
+        "side": "l",
+        "who": "Il Nuovo",
+        "text": "Ok aspetto sulla panca"
+      }
+    ]
+  },
+  {
+    "id": "F05-classifica",
+    "format": "F05",
+    "title": "Top 4 scuse per saltare le gambe",
+    "items": [
+      "Oggi ho mal di schiena (domani no)",
+      "Ho fatto il cardio ieri",
+      "Le gambe si allenano coi pantaloni lunghi",
+      "Oggi è giorno braccia"
+    ]
+  },
+  {
+    "id": "F07-versus",
+    "format": "F07",
+    "left": {
+      "name": "Palestra a gennaio",
+      "points": [
+        "Parcheggio introvabile",
+        "Tutti con la scheda nuova"
+      ]
+    },
+    "right": {
+      "name": "Palestra a marzo",
+      "points": [
+        "Spogliatoio libero",
+        "Sei rimasto solo tu e Brando"
+      ]
+    }
+  },
+  {
+    "id": "F08-mito",
+    "format": "F08",
+    "myth": "Più sudi, più sei forte",
+    "truth": "Più sudi, più ti serve un asciugamano. La forza è un'altra cosa."
+  },
+  {
+    "id": "F10-story",
+    "format": "F10",
+    "question": "Oggi è giorno petto: chi c'è?"
+  }
+]

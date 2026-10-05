@@ -1,0 +1,111 @@
+[
+  {
+    "id": "F01-pov",
+    "format": "F01",
+    "text": "la tua squadra ha pareggiato al 94° e il Cugino parla già di mercato"
+  },
+  {
+    "id": "F02-tagga",
+    "format": "F02",
+    "text": "chi dice «noi abbiamo il miglior vivaio» a ogni sconfitta"
+  },
+  {
+    "id": "F03-tipi",
+    "format": "F03",
+    "title": "Tipi di tifoso al bar",
+    "items": [
+      {
+        "name": "Lo statistico",
+        "joke": "Sa tutto dal 1987. Ma solo i numeri che gli danno ragione."
+      },
+      {
+        "name": "Il disfattista",
+        "joke": "Siamo spacciati. Anche dopo il 3-0."
+      },
+      {
+        "name": "L'ottimista a oltranza",
+        "joke": "Mancano ancora tre giornate. Siamo a -14."
+      },
+      {
+        "name": "Il nostalgico",
+        "joke": "Ai miei tempi il pallone pesava di più."
+      }
+    ],
+    "cta": "Tagga il tuo tipo di tifoso"
+  },
+  {
+    "id": "F04-chat",
+    "format": "F04",
+    "group": "Bar dello sport",
+    "messages": [
+      {
+        "side": "l",
+        "who": "Il Cugino",
+        "text": "Io l'avevo detto che finiva 1-1"
+      },
+      {
+        "side": "r",
+        "who": "io",
+        "text": "Ieri dicevi che vincevamo 3-0"
+      },
+      {
+        "side": "l",
+        "who": "Il Cugino",
+        "text": "Appunto, avevo previsto che sarebbe andata male"
+      },
+      {
+        "side": "l",
+        "who": "Il Mister del Bar",
+        "text": "Con me in panchina era un'altra storia"
+      }
+    ]
+  },
+  {
+    "id": "F05-classifica",
+    "format": "F05",
+    "title": "Top 4 frasi al bar dopo una sconfitta",
+    "items": [
+      "Meritavamo noi",
+      "Il campo era pesante",
+      "Il primo tempo è stato un altro sport",
+      "L'arbitro non c'entra, però"
+    ]
+  },
+  {
+    "id": "F06-stat",
+    "format": "F06",
+    "label": "ESEMPIO — dato da verificare",
+    "value": "00",
+    "text": "Qui va il dato verificato, con il confronto che fa la battuta.",
+    "source": "[fonte e data di verifica obbligatorie]"
+  },
+  {
+    "id": "F07-versus",
+    "format": "F07",
+    "left": {
+      "name": "Tifoso allo stadio",
+      "points": [
+        "Sciarpa in tasca",
+        "Urla al VAR"
+      ]
+    },
+    "right": {
+      "name": "Tifoso da divano",
+      "points": [
+        "Telecomando in mano",
+        "Allenatore dal 15°"
+      ]
+    }
+  },
+  {
+    "id": "F08-mito",
+    "format": "F08",
+    "myth": "Un pareggio al 94° è solo sfortuna",
+    "truth": "Anche la difesa ha diritto a una pausa. Ma al 93° proprio no."
+  },
+  {
+    "id": "F10-story",
+    "format": "F10",
+    "question": "Pronostico secco: chi segna per primo?"
+  }
+]
