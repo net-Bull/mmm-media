@@ -150,5 +150,549 @@
     "type": "story",
     "format": "F10",
     "image": "pages/sport-record/img/st/g3-st.jpg"
+  },
+  {
+    "id": "g4-p1",
+    "day": "G4",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F09",
+    "images": [
+      "pages/sport-record/img/car/g4-p1/g4-p1-1.jpg",
+      "pages/sport-record/img/car/g4-p1/g4-p1-2.jpg",
+      "pages/sport-record/img/car/g4-p1/g4-p1-3.jpg",
+      "pages/sport-record/img/car/g4-p1/g4-p1-4.jpg",
+      "pages/sport-record/img/car/g4-p1/g4-p1-5.jpg",
+      "pages/sport-record/img/car/g4-p1/g4-p1-6.jpg"
+    ],
+    "caption": "Roma 1960: Abebe Bikila vince la maratona olimpica correndo scalzo, di sera, in 2:15:16,2. È il primo oro olimpico per un atleta di una nazione africana.\n\nSalva e mandalo a chi corre.\n\nFonte: World Athletics; Kidz Herald. Verificato il 5 ottobre 2026.\n\n#oltreognilimite #sport #atletica #maratona",
+    "fonte": "World Athletics, 'Abebe Bikila wins the marathon at the 1960 Olympic Games in Rome' (heritage); Kidz Herald, 'The unforgettable marathon: Abebe Bikila's barefoot triumph at the 1960 Rome Olympics'",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g4-p2",
+    "day": "G4",
+    "slot": "post2",
+    "type": "image",
+    "format": "F07",
+    "image": "pages/sport-record/img/s/g4-p2.jpg",
+    "caption": "Stessa gara, due record: 9,58 per il mondo, 9,80 per l'Europa. Una differenza di 0,22 secondi.\n\nScrivi nei commenti chi sarà il prossimo.\n\nFonte: World Athletics; Il Post; Sky TG24. Verificato il 5 ottobre 2026.\n\n#oltreognilimite #sport #100metri",
+    "fonte": "World Athletics, 'Bolt again, 9.58 world record in Berlin' (2009); Il Post, 'Marcell Jacobs ha vinto la medaglia d'oro nei 100 metri' (1 agosto 2021); Sky TG24, 'Olimpiadi, Jacobs oro nei 100 metri: 9''80, nuovo record europeo'",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g4-p3",
+    "day": "G4",
+    "slot": "post3",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/sport-record/img/s/g4-p3.jpg",
+    "caption": "Quella finale la ricordi solo tu. E gli altri non ti credono.\n\nTagga chi la ricorda.\n\n#oltreognilimite #sport"
+  },
+  {
+    "id": "g4-st",
+    "day": "G4",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/sport-record/img/st/g4-st.jpg"
+  },
+  {
+    "id": "g5-p1",
+    "day": "G5",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/sport-record/img/car/g5-p1/g5-p1-1.jpg",
+      "pages/sport-record/img/car/g5-p1/g5-p1-2.jpg",
+      "pages/sport-record/img/car/g5-p1/g5-p1-3.jpg",
+      "pages/sport-record/img/car/g5-p1/g5-p1-4.jpg",
+      "pages/sport-record/img/car/g5-p1/g5-p1-5.jpg"
+    ],
+    "caption": "Quattro imprese italiane in ordine cronologico. Il criterio è nostro: risultati che hanno fatto storia.\n\nFonte: Olympics.com; Sky Sport; Il Post. Verificato il 5 ottobre 2026.\n\n#oltreognilimite #sport #italia",
+    "fonte": "Olympics.com, scheda Alberto Tomba (doppio oro a Calgary 1988); Sky Sport, 'Tour de France 1998: l'impresa del Pirata' (Pantani, Giro e Tour 1998); Sky Sport, 'Super Pellegrini, oro e record' (1:52,98 nel 2009); Il Post, 'Marcell Jacobs ha vinto la medaglia d'oro nei 100 metri' (2021)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g5-p2",
+    "day": "G5",
+    "slot": "post2",
+    "type": "image",
+    "format": "F06",
+    "image": "pages/sport-record/img/s/g5-p2.jpg",
+    "caption": "254,5 metri: il salto più lungo mai misurato in una gara ufficiale, di Domen Prevc a Planica il 30 marzo 2025. Un gesto da professionisti, da guardare e non da imitare.\n\nSalva e mandalo a chi segue gli sport invernali.\n\nFonte: Wikipedia (List of longest ski jumps); Planica. Verificato il 5 ottobre 2026.\n\n#oltreognilimite #sport #saltoconglisci",
+    "fonte": "Wikipedia, 'List of longest ski jumps'; Planica (nc-planica.si), notizie sul record di Domen Prevc (254,5 m il 30 marzo 2025; primato ancora valido nel 2026)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g5-p3",
+    "day": "G5",
+    "slot": "post3",
+    "type": "carousel",
+    "format": "F08",
+    "images": [
+      "pages/sport-record/img/car/g5-p3/g5-p3-1.jpg",
+      "pages/sport-record/img/car/g5-p3/g5-p3-2.jpg"
+    ],
+    "caption": "Mito: 10.000 passi al giorno sono una regola scientifica. Realtà: il numero nasce da uno slogan commerciale per un contapassi giapponese degli anni Sessanta, il Manpo-kei, \"10.000 passi\". Nessuna indicazione medica: solo storia.\n\nSalva e mandalo a chi conta i passi.\n\nFonte: SiliconCanals; Phipps Conservatory; Gulf News. Verificato il 5 ottobre 2026.\n\n#oltreognilimite #sport #statistiche",
+    "fonte": "SiliconCanals, 'The truth about 10,000 steps a day'; Phipps Conservatory, 'What's up with 10,000 steps'; Gulf News, 'The 10,000 steps myth' (Yamasa, Manpo-kei, dopo le Olimpiadi di Tokyo 1964; I-Min Lee, Harvard)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g5-st",
+    "day": "G5",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/sport-record/img/st/g5-st.jpg"
+  },
+  {
+    "id": "g6-p1",
+    "day": "G6",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F09",
+    "images": [
+      "pages/sport-record/img/car/g6-p1/g6-p1-1.jpg",
+      "pages/sport-record/img/car/g6-p1/g6-p1-2.jpg",
+      "pages/sport-record/img/car/g6-p1/g6-p1-3.jpg",
+      "pages/sport-record/img/car/g6-p1/g6-p1-4.jpg",
+      "pages/sport-record/img/car/g6-p1/g6-p1-5.jpg",
+      "pages/sport-record/img/car/g6-p1/g6-p1-6.jpg"
+    ],
+    "caption": "Coppi: 5 Giri e 2 Tour. Bartali: 3 Giri e 2 Tour. Una rivalità che ha diviso l'Italia, e una borraccia che nessuno sa chi abbia passato a chi.\n\nSalva e mandalo a un appassionato di ciclismo.\n\nFonte: Pirelli; Cycling Revealed; Sport-histoire. Verificato il 5 ottobre 2026.\n\n#oltreognilimite #sport #ciclismo",
+    "fonte": "Pirelli, 'More than rivalry'; Cycling Revealed, 'Peloton feuds: Coppi-Bartali'; Sport-histoire, 'Fausto Coppi' (Coppi 5 Giri e 2 Tour; Bartali 3 Giri e 2 Tour; la borraccia del Galibier 1952)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g6-p2",
+    "day": "G6",
+    "slot": "post2",
+    "type": "image",
+    "format": "F06",
+    "image": "pages/sport-record/img/s/g6-p2.jpg",
+    "caption": "56,792 chilometri in un'ora: il record di Filippo Ganna a Grenchen, l'8 ottobre 2022. È ancora il primato.\n\nSalva e mandalo a chi pedala.\n\nFonte: Rouleur; Quotidiano.net. Verificato il 5 ottobre 2026.\n\n#oltreognilimite #sport #ciclismo #ganna",
+    "fonte": "Rouleur, 'Gallery: Filippo Ganna smashes the hour record'; Quotidiano.net, 'Ganna on the hour record: I don't rule out another attempt' (56,792 km, 8 ottobre 2022, velodromo di Grenchen; ancora il primato nel 2026)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g6-p3",
+    "day": "G6",
+    "slot": "post3",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/sport-record/img/car/g6-p3/g6-p3-1.jpg",
+      "pages/sport-record/img/car/g6-p3/g6-p3-2.jpg",
+      "pages/sport-record/img/car/g6-p3/g6-p3-3.jpg",
+      "pages/sport-record/img/car/g6-p3/g6-p3-4.jpg",
+      "pages/sport-record/img/car/g6-p3/g6-p3-5.jpg",
+      "pages/sport-record/img/car/g6-p3/g6-p3-6.jpg"
+    ],
+    "caption": "Il criterio è nostro: sport che sembrano un mistero finché qualcuno non te li spiega.\n\nSalva e scrivi nei commenti quale ti manca.\n\n#oltreognilimite #sport #curiosita"
+  },
+  {
+    "id": "g6-st",
+    "day": "G6",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/sport-record/img/st/g6-st.jpg"
+  },
+  {
+    "id": "g7-p1",
+    "day": "G7",
+    "slot": "post1",
+    "type": "image",
+    "format": "F07",
+    "image": "pages/sport-record/img/s/g7-p1.jpg",
+    "caption": "Sui 100 metri Bolt corre a 37,6 km/h di media. Il ghepardo supera i 100 km/h di punta: quasi il triplo.\n\nScrivi nei commenti chi tifi.\n\nFonte: Guinness World Records; Live Science; Smithsonian National Zoo. Verificato il 5 ottobre 2026.\n\n#oltreognilimite #sport #velocita",
+    "fonte": "Guinness World Records Kids, 'Fastest' (Bolt 37,57 km/h di media); Live Science, 'What is the fastest animal on Earth?'; Smithsonian National Zoo (ghepardo, 103 km/h documentati, stime fino a 113 km/h)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g7-p2",
+    "day": "G7",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F09",
+    "images": [
+      "pages/sport-record/img/car/g7-p2/g7-p2-1.jpg",
+      "pages/sport-record/img/car/g7-p2/g7-p2-2.jpg",
+      "pages/sport-record/img/car/g7-p2/g7-p2-3.jpg",
+      "pages/sport-record/img/car/g7-p2/g7-p2-4.jpg",
+      "pages/sport-record/img/car/g7-p2/g7-p2-5.jpg",
+      "pages/sport-record/img/car/g7-p2/g7-p2-6.jpg"
+    ],
+    "caption": "Parigi 1900: le donne gareggiano per la prima volta. Charlotte Cooper vince il torneo di tennis e diventa la prima campionessa olimpica individuale.\n\nSalva e mandalo a chi ama il tennis.\n\nFonte: Olympedia; Wikipedia; Olympics.com. Verificato il 5 ottobre 2026.\n\n#oltreognilimite #sport #olimpiadi",
+    "fonte": "Olympedia, 'Charlotte Cooper'; Wikipedia, 'Charlotte Cooper (tennis)'; Olympics.com, scheda atleta (11 luglio 1900, finale contro Hélène Prévost; oro anche nel doppio misto con Reggie Doherty)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g7-p3",
+    "day": "G7",
+    "slot": "post3",
+    "type": "image",
+    "format": "F06",
+    "image": "pages/sport-record/img/s/g7-p3.jpg",
+    "caption": "Prima dei dischi, la barra: 20 kg quella maschile, 15 kg quella femminile, secondo i regolamenti della federazione internazionale. Una nota di cultura sportiva, non un consiglio di allenamento.\n\nSalva e mandalo a chi conta i dischi.\n\nFonte: IWF; Torokhtiy. Verificato il 5 ottobre 2026.\n\n#oltreognilimite #sport #sollevamento",
+    "fonte": "International Weightlifting Federation, 'Equipment' (barra maschile 20 kg, 2,2 m; femminile 15 kg, 2,01 m); Torokhtiy, 'Olympic barbell dimensions'",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g7-st",
+    "day": "G7",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/sport-record/img/st/g7-st.jpg"
+  },
+  {
+    "id": "g8-p1",
+    "day": "G8",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/sport-record/img/car/g8-p1/g8-p1-1.jpg",
+      "pages/sport-record/img/car/g8-p1/g8-p1-2.jpg",
+      "pages/sport-record/img/car/g8-p1/g8-p1-3.jpg",
+      "pages/sport-record/img/car/g8-p1/g8-p1-4.jpg",
+      "pages/sport-record/img/car/g8-p1/g8-p1-5.jpg",
+      "pages/sport-record/img/car/g8-p1/g8-p1-6.jpg"
+    ],
+    "caption": "Il criterio è uno solo: quanti giocatori per squadra in campo, secondo i regolamenti ufficiali.\n\nSalva e scrivi nei commenti quale sport hai praticato.\n\nFonte: regolamenti ufficiali delle federazioni internazionali. Verificato il 5 ottobre 2026.\n\n#oltreognilimite #sport #squadra",
+    "fonte": "Regolamenti ufficiali delle federazioni internazionali: World Rugby (rugby a 15), IFAB (calcio), World Aquatics (pallanuoto), FIVB (pallavolo), FIBA (basket)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g8-p2",
+    "day": "G8",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F09",
+    "images": [
+      "pages/sport-record/img/car/g8-p2/g8-p2-1.jpg",
+      "pages/sport-record/img/car/g8-p2/g8-p2-2.jpg",
+      "pages/sport-record/img/car/g8-p2/g8-p2-3.jpg",
+      "pages/sport-record/img/car/g8-p2/g8-p2-4.jpg",
+      "pages/sport-record/img/car/g8-p2/g8-p2-5.jpg",
+      "pages/sport-record/img/car/g8-p2/g8-p2-6.jpg"
+    ],
+    "caption": "Barcellona 1992: il Dream Team vince otto partite su otto, con 43,8 punti di scarto in media. La finale con la Croazia è la più \"stretta\": 32 punti.\n\nSalva e mandalo a un appassionato di basket.\n\nFonte: ESPN; Olympics.com; FIBA. Verificato il 5 ottobre 2026.\n\n#oltreognilimite #sport #basket #dreamteam",
+    "fonte": "ESPN, 'On this date: the Dream Team takes gold'; Olympics.com, 'Dream Team 1992 revisited'; FIBA Hall of Fame, 'The Dream Team' (8-0, scarto medio 43,8 punti; primo torneo olimpico con giocatori NBA)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g8-p3",
+    "day": "G8",
+    "slot": "post3",
+    "type": "image",
+    "format": "F02",
+    "image": "pages/sport-record/img/s/g8-p3.jpg",
+    "caption": "Davanti a una gara dei 100 metri, tutti diventano velocisti.\n\nTagga chi lo dice sempre.\n\n#oltreognilimite #sport"
+  },
+  {
+    "id": "g8-st",
+    "day": "G8",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/sport-record/img/st/g8-st.jpg"
+  },
+  {
+    "id": "g9-p1",
+    "day": "G9",
+    "slot": "post1",
+    "type": "image",
+    "format": "F06",
+    "image": "pages/sport-record/img/s/g9-p1.jpg",
+    "caption": "2,45 metri: il record del mondo di salto in alto di Javier Sotomayor, a Salamanca il 27 luglio 1993. Nessuno lo ha superato.\n\nSalva e mandalo a chi salta.\n\nFonte: The Peninsula; USP Latin American Portal; FBC News. Verificato il 5 ottobre 2026.\n\n#oltreognilimite #sport #atletica #saltoinalto",
+    "fonte": "The Peninsula Qatar, 'Sotomayor's high jump record turns 25'; USP Portal Latinoamericano, scheda Javier Sotomayor; FBC News (2,45 m il 27 luglio 1993; primato ancora in vigore)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g9-p2",
+    "day": "G9",
+    "slot": "post2",
+    "type": "image",
+    "format": "F07",
+    "image": "pages/sport-record/img/s/g9-p2.jpg",
+    "caption": "Due sport di racchetta, due campi: il tennis 23,77 x 8,23 metri nel singolare, il padel 20 x 10 con le pareti.\n\nScrivi nei commenti quale preferisci.\n\nFonte: regolamenti ITF e FIP. Verificato il 5 ottobre 2026.\n\n#oltreognilimite #sport #racchetta",
+    "fonte": "Regolamenti ufficiali ITF (tennis: campo 23,77 x 8,23 m nel singolare) e FIP (padel: campo 20 x 10 m con pareti)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g9-p3",
+    "day": "G9",
+    "slot": "post3",
+    "type": "carousel",
+    "format": "F08",
+    "images": [
+      "pages/sport-record/img/car/g9-p3/g9-p3-1.jpg",
+      "pages/sport-record/img/car/g9-p3/g9-p3-2.jpg"
+    ],
+    "caption": "Mito: il dolore muscolare del giorno dopo è acido lattico. Realtà: l'acido lattico viene smaltito in 30-60 minuti. Il dolore ritardato (DOMS) dipende da microlesioni delle fibre. Nessun consiglio medico: solo un chiarimento.\n\nSalva e mandalo a chi si lamenta il giorno dopo.\n\nFonte: Garmin; My-personaltrainer; Sport e Salute. Verificato il 5 ottobre 2026.\n\n#oltreognilimite #sport #allenamento",
+    "fonte": "Garmin, 'Che cosa sono i DOMS'; My-personaltrainer, 'Quali sono le cause dell'indolenzimento muscolare?'; Sport e Salute (Liguria), 'Dolore muscolare post esercizio' (acido lattico smaltito in 30-60 minuti; DOMS da microlesioni, 24-48 ore)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g9-st",
+    "day": "G9",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/sport-record/img/st/g9-st.jpg"
+  },
+  {
+    "id": "g10-p1",
+    "day": "G10",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F09",
+    "images": [
+      "pages/sport-record/img/car/g10-p1/g10-p1-1.jpg",
+      "pages/sport-record/img/car/g10-p1/g10-p1-2.jpg",
+      "pages/sport-record/img/car/g10-p1/g10-p1-3.jpg",
+      "pages/sport-record/img/car/g10-p1/g10-p1-4.jpg",
+      "pages/sport-record/img/car/g10-p1/g10-p1-5.jpg",
+      "pages/sport-record/img/car/g10-p1/g10-p1-6.jpg"
+    ],
+    "caption": "Atene 1896: 14 nazioni, 241 atleti, 43 gare. Nessuna donna in gara: le donne partecipano per la prima volta nel 1900.\n\nSalva e mandalo a un appassionato di storia dello sport.\n\nFonte: Olympics.com; History.com; Greek City Times. Verificato il 5 ottobre 2026.\n\n#oltreognilimite #sport #olimpiadi",
+    "fonte": "Olympics.com, 'Olympic Games Athens 1896'; History.com, 'First modern Olympic Games begin in Athens'; Greek City Times (14 nazioni, 241 atleti, 43 gare; nessuna donna)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g10-p2",
+    "day": "G10",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/sport-record/img/car/g10-p2/g10-p2-1.jpg",
+      "pages/sport-record/img/car/g10-p2/g10-p2-2.jpg",
+      "pages/sport-record/img/car/g10-p2/g10-p2-3.jpg",
+      "pages/sport-record/img/car/g10-p2/g10-p2-4.jpg",
+      "pages/sport-record/img/car/g10-p2/g10-p2-5.jpg"
+    ],
+    "caption": "Quattro record che resistono da decenni. Il criterio è nostro: i numeri che sembrano troppo grandi per essere veri.\n\nSalva e scrivi nei commenti quale ti sembra più impossibile.\n\nFonte: ICC; MLB.com; Guinness World Records; History.com. Verificato il 5 ottobre 2026.\n\n#oltreognilimite #sport #record",
+    "fonte": "ICC Hall of Fame, scheda Donald Bradman (media 99,94 in 52 Test); MLB.com, 'DiMaggio's 56-game hit streak'; History.com, 'Cy Young pitcher MLB records' (511 vittorie); Guinness World Records, 'Most points scored in an NHL career' (2.857 punti, Gretzky)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g10-p3",
+    "day": "G10",
+    "slot": "post3",
+    "type": "image",
+    "format": "F06",
+    "image": "pages/sport-record/img/s/g10-p3.jpg",
+    "caption": "Tony Hawk completa il primo \"900\" su uno skateboard (due giri e mezzo) il 27 giugno 1999, dopo dieci tentativi. Un gesto da professionista, da guardare e non da imitare.\n\nSalva e mandalo a chi va in skate.\n\nFonte: Guinness World Records; Wikipedia. Verificato il 5 ottobre 2026.\n\n#oltreognilimite #sport #skateboard",
+    "fonte": "Guinness World Records, 'First 900 on a skateboard'; Wikipedia, '900 (skateboarding)' e 'Tony Hawk' (X Games V, 27 giugno 1999, dopo dieci tentativi falliti)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g10-st",
+    "day": "G10",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/sport-record/img/st/g10-st.jpg"
+  },
+  {
+    "id": "g11-p1",
+    "day": "G11",
+    "slot": "post1",
+    "type": "image",
+    "format": "F07",
+    "image": "pages/sport-record/img/s/g11-p1.jpg",
+    "caption": "Due velocisti italiani, due epoche: Mennea, oro olimpico nei 200 m a Mosca 1980, e Jacobs, oro nei 100 m a Tokyo 2020 (disputati nel 2021).\n\nScrivi nei commenti chi scegli.\n\nFonte: Wikipedia; Olympics.com; Il Post. Verificato il 5 ottobre 2026.\n\n#oltreognilimite #sport #italia",
+    "fonte": "Wikipedia, 'Pietro Mennea'; Olympics.com, scheda Pietro Mennea; Il Post, 'Marcell Jacobs ha vinto la medaglia d'oro nei 100 metri' (2021)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g11-p2",
+    "day": "G11",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F09",
+    "images": [
+      "pages/sport-record/img/car/g11-p2/g11-p2-1.jpg",
+      "pages/sport-record/img/car/g11-p2/g11-p2-2.jpg",
+      "pages/sport-record/img/car/g11-p2/g11-p2-3.jpg",
+      "pages/sport-record/img/car/g11-p2/g11-p2-4.jpg",
+      "pages/sport-record/img/car/g11-p2/g11-p2-5.jpg"
+    ],
+    "caption": "1° agosto 1976, Niki Lauda ha un grave incidente al Nürburgring. Dopo 42 giorni, il 12 settembre, è di nuovo in griglia a Monza e chiude quarto.\n\nSalva e mandalo a un appassionato di corse.\n\nFonte: Formula1.com; RacingNews365; Quotidiano.net. Verificato il 5 ottobre 2026.\n\n#oltreognilimite #sport #formula1 #lauda",
+    "fonte": "Formula1.com, 'He was like a ghost: Remembering Niki Lauda's comeback from fiery Nurburgring crash'; RacingNews365, 'The story behind Niki Lauda's comeback'; Quotidiano.net, 'Niki Lauda, all'inferno e ritorno' (incidente 1° agosto 1976; ritorno a Monza il 12 settembre, 42 giorni dopo; quarto posto)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g11-p3",
+    "day": "G11",
+    "slot": "post3",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/sport-record/img/s/g11-p3.jpg",
+    "caption": "Non guarda la partita: guarda i numeri. Li conosce tutti.\n\nTagga chi conosce tutte le statistiche.\n\n#oltreognilimite #sport"
+  },
+  {
+    "id": "g11-st",
+    "day": "G11",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/sport-record/img/st/g11-st.jpg"
+  },
+  {
+    "id": "g12-p1",
+    "day": "G12",
+    "slot": "post1",
+    "type": "image",
+    "format": "F06",
+    "image": "pages/sport-record/img/s/g12-p1.jpg",
+    "caption": "11 ore e 5 minuti in tre giorni: il 24 giugno 2010 John Isner batte Nicolas Mahut 70-68 al quinto set. È la partita più lunga della storia del tennis professionistico.\n\nSalva e mandalo a chi non molla mai.\n\nFonte: Wikipedia; Guinness World Records; Tennis Majors. Verificato il 5 ottobre 2026.\n\n#oltreognilimite #sport #tennis",
+    "fonte": "Wikipedia, 'Isner-Mahut match at the 2010 Wimbledon Championships'; Guinness World Records, 'Longest professional tennis match'; Tennis Majors (22-24 giugno 2010, 183 game, quinto set di 8 ore e 11 minuti)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g12-p2",
+    "day": "G12",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/sport-record/img/car/g12-p2/g12-p2-1.jpg",
+      "pages/sport-record/img/car/g12-p2/g12-p2-2.jpg",
+      "pages/sport-record/img/car/g12-p2/g12-p2-3.jpg",
+      "pages/sport-record/img/car/g12-p2/g12-p2-4.jpg",
+      "pages/sport-record/img/car/g12-p2/g12-p2-5.jpg"
+    ],
+    "caption": "Quattro sport tradizionali nati in Italia. Il criterio è nostro: giochi con radici antiche che si praticano ancora.\n\nSalva e scrivi nei commenti se ne hai giocato uno.\n\nFonte: GreenMe; Wikipedia (Pallone); Visit Tuscany; Piemonte Italia. Verificato il 5 ottobre 2026.\n\n#oltreognilimite #sport #italia #tradizione",
+    "fonte": "GreenMe, 'Calcio storico fiorentino: origini e regole'; Wikipedia, 'Pallone' (pallone col bracciale, prime regole del 1555); Visit Tuscany, 'Calcio storico fiorentino'; Piemonte Italia (pallapugno e pallatamburello, sport tradizionali con radici antiche)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g12-p3",
+    "day": "G12",
+    "slot": "post3",
+    "type": "carousel",
+    "format": "F08",
+    "images": [
+      "pages/sport-record/img/car/g12-p3/g12-p3-1.jpg",
+      "pages/sport-record/img/car/g12-p3/g12-p3-2.jpg"
+    ],
+    "caption": "Mito: tutti i campi da calcio sono uguali. Realtà: le regole ammettono tra 90 e 120 metri di lunghezza e tra 45 e 90 di larghezza. Nelle gare internazionali tra 100 e 110 per tra 64 e 75.\n\nSalva e mandalo a chi pensa che il campo sia sempre lo stesso.\n\nFonte: IFAB (Laws of the Game); Conceptdraw; Renderfoot. Verificato il 5 ottobre 2026.\n\n#oltreognilimite #sport #calcio",
+    "fonte": "IFAB, Laws of the Game (campo 90-120 m x 45-90 m; gare internazionali 100-110 m x 64-75 m); Conceptdraw, 'Soccer (football) dimensions'; Renderfoot, 'Soccer field dimensions'",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g12-st",
+    "day": "G12",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/sport-record/img/st/g12-st.jpg"
+  },
+  {
+    "id": "g13-p1",
+    "day": "G13",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F09",
+    "images": [
+      "pages/sport-record/img/car/g13-p1/g13-p1-1.jpg",
+      "pages/sport-record/img/car/g13-p1/g13-p1-2.jpg",
+      "pages/sport-record/img/car/g13-p1/g13-p1-3.jpg",
+      "pages/sport-record/img/car/g13-p1/g13-p1-4.jpg",
+      "pages/sport-record/img/car/g13-p1/g13-p1-5.jpg",
+      "pages/sport-record/img/car/g13-p1/g13-p1-6.jpg"
+    ],
+    "caption": "Istanbul, 25 maggio 2005: il Milan vince 3-0 all'intervallo, il Liverpool pareggia in sei minuti. Si va ai rigori: 3-2 per il Liverpool.\n\nSalva e mandalo a un appassionato di calcio.\n\nFonte: Wikipedia; Topendsports. Verificato il 5 ottobre 2026.\n\n#oltreognilimite #sport #calcio #champions",
+    "fonte": "Wikipedia, '2005 UEFA Champions League final'; Topendsports, '2005 UEFA Champions League' (Atatürk Olympic Stadium, 25 maggio 2005; 3-0 al primo tempo; 3-3 dopo i supplementari; 3-2 ai rigori)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g13-p2",
+    "day": "G13",
+    "slot": "post2",
+    "type": "image",
+    "format": "F07",
+    "image": "pages/sport-record/img/s/g13-p2.jpg",
+    "caption": "Tokyo, agosto 2021: due record in tre giorni, nello stesso stadio. Il record di Warholm è ancora il primato del mondo.\n\nScrivi nei commenti quale ti ha colpito di più.\n\nFonte: World Athletics; Sports Illustrated; Il Post. Verificato il 5 ottobre 2026.\n\n#oltreognilimite #sport #tokyo2020",
+    "fonte": "World Athletics, 'Tokyo Olympic Games men's 400m hurdles report' (Warholm 45,94, 3 agosto 2021); Il Post, 'Marcell Jacobs ha vinto la medaglia d'oro nei 100 metri' (9,80, 1 agosto 2021)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g13-p3",
+    "day": "G13",
+    "slot": "post3",
+    "type": "image",
+    "format": "F06",
+    "image": "pages/sport-record/img/s/g13-p3.jpg",
+    "caption": "Roma 1960: circa 400 atleti da 23 paesi partecipano alla prima edizione dei Giochi paralimpici, pochi giorni dopo la chiusura dei Giochi olimpici.\n\nSalva e mandalo a chi ama lo sport.\n\nFonte: Paralympic.org; Quotidiano.net; Unidformazione. Verificato il 5 ottobre 2026.\n\n#oltreognilimite #sport #paralimpiadi",
+    "fonte": "Paralympic.org, 'Italy goes down Rome 1960 memory lane'; Quotidiano.net, 'Paralimpiadi, presidente CIP Pancalli'; Unidformazione, 'Paralimpiadi: storia, evoluzione e impatto' (Roma 1960, 18-25 settembre, circa 400 atleti da 23 paesi)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g13-st",
+    "day": "G13",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/sport-record/img/st/g13-st.jpg"
+  },
+  {
+    "id": "g14-p1",
+    "day": "G14",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/sport-record/img/car/g14-p1/g14-p1-1.jpg",
+      "pages/sport-record/img/car/g14-p1/g14-p1-2.jpg",
+      "pages/sport-record/img/car/g14-p1/g14-p1-3.jpg",
+      "pages/sport-record/img/car/g14-p1/g14-p1-4.jpg",
+      "pages/sport-record/img/car/g14-p1/g14-p1-5.jpg",
+      "pages/sport-record/img/car/g14-p1/g14-p1-6.jpg"
+    ],
+    "caption": "I cinque record che ci sono piaciuti di più in queste due settimane. Il criterio è nostro.\n\nSalva e scrivi nei commenti il tuo.\n\nFonte: World Athletics; The Peninsula; Rouleur; NBA.com; Guinness World Records. Verificato il 5 ottobre 2026.\n\n#oltreognilimite #sport #riepilogo",
+    "fonte": "Fonti dei singoli record: World Athletics (100 m), The Peninsula (salto in alto), Rouleur (record dell'ora), NBA.com (Chamberlain), Guinness World Records (Isner-Mahut), come nei post precedenti",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g14-p2",
+    "day": "G14",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F09",
+    "images": [
+      "pages/sport-record/img/car/g14-p2/g14-p2-1.jpg",
+      "pages/sport-record/img/car/g14-p2/g14-p2-2.jpg",
+      "pages/sport-record/img/car/g14-p2/g14-p2-3.jpg",
+      "pages/sport-record/img/car/g14-p2/g14-p2-4.jpg",
+      "pages/sport-record/img/car/g14-p2/g14-p2-5.jpg",
+      "pages/sport-record/img/car/g14-p2/g14-p2-6.jpg"
+    ],
+    "caption": "Messico 1968: Dick Fosbury salta di schiena, vince l'oro con 2,24 m e cambia per sempre il salto in alto. Oggi quasi tutti saltano come lui.\n\nSalva e mandalo a chi ama l'atletica.\n\nFonte: World Athletics; NPR; History.com. Verificato il 5 ottobre 2026.\n\n#oltreognilimite #sport #atletica #fosbury",
+    "fonte": "World Athletics, 'Dick Fosbury: the flop' (20 ottobre 2018); NPR, 'Dick Fosbury turned his back on the bar and made a flop a success'; History.com, 'Fosbury flops to an Olympic record' (2,24 m a Città del Messico 1968)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g14-p3",
+    "day": "G14",
+    "slot": "post3",
+    "type": "image",
+    "format": "F07",
+    "image": "pages/sport-record/img/s/g14-p3.jpg",
+    "caption": "Il record più grande e il più strano di questi 14 giorni. Il criterio è nostro.\n\nScrivi nei commenti quale scegli.\n\n#oltreognilimite #sport #riepilogo"
+  },
+  {
+    "id": "g14-st",
+    "day": "G14",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/sport-record/img/st/g14-st.jpg"
   }
 ]
