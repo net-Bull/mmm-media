@@ -1,0 +1,34 @@
+{
+  "name": "Fallo da dietro",
+  "slug": "calcio",
+  "colors": {
+    "nero_lavagna": "#16181A",
+    "giallo_cartellino": "#FFD400",
+    "bianco_gesso": "#F7F7F2",
+    "verde_prato_accento": "#1F7A3A"
+  },
+  "fonts": {
+    "titoli": "Archivo Black (maiuscolo)",
+    "testo": "Inter Regular / Bold"
+  },
+  "motto": "Rigore? Ma quando mai",
+  "contrast": {
+    "giallo_su_nero": 12.44,
+    "bianco_su_nero": 16.56,
+    "nero_su_giallo": 12.44
+  },
+  "sizes": {
+    "post": [
+      1080,
+      1350
+    ],
+    "story": [
+      1080,
+      1920
+    ],
+    "avatar": [
+      1080,
+      1080
+    ]
+  }
+}
