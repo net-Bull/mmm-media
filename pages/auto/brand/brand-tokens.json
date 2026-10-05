@@ -1,0 +1,34 @@
+{
+  "name": "Sgommando",
+  "slug": "auto",
+  "colors": {
+    "Grigio asfalto": "#1B1D21",
+    "Arancio segnale": "#FF6B1A",
+    "Bianco": "#FFFFFF",
+    "Azzurro quadro": "#38BDF8"
+  },
+  "fonts": {
+    "titoli": "Barlow Condensed",
+    "testo": "Inter Regular / Bold"
+  },
+  "motto": "Più fumo che arrosto",
+  "contrast": {
+    "arancio su asfalto": 5.92,
+    "bianco su asfalto": 16.88,
+    "nero su arancio": 5.92
+  },
+  "sizes": {
+    "post": [
+      1080,
+      1350
+    ],
+    "story": [
+      1080,
+      1920
+    ],
+    "avatar": [
+      1080,
+      1080
+    ]
+  }
+}

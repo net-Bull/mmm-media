@@ -1,0 +1,34 @@
+{
+  "name": "Sapevatelo!",
+  "slug": "curiosita",
+  "colors": {
+    "Blu inchiostro": "#14213D",
+    "Arancio": "#F4A261",
+    "Crema": "#F5F0E6",
+    "Verde salvia": "#6B9080"
+  },
+  "fonts": {
+    "titoli": "DM Serif Display",
+    "testo": "Inter Regular / Bold"
+  },
+  "motto": "Una cosa vera al giorno",
+  "contrast": {
+    "arancio su blu": 7.75,
+    "crema su blu": 14.06,
+    "blu su crema": 14.06
+  },
+  "sizes": {
+    "post": [
+      1080,
+      1350
+    ],
+    "story": [
+      1080,
+      1920
+    ],
+    "avatar": [
+      1080,
+      1080
+    ]
+  }
+}

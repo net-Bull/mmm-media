@@ -1,0 +1,34 @@
+{
+  "name": "Col Ginocchio a terra",
+  "slug": "moto",
+  "colors": {
+    "Antracite": "#17181C",
+    "Rosso corsa": "#E63946",
+    "Crema": "#F4EFE6",
+    "Grigio cromo": "#B9BEC6"
+  },
+  "fonts": {
+    "titoli": "Bebas Neue",
+    "testo": "Inter Regular / Bold"
+  },
+  "motto": "In teoria",
+  "contrast": {
+    "rosso su antracite": 4.26,
+    "crema su antracite": 15.49,
+    "antracite su rosso": 4.26
+  },
+  "sizes": {
+    "post": [
+      1080,
+      1350
+    ],
+    "story": [
+      1080,
+      1920
+    ],
+    "avatar": [
+      1080,
+      1080
+    ]
+  }
+}
