@@ -1,0 +1,158 @@
+[
+  {
+    "id": "g1-p1",
+    "day": "G1",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F09",
+    "images": [
+      "pages/curiosita/img/car/g1-p1/g1-p1-1.jpg",
+      "pages/curiosita/img/car/g1-p1/g1-p1-2.jpg",
+      "pages/curiosita/img/car/g1-p1/g1-p1-3.jpg",
+      "pages/curiosita/img/car/g1-p1/g1-p1-4.jpg",
+      "pages/curiosita/img/car/g1-p1/g1-p1-5.jpg",
+      "pages/curiosita/img/car/g1-p1/g1-p1-6.jpg"
+    ],
+    "caption": "Lo sapevi che un neonato ha più ossa di un adulto? Circa 300 contro 206: crescendo molte si fondono.\n\nSalva e mandalo a chi non lo sapeva.\n\nFonte: Case Western Reserve University (Darin Croft); Science Blog. Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #corpoumano",
+    "fonte": "Case Western Reserve University, 'Anatomy's Darin Croft explains why adults have nearly 100 fewer bones than when they are born' (https://case.edu/news/anatomys-darin-croft-explains-why-adults-have-nearly-100-fewer-bones-when-they-are-born); Science Blog",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g1-p2",
+    "day": "G1",
+    "slot": "post2",
+    "type": "image",
+    "format": "F06",
+    "image": "pages/curiosita/img/s/g1-p2.jpg",
+    "caption": "Un milione di secondi? Quasi 12 giorni. Un miliardo? Quasi 32 anni. I numeri grandi ingannano.\n\nSalva e mandalo a chi dice \"è solo un miliardo\".\n\nCalcolo: 1.000.000.000 s : 86.400 s al giorno : 365,25 giorni = 31,7 anni. Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #numeri",
+    "fonte": "Calcolo: 1.000.000.000 s / 86.400 s al giorno = 11.574 giorni; / 365,25 = 31,7 anni. Un milione di secondi = 11,6 giorni",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g1-p3",
+    "day": "G1",
+    "slot": "post3",
+    "type": "carousel",
+    "format": "F08",
+    "images": [
+      "pages/curiosita/img/car/g1-p3/g1-p3-1.jpg",
+      "pages/curiosita/img/car/g1-p3/g1-p3-2.jpg"
+    ],
+    "caption": "Mito: quando dormi il cervello si spegne. Realtà: resta attivo e passa da una fase all'altra più volte per notte.\n\nSalva e mandalo a chi dice \"stanotte ho staccato la mente\".\n\nFonte: Harvard Medical School, Division of Sleep Medicine. Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #sonno",
+    "fonte": "Harvard Medical School, Division of Sleep Medicine (sleep.hms.harvard.edu); Superpower, 'Are you unconscious when you sleep?' (cervello attivo, EEG dal 1929)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g1-st",
+    "day": "G1",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/curiosita/img/st/g1-st.jpg"
+  },
+  {
+    "id": "g2-p1",
+    "day": "G2",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F09",
+    "images": [
+      "pages/curiosita/img/car/g2-p1/g2-p1-1.jpg",
+      "pages/curiosita/img/car/g2-p1/g2-p1-2.jpg",
+      "pages/curiosita/img/car/g2-p1/g2-p1-3.jpg",
+      "pages/curiosita/img/car/g2-p1/g2-p1-4.jpg",
+      "pages/curiosita/img/car/g2-p1/g2-p1-5.jpg",
+      "pages/curiosita/img/car/g2-p1/g2-p1-6.jpg"
+    ],
+    "caption": "Un cioccolato sciolto in tasca ha cambiato la cucina. Il forno a microonde nasce per caso, nel 1945.\n\nSalva e mandalo a chi lo usa ogni giorno.\n\nFonte: History.com; New England Historical Society. Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #invenzioni",
+    "fonte": "History.com, 'Microwave oven invention' (https://www.history.com/news/microwave-oven-invention); New England Historical Society, 'Percy Spencer Melts a Chocolate Bar, Invents the Microwave Oven'",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g2-p2",
+    "day": "G2",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/curiosita/img/car/g2-p2/g2-p2-1.jpg",
+      "pages/curiosita/img/car/g2-p2/g2-p2-2.jpg",
+      "pages/curiosita/img/car/g2-p2/g2-p2-3.jpg",
+      "pages/curiosita/img/car/g2-p2/g2-p2-4.jpg",
+      "pages/curiosita/img/car/g2-p2/g2-p2-5.jpg"
+    ],
+    "caption": "Quattro abilità incredibili. Non è una classifica scientifica: sono le più sorprendenti, secondo noi.\n\nSalva e scrivi nei commenti quale ti ha stupito di più.\n\nFonti: Guinness World Records; ESA; Live Science; AMNH. Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #animali",
+    "fonte": "Falco pellegrino: Guinness World Records / HMS BioNumbers (picchiata ~320 km/h, stime fino a 389); tardigradi: ESA, 'Tiny animals survive exposure to space' (2008); polpo: Live Science, 'How many hearts does an octopus have?'; Turritopsis dohrnii: American Museum of Natural History, 'The Immortal Jellyfish'",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g2-p3",
+    "day": "G2",
+    "slot": "post3",
+    "type": "image",
+    "format": "F06",
+    "image": "pages/curiosita/img/s/g2-p3.jpg",
+    "caption": "61 siti UNESCO: l'Italia è il primo paese al mondo. 55 culturali e 6 naturali.\n\nSalva e mandalo a chi dice che qui non c'è niente da vedere.\n\nFonte: geopop.it; L'Indipendente (dic 2025). Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #italia",
+    "fonte": "geopop.it, 'La classifica dei 10 paesi con più siti UNESCO al mondo: l'Italia è al primo posto con 61 patrimoni'; L'Indipendente, 15 dicembre 2025",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g2-st",
+    "day": "G2",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/curiosita/img/st/g2-st.jpg"
+  },
+  {
+    "id": "g3-p1",
+    "day": "G3",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F09",
+    "images": [
+      "pages/curiosita/img/car/g3-p1/g3-p1-1.jpg",
+      "pages/curiosita/img/car/g3-p1/g3-p1-2.jpg",
+      "pages/curiosita/img/car/g3-p1/g3-p1-3.jpg",
+      "pages/curiosita/img/car/g3-p1/g3-p1-4.jpg",
+      "pages/curiosita/img/car/g3-p1/g3-p1-5.jpg",
+      "pages/curiosita/img/car/g3-p1/g3-p1-6.jpg"
+    ],
+    "caption": "\"Ciao\" viene dal veneto: era un modo cortese di dire \"sono al vostro servizio\". Poi si è accorciato ed è diventato il saluto più italiano che ci sia.\n\nSalva e mandalo a chi dice ciao a tutti.\n\nFonte: Libreriamo; Il Post (2024); Virgilio Sapere. Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #parole",
+    "fonte": "Libreriamo, '10 parole italiane dall'origine sorprendente'; Il Post, 'Una parola italiana che si dice un po' dappertutto' (14 marzo 2024); Virgilio Sapere, differenza ciao/salve",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g3-p2",
+    "day": "G3",
+    "slot": "post2",
+    "type": "image",
+    "format": "F07",
+    "image": "pages/curiosita/img/s/g3-p2.jpg",
+    "caption": "Quale è più vecchia? La matita, di parecchio: grafite scoperta a Borrowdale nel 1564, produzione in serie a Norimberga nel 1662. La penna a sfera arriva con il brevetto di Bíró nel 1938.\n\nSalva e manda a chi scrive ancora a matita.\n\nFonte: Family Tree Magazine; Il Post (2016). Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #storia",
+    "fonte": "Family Tree Magazine, 'History Matters: The Write Stuff'; Il Post, 'La storia di Ladislao José Biro, inventore della penna a sfera' (2016)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g3-p3",
+    "day": "G3",
+    "slot": "post3",
+    "type": "carousel",
+    "format": "F08",
+    "images": [
+      "pages/curiosita/img/car/g3-p3/g3-p3-1.jpg",
+      "pages/curiosita/img/car/g3-p3/g3-p3-2.jpg"
+    ],
+    "caption": "Mito: Napoleone era bassissimo. Realtà: circa 1,69 m, nella media dell'epoca. Il mito nasce dai pollici francesi, più lunghi di quelli inglesi, e dalle caricature britanniche.\n\nSalva e mandalo a chi lo ripete sempre.\n\nFonte: Il Post (2023); Studenti.it. Verificato il 5 ottobre 2026.\n\n#sapevatelo #curiosita #storia",
+    "fonte": "Il Post, 'Napoleone basso' (23 novembre 2023); Studenti.it, 'Napoleone era basso davvero? La verità'",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g3-st",
+    "day": "G3",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/curiosita/img/st/g3-st.jpg"
+  }
+]
