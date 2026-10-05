@@ -256,5 +256,11 @@
     "type": "image",
     "image_url": "https://raw.githubusercontent.com/net-Bull/mmm-media/main/img/s/g15-s.jpg",
     "caption": "La lista era solo un'idea. 🍟\n\n#maschiomediomediocre #MMM #memeitaliani #spesa #snack"
+  },
+  {
+    "id": "story-001",
+    "when": "2026-10-06T12:00:00+02:00",
+    "type": "story",
+    "image_url": "https://raw.githubusercontent.com/net-Bull/mmm-media/main/img/st/story-001.jpg"
   }
 ]
