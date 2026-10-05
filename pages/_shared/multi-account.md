@@ -8,7 +8,8 @@ pages/
   registry.json             # elenco pagine, tutte con enabled=false finché l'account non esiste
   <slug>/brand.md           # kit brand
   <slug>/plan.md            # piano editoriale 14 giorni
-  <slug>/calendar.json      # (da creare) voci pronte per la pubblicazione, stesso schema di MMM
+  <slug>/posts.json         # materiale pronto, senza date (giorno relativo G1-G14)
+  <slug>/calendar.json      # generato solo al lancio, con le date; stesso schema di MMM
   <slug>/img/...            # immagini JPEG pubbliche
 ```
 
