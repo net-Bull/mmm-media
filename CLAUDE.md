@@ -28,3 +28,6 @@ Tony gestisce la pagina Instagram **@maschiomediomediocre** (MMM, "Maschio Medio
 - Stories: il workflow v2 le gestisce già con `type: "story"` in `calendar.json` (solo `id`, `when`, `image_url`, niente caption; JPEG 1080x1920 in `img/st/`). Story di prova `story-001` (rilancio G02-M) programmata il 6 ott alle 12:00: verificare che esca una sola volta. Le Stories via API non supportano sticker interattivi.
 - Push su GitHub dal server: via SSH con una deploy key dedicata a questo repo (con permesso di scrittura), tenuta fuori dal repo. Mai usare i token di n8n per git.
 - Da fare: altre Stories; poi reels/video con voce e avatar (servizi esterni da scegliere; i video richiedono URL pubblico HTTPS: dominio o storage esterno); eventuale ingrandimento server.
+
+## Nuove pagine (preparazione, 5 ott 2026)
+In `pages/` ci sono kit brand e piani di 14 giorni per 7 nuove pagine (palestra, calcio, auto, moto, curiosità, sport-record, film). Nessun account esiste ancora. Leggere `pages/README.md` prima di lavorarci. Le regole di `pages/_shared/rules.md` valgono per quelle pagine; le regole editoriali di questo file restano per MMM. Non toccare `calendar.json` né il workflow pubblicato per le nuove pagine.
