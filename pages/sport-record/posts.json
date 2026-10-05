@@ -1,0 +1,154 @@
+[
+  {
+    "id": "g1-p1",
+    "day": "G1",
+    "slot": "post1",
+    "type": "image",
+    "format": "F06",
+    "image": "pages/sport-record/img/s/g1-p1.jpg",
+    "caption": "9,58 secondi sui 100 metri: 37,6 km/h di media, per tutta la gara. Il record di Bolt del 2009 è ancora lì.\n\nSalva e mandalo a chi pensa di essere veloce.\n\nFonte: World Athletics; calcolo 100 m : 9,58 s. Verificato il 5 ottobre 2026.\n\n#oltreognilimite #atletica #record",
+    "fonte": "World Athletics, 'Bolt again, 9.58 world record in Berlin' (16 agosto 2009); record ancora in vigore nel 2026 (Wikipedia, 100 metres; Open The Magazine). Velocità media: 100 / 9,58 = 10,44 m/s = 37,6 km/h",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g1-p2",
+    "day": "G1",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F09",
+    "images": [
+      "pages/sport-record/img/car/g1-p2/g1-p2-1.jpg",
+      "pages/sport-record/img/car/g1-p2/g1-p2-2.jpg",
+      "pages/sport-record/img/car/g1-p2/g1-p2-3.jpg",
+      "pages/sport-record/img/car/g1-p2/g1-p2-4.jpg",
+      "pages/sport-record/img/car/g1-p2/g1-p2-5.jpg",
+      "pages/sport-record/img/car/g1-p2/g1-p2-6.jpg"
+    ],
+    "caption": "Per anni sembrava impossibile. Il 6 maggio 1954 Roger Bannister corse il miglio in 3 minuti e 59,4 secondi.\n\nSalva e mandalo a chi corre.\n\nFonte: Guinness World Records; History.com. Verificato il 5 ottobre 2026.\n\n#oltreognilimite #atletica #storia",
+    "fonte": "Guinness World Records, 'First person to run a mile in less than four minutes'; History.com, 'First four-minute mile' (6 maggio 1954, Iffley Road, Oxford; record precedente 4:01,3 di Gunder Hägg, 1945)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g1-p3",
+    "day": "G1",
+    "slot": "post3",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/sport-record/img/car/g1-p3/g1-p3-1.jpg",
+      "pages/sport-record/img/car/g1-p3/g1-p3-2.jpg",
+      "pages/sport-record/img/car/g1-p3/g1-p3-3.jpg",
+      "pages/sport-record/img/car/g1-p3/g1-p3-4.jpg",
+      "pages/sport-record/img/car/g1-p3/g1-p3-5.jpg"
+    ],
+    "caption": "Quattro record del mondo su pista che resistono da 38 a 43 anni. Il criterio: record di corsa su pista all'aperto ancora in vigore, dal più vecchio.\n\nSalva e scrivi nei commenti quale ti sembra più impossibile.\n\nFonte: World Athletics; Athletics Weekly. Verificato il 5 ottobre 2026.\n\n#oltreognilimite #atletica #record",
+    "fonte": "Athletics Weekly, 'The oldest Olympic Games records in athletics'; World Athletics (record in vigore: 800 m F 1:53,28, 1983; 400 m F 47,60, 1985; 100 m F 10,49 e 200 m F 21,34, 1988)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g1-st",
+    "day": "G1",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/sport-record/img/st/g1-st.jpg"
+  },
+  {
+    "id": "g2-p1",
+    "day": "G2",
+    "slot": "post1",
+    "type": "image",
+    "format": "F07",
+    "image": "pages/sport-record/img/s/g2-p1.jpg",
+    "caption": "Stessa gara, 97 anni di distanza: 10,6 secondi contro 9,58. Con un calcolo semplificato, Bolt taglierebbe il traguardo con circa 10 metri di vantaggio.\n\nScrivi nei commenti quanto pensi si possa ancora scendere.\n\nFonte: World Athletics; Wikipedia (progressione del record). Verificato il 5 ottobre 2026.\n\n#oltreognilimite #atletica #100metri",
+    "fonte": "Wikipedia, 'Men's 100 metres world record progression' (Donald Lippincott, 10,6 s, 6 luglio 1912, primo record riconosciuto IAAF); World Athletics (Bolt 9,58 s, 16 agosto 2009). Vantaggio: 10,6 s x 10,44 m/s = 110,7 m",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g2-p2",
+    "day": "G2",
+    "slot": "post2",
+    "type": "image",
+    "format": "F06",
+    "image": "pages/sport-record/img/s/g2-p2.jpg",
+    "caption": "23 ori e 28 medaglie olimpiche in totale: Michael Phelps resta l'olimpionico più decorato di sempre.\n\nSalva e mandalo a chi nuota ancora.\n\nFonte: CBC; Ahram; Team USA. Verificato il 5 ottobre 2026.\n\n#oltreognilimite #nuoto #record",
+    "fonte": "CBC, 'Michael Phelps becomes most decorated Olympian ever'; Ahram, 'Michael Phelps becomes the most decorated Olympian in history'; Team USA (28 medaglie, di cui 23 ori, 2004-2016)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g2-p3",
+    "day": "G2",
+    "slot": "post3",
+    "type": "carousel",
+    "format": "F08",
+    "images": [
+      "pages/sport-record/img/car/g2-p3/g2-p3-1.jpg",
+      "pages/sport-record/img/car/g2-p3/g2-p3-2.jpg"
+    ],
+    "caption": "Mito: 42,195 km sono la corsa di Fidippide. Realtà: la leggenda è antica, ma la misura nasce a Londra nel 1908, quando si aggiunsero 385 iarde per arrivare sotto il palco reale. È ufficiale dal 1921.\n\nSalva e mandalo a chi corre la maratona.\n\nFonte: Geopop; Corriere dello Sport. Verificato il 5 ottobre 2026.\n\n#oltreognilimite #maratona #storia",
+    "fonte": "Geopop, 'Perché la maratona è lunga esattamente 42.195 chilometri'; Corriere dello Sport, 'Ma perché la maratona è lunga 42.195 m?' (Londra 1908, +385 iarde; ufficializzata nel 1921)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g2-st",
+    "day": "G2",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/sport-record/img/st/g2-st.jpg"
+  },
+  {
+    "id": "g3-p1",
+    "day": "G3",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F09",
+    "images": [
+      "pages/sport-record/img/car/g3-p1/g3-p1-1.jpg",
+      "pages/sport-record/img/car/g3-p1/g3-p1-2.jpg",
+      "pages/sport-record/img/car/g3-p1/g3-p1-3.jpg",
+      "pages/sport-record/img/car/g3-p1/g3-p1-4.jpg",
+      "pages/sport-record/img/car/g3-p1/g3-p1-5.jpg",
+      "pages/sport-record/img/car/g3-p1/g3-p1-6.jpg"
+    ],
+    "caption": "19,72 sui 200 metri: Pietro Mennea lo corse nel 1979 e il record del mondo durò quasi 17 anni. È ancora il record europeo.\n\nSalva e mandalo a chi ricorda la Freccia del Sud.\n\nFonte: Wikipedia; Olympics.com; Mondo. Verificato il 5 ottobre 2026.\n\n#oltreognilimite #atletica #mennea",
+    "fonte": "Wikipedia, 'Pietro Mennea'; Olympics.com, scheda atleta; Inter.it, 'Pietro Mennea, 40 years since a record'; Mondo, 'A decade since the death of Pietro Mennea' (19,72 il 12 settembre 1979; record europeo ancora in vigore; oro Mosca 1980)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g3-p2",
+    "day": "G3",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/sport-record/img/car/g3-p2/g3-p2-1.jpg",
+      "pages/sport-record/img/car/g3-p2/g3-p2-2.jpg",
+      "pages/sport-record/img/car/g3-p2/g3-p2-3.jpg",
+      "pages/sport-record/img/car/g3-p2/g3-p2-4.jpg",
+      "pages/sport-record/img/car/g3-p2/g3-p2-5.jpg"
+    ],
+    "caption": "Il criterio è uno solo: la distanza ufficiale totale, non la difficoltà. Dal Tor des Géants alla maratona.\n\nSalva e scrivi nei commenti quale non faresti mai.\n\nFonte: Wikipedia (Spartathlon); Tonton Outdoor; Blitz Quotidiano. Verificato il 5 ottobre 2026.\n\n#oltreognilimite #ultramaratona #resistenza",
+    "fonte": "Tor des Géants: 330 km, 24.000 m D+ (Blitz Quotidiano, Tonton Outdoor); Spartathlon: 246 km Atene-Sparta, limite 36 ore (Wikipedia); Ironman: 3,8 km nuoto + 180 km bici + 42,195 km corsa = 226 km; maratona 42,195 km",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g3-p3",
+    "day": "G3",
+    "slot": "post3",
+    "type": "image",
+    "format": "F06",
+    "image": "pages/sport-record/img/s/g3-p3.jpg",
+    "caption": "100 punti in una partita NBA: Wilt Chamberlain, 2 marzo 1962. Il più vicino è Kobe Bryant con 81 nel 2006.\n\nSalva e mandalo a chi segue il basket.\n\nFonte: NBA.com; History.com. Verificato il 5 ottobre 2026.\n\n#oltreognilimite #basket #nba",
+    "fonte": "NBA.com, 'Wilt Chamberlain scores 100' (1962); History.com, 'Wilt Chamberlain scores 100 points' (2 marzo 1962, Hershey; 36/63 dal campo, 28/32 ai liberi); Kobe Bryant 81 punti il 22 gennaio 2006",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g3-st",
+    "day": "G3",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/sport-record/img/st/g3-st.jpg"
+  }
+]
