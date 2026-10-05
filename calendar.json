@@ -40,5 +40,53 @@
     "type": "image",
     "image_url": "https://raw.githubusercontent.com/net-Bull/mmm-media/main/img/06_mamma.jpg",
     "caption": "Ok. Sono sotto casa. 🏠\n\n#maschiomediomediocre #MMM #memeitaliani #mamma #italia"
+  },
+  {
+    "id": "car-g03",
+    "when": "2026-10-07T20:00:00+02:00",
+    "type": "carousel",
+    "images": [
+      "https://raw.githubusercontent.com/net-Bull/mmm-media/main/img/car/G03-S%20Carosello%20-%20Tipi%20di%20amici%20al%20calcetto/g03-1.jpg",
+      "https://raw.githubusercontent.com/net-Bull/mmm-media/main/img/car/G03-S%20Carosello%20-%20Tipi%20di%20amici%20al%20calcetto/g03-2.jpg",
+      "https://raw.githubusercontent.com/net-Bull/mmm-media/main/img/car/G03-S%20Carosello%20-%20Tipi%20di%20amici%20al%20calcetto/g03-3.jpg",
+      "https://raw.githubusercontent.com/net-Bull/mmm-media/main/img/car/G03-S%20Carosello%20-%20Tipi%20di%20amici%20al%20calcetto/g03-4.jpg"
+    ],
+    "caption": "Quale sei tu? Scrivilo nei commenti. ⚽\n\n#maschiomediomediocre #MMM #memeitaliani #calcetto #amici"
+  },
+  {
+    "id": "car-g07",
+    "when": "2026-10-11T20:00:00+02:00",
+    "type": "carousel",
+    "images": [
+      "https://raw.githubusercontent.com/net-Bull/mmm-media/main/img/car/G07-S%20Carosello%20-%20Tipi%20di%20uomini%20al%20super/g07-1.jpg",
+      "https://raw.githubusercontent.com/net-Bull/mmm-media/main/img/car/G07-S%20Carosello%20-%20Tipi%20di%20uomini%20al%20super/g07-2.jpg",
+      "https://raw.githubusercontent.com/net-Bull/mmm-media/main/img/car/G07-S%20Carosello%20-%20Tipi%20di%20uomini%20al%20super/g07-3.jpg",
+      "https://raw.githubusercontent.com/net-Bull/mmm-media/main/img/car/G07-S%20Carosello%20-%20Tipi%20di%20uomini%20al%20super/g07-4.jpg"
+    ],
+    "caption": "Dimmi che sei il terzo. 🛒\n\n#maschiomediomediocre #MMM #memeitaliani #spesa #supermercato"
+  },
+  {
+    "id": "car-g11",
+    "when": "2026-10-15T20:00:00+02:00",
+    "type": "carousel",
+    "images": [
+      "https://raw.githubusercontent.com/net-Bull/mmm-media/main/img/car/G11-S%20Carosello%20-%20Tipi%20di%20messaggi%20di%20notte/g11-1.jpg",
+      "https://raw.githubusercontent.com/net-Bull/mmm-media/main/img/car/G11-S%20Carosello%20-%20Tipi%20di%20messaggi%20di%20notte/g11-2.jpg",
+      "https://raw.githubusercontent.com/net-Bull/mmm-media/main/img/car/G11-S%20Carosello%20-%20Tipi%20di%20messaggi%20di%20notte/g11-3.jpg",
+      "https://raw.githubusercontent.com/net-Bull/mmm-media/main/img/car/G11-S%20Carosello%20-%20Tipi%20di%20messaggi%20di%20notte/g11-4.jpg"
+    ],
+    "caption": "Non rispondere. Mai. 📱🌙\n\n#maschiomediomediocre #MMM #memeitaliani #messaggi #notte"
+  },
+  {
+    "id": "car-g14",
+    "when": "2026-10-18T20:00:00+02:00",
+    "type": "carousel",
+    "images": [
+      "https://raw.githubusercontent.com/net-Bull/mmm-media/main/img/car/G14-S%20Carosello%20-%20Tipi%20di%20colleghi%20di%20luned%C3%AC/g14-1.jpg",
+      "https://raw.githubusercontent.com/net-Bull/mmm-media/main/img/car/G14-S%20Carosello%20-%20Tipi%20di%20colleghi%20di%20luned%C3%AC/g14-2.jpg",
+      "https://raw.githubusercontent.com/net-Bull/mmm-media/main/img/car/G14-S%20Carosello%20-%20Tipi%20di%20colleghi%20di%20luned%C3%AC/g14-3.jpg",
+      "https://raw.githubusercontent.com/net-Bull/mmm-media/main/img/car/G14-S%20Carosello%20-%20Tipi%20di%20colleghi%20di%20luned%C3%AC/g14-4.jpg"
+    ],
+    "caption": "Quanti ne riconosci? 👔\n\n#maschiomediomediocre #MMM #memeitaliani #lavoro #colleghi"
   }
 ]
