@@ -1,0 +1,34 @@
+{
+  "name": "Lunedì-Petto",
+  "slug": "palestra",
+  "colors": {
+    "nero": "#0E0E10",
+    "giallo": "#D7FF1F",
+    "bianco_sporco": "#F2F2EE",
+    "grigio_ferro": "#3A3A40"
+  },
+  "fonts": {
+    "titoli": "Anton (maiuscolo)",
+    "testo": "Inter Regular / Bold"
+  },
+  "motto": "Il lunedì è sacro",
+  "contrast": {
+    "giallo_su_nero": 16.73,
+    "bianco_su_nero": 17.18,
+    "nero_su_giallo": 16.73
+  },
+  "sizes": {
+    "post": [
+      1080,
+      1350
+    ],
+    "story": [
+      1080,
+      1920
+    ],
+    "avatar": [
+      1080,
+      1080
+    ]
+  }
+}
