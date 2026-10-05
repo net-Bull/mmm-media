@@ -126,5 +126,486 @@
     "type": "story",
     "format": "F10",
     "image": "pages/calcio/img/st/g3-st.jpg"
+  },
+  {
+    "id": "g4-p1",
+    "day": "G4",
+    "slot": "post1",
+    "type": "image",
+    "format": "F04",
+    "image": "pages/calcio/img/s/g4-p1.jpg",
+    "caption": "Le previsioni del Cugino: sempre sicure, mai verificate.\n\nMandala al tuo Cugino.\n\n#fallodadietro #calcio #tifosi"
+  },
+  {
+    "id": "g4-p2",
+    "day": "G4",
+    "slot": "post2",
+    "type": "image",
+    "format": "F07",
+    "image": "pages/calcio/img/s/g4-p2.jpg",
+    "caption": "Domenica sera, due modi di vivere la classifica.\n\nScrivi nei commenti da che parte stai.\n\n#fallodadietro #calcio #tifosi"
+  },
+  {
+    "id": "g4-p3",
+    "day": "G4",
+    "slot": "post3",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/calcio/img/s/g4-p3.jpg",
+    "caption": "Esulti. Poi aspetti. Poi respiri. Poi guardi lo schermo.\n\nTagga chi ha esultato troppo presto.\n\n#fallodadietro #calcio #tifosi"
+  },
+  {
+    "id": "g4-st",
+    "day": "G4",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/calcio/img/st/g4-st.jpg"
+  },
+  {
+    "id": "g5-p1",
+    "day": "G5",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F09",
+    "images": [
+      "pages/calcio/img/car/g5-p1/g5-p1-1.jpg",
+      "pages/calcio/img/car/g5-p1/g5-p1-2.jpg",
+      "pages/calcio/img/car/g5-p1/g5-p1-3.jpg",
+      "pages/calcio/img/car/g5-p1/g5-p1-4.jpg",
+      "pages/calcio/img/car/g5-p1/g5-p1-5.jpg",
+      "pages/calcio/img/car/g5-p1/g5-p1-6.jpg"
+    ],
+    "caption": "Una stagione di Serie B che sembrava un sogno: il Carpi chiude il girone d'andata in testa e il 28 aprile 2015 è promosso in Serie A.\n\nSalva e mandalo a un tifoso di provincia.\n\nFonte: Wikipedia; Il Post; Forza Italian Football. Verificato il 5 ottobre 2026.\n\n#fallodadietro #serieB #calcio",
+    "fonte": "Wikipedia, 'AC Carpi'; Il Post, 'La squadra di calcio del Carpi è stata promossa in Serie A' (28 aprile 2015); Forza Italian Football, 'Serie B 2014-15 week 38 round up' (43 punti all'andata, +9 sul Frosinone; 0-0 con il Bari)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g5-p2",
+    "day": "G5",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/calcio/img/car/g5-p2/g5-p2-1.jpg",
+      "pages/calcio/img/car/g5-p2/g5-p2-2.jpg",
+      "pages/calcio/img/car/g5-p2/g5-p2-3.jpg",
+      "pages/calcio/img/car/g5-p2/g5-p2-4.jpg",
+      "pages/calcio/img/car/g5-p2/g5-p2-5.jpg",
+      "pages/calcio/img/car/g5-p2/g5-p2-6.jpg"
+    ],
+    "caption": "Solo descrizioni, niente testi. Il criterio è nostro: i cori che riconosci anche senza parole.\n\nSalva e scrivi nei commenti il tuo.\n\n#fallodadietro #calcio #tifosi"
+  },
+  {
+    "id": "g5-p3",
+    "day": "G5",
+    "slot": "post3",
+    "type": "image",
+    "format": "F02",
+    "image": "pages/calcio/img/s/g5-p3.jpg",
+    "caption": "Una volta sì. Oggi no. Sempre.\n\nTagga chi lo dice a ogni partita.\n\n#fallodadietro #calcio #tifosi"
+  },
+  {
+    "id": "g5-st",
+    "day": "G5",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/calcio/img/st/g5-st.jpg"
+  },
+  {
+    "id": "g6-p1",
+    "day": "G6",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F03",
+    "images": [
+      "pages/calcio/img/car/g6-p1/g6-p1-1.jpg",
+      "pages/calcio/img/car/g6-p1/g6-p1-2.jpg",
+      "pages/calcio/img/car/g6-p1/g6-p1-3.jpg",
+      "pages/calcio/img/car/g6-p1/g6-p1-4.jpg",
+      "pages/calcio/img/car/g6-p1/g6-p1-5.jpg",
+      "pages/calcio/img/car/g6-p1/g6-p1-6.jpg"
+    ],
+    "caption": "Il gruppo dopo la partita ha sempre gli stessi personaggi.\n\nSalva e tagga il tuo gruppo.\n\n#fallodadietro #calcio #tifosi"
+  },
+  {
+    "id": "g6-p2",
+    "day": "G6",
+    "slot": "post2",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/calcio/img/s/g6-p2.jpg",
+    "caption": "Salvi alla penultima. Con tre anni di vita in meno.\n\nTagga chi ha sofferto fino all'ultimo.\n\n#fallodadietro #calcio #tifosi"
+  },
+  {
+    "id": "g6-p3",
+    "day": "G6",
+    "slot": "post3",
+    "type": "image",
+    "format": "F06",
+    "image": "pages/calcio/img/s/g6-p3.jpg",
+    "caption": "Dal 2004-05 la Serie A ha 20 squadre e 38 giornate. Prima erano 18 squadre e 34 giornate.\n\nSalva e mandalo a chi ricorda la Serie A a 18.\n\nFonte: Wikipedia; 90min. Verificato il 5 ottobre 2026.\n\n#fallodadietro #serieA #calcio",
+    "fonte": "Wikipedia, '2004-05 Serie A' (prima stagione a 20 squadre, 380 partite, 38 giornate invece di 34); 90min, 'Ultima Serie A a 18 squadre' (18 squadre dal 1988 al 2004)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g6-st",
+    "day": "G6",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/calcio/img/st/g6-st.jpg"
+  },
+  {
+    "id": "g7-p1",
+    "day": "G7",
+    "slot": "post1",
+    "type": "image",
+    "format": "F07",
+    "image": "pages/calcio/img/s/g7-p1.jpg",
+    "caption": "L'allenatore (inventato) prima e dopo la vittoria. Stessa conferenza, un altro uomo.\n\nScrivi nei commenti la tua frase preferita.\n\n#fallodadietro #calcio #tifosi"
+  },
+  {
+    "id": "g7-p2",
+    "day": "G7",
+    "slot": "post2",
+    "type": "image",
+    "format": "F04",
+    "image": "pages/calcio/img/s/g7-p2.jpg",
+    "caption": "Il fuorigioco visto dal divano. Più preciso del VAR.\n\nMandala al tuo Tifoso da Divano.\n\n#fallodadietro #calcio #tifosi"
+  },
+  {
+    "id": "g7-p3",
+    "day": "G7",
+    "slot": "post3",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/calcio/img/car/g7-p3/g7-p3-1.jpg",
+      "pages/calcio/img/car/g7-p3/g7-p3-2.jpg",
+      "pages/calcio/img/car/g7-p3/g7-p3-3.jpg",
+      "pages/calcio/img/car/g7-p3/g7-p3-4.jpg",
+      "pages/calcio/img/car/g7-p3/g7-p3-5.jpg",
+      "pages/calcio/img/car/g7-p3/g7-p3-6.jpg"
+    ],
+    "caption": "Il criterio è nostro: le frasi che senti al 70° minuto.\n\nSalva e scrivi nei commenti la tua.\n\n#fallodadietro #calcio #tifosi"
+  },
+  {
+    "id": "g7-st",
+    "day": "G7",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/calcio/img/st/g7-st.jpg"
+  },
+  {
+    "id": "g8-p1",
+    "day": "G8",
+    "slot": "post1",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/calcio/img/s/g8-p1.jpg",
+    "caption": "Il venerdì sera era per altro. Ora è per il calcio.\n\nTagga chi aveva un piano.\n\n#fallodadietro #calcio #tifosi"
+  },
+  {
+    "id": "g8-p2",
+    "day": "G8",
+    "slot": "post2",
+    "type": "image",
+    "format": "F02",
+    "image": "pages/calcio/img/s/g8-p2.jpg",
+    "caption": "Non ricorda dove ha messo le chiavi. Ma la formazione del 2006 sì.\n\nTagga chi le sa a memoria.\n\n#fallodadietro #calcio #tifosi"
+  },
+  {
+    "id": "g8-p3",
+    "day": "G8",
+    "slot": "post3",
+    "type": "carousel",
+    "format": "F03",
+    "images": [
+      "pages/calcio/img/car/g8-p3/g8-p3-1.jpg",
+      "pages/calcio/img/car/g8-p3/g8-p3-2.jpg",
+      "pages/calcio/img/car/g8-p3/g8-p3-3.jpg",
+      "pages/calcio/img/car/g8-p3/g8-p3-4.jpg",
+      "pages/calcio/img/car/g8-p3/g8-p3-5.jpg",
+      "pages/calcio/img/car/g8-p3/g8-p3-6.jpg"
+    ],
+    "caption": "Dopo la sconfitta in casa, ognuno ha il suo modo.\n\nSalva e tagga il tuo.\n\n#fallodadietro #calcio #tifosi"
+  },
+  {
+    "id": "g8-st",
+    "day": "G8",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/calcio/img/st/g8-st.jpg"
+  },
+  {
+    "id": "g9-p1",
+    "day": "G9",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F09",
+    "images": [
+      "pages/calcio/img/car/g9-p1/g9-p1-1.jpg",
+      "pages/calcio/img/car/g9-p1/g9-p1-2.jpg",
+      "pages/calcio/img/car/g9-p1/g9-p1-3.jpg",
+      "pages/calcio/img/car/g9-p1/g9-p1-4.jpg",
+      "pages/calcio/img/car/g9-p1/g9-p1-5.jpg",
+      "pages/calcio/img/car/g9-p1/g9-p1-6.jpg"
+    ],
+    "caption": "Il Chievo sale in Serie A nel 2001. Tutti lo danno per spacciato. Chiude la prima stagione al quinto posto.\n\nSalva e mandalo a un tifoso di provincia.\n\nFonte: Wikipedia; Sky Sport. Verificato il 5 ottobre 2026.\n\n#fallodadietro #serieA #calcio",
+    "fonte": "Wikipedia, 'AC ChievoVerona' e '2001-02 AC ChievoVerona season'; Sky Sport, 'Chievo 2001-2002' (prima stagione in Serie A, in testa per sei settimane in autunno, quinto posto con 54 punti, Coppa UEFA)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g9-p2",
+    "day": "G9",
+    "slot": "post2",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/calcio/img/s/g9-p2.jpg",
+    "caption": "La partita è finita. Il bar no.\n\nTagga chi resta fino alla chiusura.\n\n#fallodadietro #calcio #tifosi"
+  },
+  {
+    "id": "g9-p3",
+    "day": "G9",
+    "slot": "post3",
+    "type": "image",
+    "format": "F07",
+    "image": "pages/calcio/img/s/g9-p3.jpg",
+    "caption": "Stadio o divano. Il dibattito eterno.\n\nScrivi nei commenti dove stai.\n\n#fallodadietro #calcio #tifosi"
+  },
+  {
+    "id": "g9-st",
+    "day": "G9",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/calcio/img/st/g9-st.jpg"
+  },
+  {
+    "id": "g10-p1",
+    "day": "G10",
+    "slot": "post1",
+    "type": "image",
+    "format": "F06",
+    "image": "pages/calcio/img/s/g10-p1.jpg",
+    "caption": "Lo stadio Meazza di Milano, San Siro, è il più capiente d'Italia: circa 75.800 posti (la cifra cambia di poco tra le fonti).\n\nSalva e mandalo a chi ci è andato almeno una volta.\n\nFonte: Sky Sport; Goal.com. Verificato il 5 ottobre 2026.\n\n#fallodadietro #stadi #calcio",
+    "fonte": "Sky Sport, 'Stadi Serie A 2023-2024'; Goal.com, 'Qual è lo stadio più grande d'Italia' (capienza 75.817, altre fonti 75.923)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g10-p2",
+    "day": "G10",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/calcio/img/car/g10-p2/g10-p2-1.jpg",
+      "pages/calcio/img/car/g10-p2/g10-p2-2.jpg",
+      "pages/calcio/img/car/g10-p2/g10-p2-3.jpg",
+      "pages/calcio/img/car/g10-p2/g10-p2-4.jpg",
+      "pages/calcio/img/car/g10-p2/g10-p2-5.jpg",
+      "pages/calcio/img/car/g10-p2/g10-p2-6.jpg"
+    ],
+    "caption": "Il criterio è nostro: quelli che hai vissuto almeno una volta.\n\nSalva e scrivi nei commenti il tuo.\n\n#fallodadietro #calcio #tifosi"
+  },
+  {
+    "id": "g10-p3",
+    "day": "G10",
+    "slot": "post3",
+    "type": "image",
+    "format": "F02",
+    "image": "pages/calcio/img/s/g10-p3.jpg",
+    "caption": "Ci sono le amichevoli. Ci sono i recuperi. Lui c'è sempre.\n\nTagga chi non ne perde una.\n\n#fallodadietro #calcio #tifosi"
+  },
+  {
+    "id": "g10-st",
+    "day": "G10",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/calcio/img/st/g10-st.jpg"
+  },
+  {
+    "id": "g11-p1",
+    "day": "G11",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F03",
+    "images": [
+      "pages/calcio/img/car/g11-p1/g11-p1-1.jpg",
+      "pages/calcio/img/car/g11-p1/g11-p1-2.jpg",
+      "pages/calcio/img/car/g11-p1/g11-p1-3.jpg",
+      "pages/calcio/img/car/g11-p1/g11-p1-4.jpg",
+      "pages/calcio/img/car/g11-p1/g11-p1-5.jpg",
+      "pages/calcio/img/car/g11-p1/g11-p1-6.jpg"
+    ],
+    "caption": "La trasferta ha i suoi personaggi. Il tuo quale è?\n\nSalva e tagga il tuo compagno di trasferta.\n\n#fallodadietro #calcio #tifosi"
+  },
+  {
+    "id": "g11-p2",
+    "day": "G11",
+    "slot": "post2",
+    "type": "image",
+    "format": "F04",
+    "image": "pages/calcio/img/s/g11-p2.jpg",
+    "caption": "Organizzare la trasferta: un gioco a eliminazione.\n\nMandala al tuo gruppo.\n\n#fallodadietro #calcio #tifosi"
+  },
+  {
+    "id": "g11-p3",
+    "day": "G11",
+    "slot": "post3",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/calcio/img/s/g11-p3.jpg",
+    "caption": "Un centimetro. Una linea. Tre mesi di discussione.\n\nTagga chi ne parla ancora.\n\n#fallodadietro #calcio #tifosi"
+  },
+  {
+    "id": "g11-st",
+    "day": "G11",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/calcio/img/st/g11-st.jpg"
+  },
+  {
+    "id": "g12-p1",
+    "day": "G12",
+    "slot": "post1",
+    "type": "image",
+    "format": "F07",
+    "image": "pages/calcio/img/s/g12-p1.jpg",
+    "caption": "Solo opinione, nessun dato: il nonno e il nipote non si mettono d'accordo.\n\nScrivi nei commenti da che parte stai.\n\n#fallodadietro #calcio #tifosi"
+  },
+  {
+    "id": "g12-p2",
+    "day": "G12",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/calcio/img/car/g12-p2/g12-p2-1.jpg",
+      "pages/calcio/img/car/g12-p2/g12-p2-2.jpg",
+      "pages/calcio/img/car/g12-p2/g12-p2-3.jpg",
+      "pages/calcio/img/car/g12-p2/g12-p2-4.jpg",
+      "pages/calcio/img/car/g12-p2/g12-p2-5.jpg",
+      "pages/calcio/img/car/g12-p2/g12-p2-6.jpg"
+    ],
+    "caption": "Il criterio è nostro: i ruoli su cui il bar ha sempre un'opinione.\n\nSalva e scrivi nei commenti il tuo.\n\n#fallodadietro #calcio #tifosi"
+  },
+  {
+    "id": "g12-p3",
+    "day": "G12",
+    "slot": "post3",
+    "type": "image",
+    "format": "F02",
+    "image": "pages/calcio/img/s/g12-p3.jpg",
+    "caption": "Il titolare lo sanno tutti. La riserva solo lui.\n\nTagga chi sa chi è il portiere di riserva.\n\n#fallodadietro #calcio #tifosi"
+  },
+  {
+    "id": "g12-st",
+    "day": "G12",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/calcio/img/st/g12-st.jpg"
+  },
+  {
+    "id": "g13-p1",
+    "day": "G13",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F09",
+    "images": [
+      "pages/calcio/img/car/g13-p1/g13-p1-1.jpg",
+      "pages/calcio/img/car/g13-p1/g13-p1-2.jpg",
+      "pages/calcio/img/car/g13-p1/g13-p1-3.jpg",
+      "pages/calcio/img/car/g13-p1/g13-p1-4.jpg",
+      "pages/calcio/img/car/g13-p1/g13-p1-5.jpg",
+      "pages/calcio/img/car/g13-p1/g13-p1-6.jpg"
+    ],
+    "caption": "Dalla Serie D alla Serie A in cinque anni: la storia del Carpi è la prova che la provincia sogna.\n\nSalva e mandalo a un tifoso di provincia.\n\nFonte: ESPN; Quotidiano.net; Wikipedia. Verificato il 5 ottobre 2026.\n\n#fallodadietro #provincia #calcio",
+    "fonte": "ESPN, 'Carpi promoted to Serie A for the first time'; Quotidiano.net, 'Carpi: 10 years since the historic promotion to Serie A'; Wikipedia, 'AC Carpi' (5 anni dalla Serie D alla Serie A, promozione il 28 aprile 2015, retrocessione dopo una stagione)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g13-p2",
+    "day": "G13",
+    "slot": "post2",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/calcio/img/s/g13-p2.jpg",
+    "caption": "\"Chi gioca stasera?\" Panico. Sorriso. \"Una grande.\"\n\nTagga chi non sa mai chi gioca.\n\n#fallodadietro #calcio #tifosi"
+  },
+  {
+    "id": "g13-p3",
+    "day": "G13",
+    "slot": "post3",
+    "type": "carousel",
+    "format": "F03",
+    "images": [
+      "pages/calcio/img/car/g13-p3/g13-p3-1.jpg",
+      "pages/calcio/img/car/g13-p3/g13-p3-2.jpg",
+      "pages/calcio/img/car/g13-p3/g13-p3-3.jpg",
+      "pages/calcio/img/car/g13-p3/g13-p3-4.jpg",
+      "pages/calcio/img/car/g13-p3/g13-p3-5.jpg",
+      "pages/calcio/img/car/g13-p3/g13-p3-6.jpg"
+    ],
+    "caption": "Il fantacalcio ha le sue regole. Ognuno ha il suo stile.\n\nSalva e tagga il tuo rivale di lega.\n\n#fallodadietro #fantacalcio #calcio"
+  },
+  {
+    "id": "g13-st",
+    "day": "G13",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/calcio/img/st/g13-st.jpg"
+  },
+  {
+    "id": "g14-p1",
+    "day": "G14",
+    "slot": "post1",
+    "type": "image",
+    "format": "F06",
+    "image": "pages/calcio/img/s/g14-p1.jpg",
+    "caption": "Una stagione di Serie B: 20 squadre, 38 giornate, 380 partite. Come in Serie A, con meno luci ma più cuore.\n\nSalva e mandalo a chi la segue.\n\nFonte: Eurosport (classifiche 2022-23, 2023-24, 2024-25); calcolo 20 x 19. Verificato il 5 ottobre 2026.\n\n#fallodadietro #serieB #calcio",
+    "fonte": "Eurosport, classifiche Serie B 2022-23, 2023-24 e 2024-25 (20 squadre, 38 partite ciascuna); calcolo: 20 x 19 = 380 partite",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g14-p2",
+    "day": "G14",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/calcio/img/car/g14-p2/g14-p2-1.jpg",
+      "pages/calcio/img/car/g14-p2/g14-p2-2.jpg",
+      "pages/calcio/img/car/g14-p2/g14-p2-3.jpg",
+      "pages/calcio/img/car/g14-p2/g14-p2-4.jpg",
+      "pages/calcio/img/car/g14-p2/g14-p2-5.jpg",
+      "pages/calcio/img/car/g14-p2/g14-p2-6.jpg"
+    ],
+    "caption": "Il criterio è nostro: i momenti per cui vale la pena soffrire.\n\nSalva e scrivi nei commenti il tuo.\n\n#fallodadietro #calcio #tifosi"
+  },
+  {
+    "id": "g14-p3",
+    "day": "G14",
+    "slot": "post3",
+    "type": "image",
+    "format": "F04",
+    "image": "pages/calcio/img/s/g14-p3.jpg",
+    "caption": "Il riepilogo di stagione (finto) del Cugino. Moralmente vinciamo sempre.\n\nMandala al tuo Cugino.\n\n#fallodadietro #calcio #tifosi"
+  },
+  {
+    "id": "g14-st",
+    "day": "G14",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/calcio/img/st/g14-st.jpg"
   }
 ]
