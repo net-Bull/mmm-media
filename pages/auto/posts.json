@@ -1,0 +1,126 @@
+[
+  {
+    "id": "g1-p1",
+    "day": "G1",
+    "slot": "post1",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/auto/img/s/g1-p1.jpg",
+    "caption": "Quattro parole che ti svuotano il portafoglio prima ancora di aprire il cofano.\n\nTagga chi ci è passato.\n\n#sgommando #auto #meccanico"
+  },
+  {
+    "id": "g1-p2",
+    "day": "G1",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F03",
+    "images": [
+      "pages/auto/img/car/g1-p2/g1-p2-1.jpg",
+      "pages/auto/img/car/g1-p2/g1-p2-2.jpg",
+      "pages/auto/img/car/g1-p2/g1-p2-3.jpg",
+      "pages/auto/img/car/g1-p2/g1-p2-4.jpg",
+      "pages/auto/img/car/g1-p2/g1-p2-5.jpg",
+      "pages/auto/img/car/g1-p2/g1-p2-6.jpg"
+    ],
+    "caption": "Al semaforo si vede chi sei davvero. Quale sei tu?\n\nSalva e tagga l'automobilista di famiglia.\n\n#sgommando #auto #semaforo"
+  },
+  {
+    "id": "g1-p3",
+    "day": "G1",
+    "slot": "post3",
+    "type": "image",
+    "format": "F02",
+    "image": "pages/auto/img/s/g1-p3.jpg",
+    "caption": "\"Tanto si spegne da sola.\" Non si spegne da sola.\n\nTagga chi ha la spia accesa da un mese.\n\n#sgommando #auto #spia"
+  },
+  {
+    "id": "g1-st",
+    "day": "G1",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/auto/img/st/g1-st.jpg"
+  },
+  {
+    "id": "g2-p1",
+    "day": "G2",
+    "slot": "post1",
+    "type": "image",
+    "format": "F04",
+    "image": "pages/auto/img/s/g2-p1.jpg",
+    "caption": "Il preventivo prima e il preventivo dopo. Ogni volta.\n\nMandalo al tuo meccanico (con affetto).\n\n#sgommando #auto #meccanico"
+  },
+  {
+    "id": "g2-p2",
+    "day": "G2",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/auto/img/car/g2-p2/g2-p2-1.jpg",
+      "pages/auto/img/car/g2-p2/g2-p2-2.jpg",
+      "pages/auto/img/car/g2-p2/g2-p2-3.jpg",
+      "pages/auto/img/car/g2-p2/g2-p2-4.jpg",
+      "pages/auto/img/car/g2-p2/g2-p2-5.jpg",
+      "pages/auto/img/car/g2-p2/g2-p2-6.jpg"
+    ],
+    "caption": "Zio Gigi se ne intende. Lo dice lui.\n\nSalva e mandala a chi ha uno Zio Gigi in famiglia.\n\n#sgommando #auto #ziogigi"
+  },
+  {
+    "id": "g2-p3",
+    "day": "G2",
+    "slot": "post3",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/auto/img/s/g2-p3.jpg",
+    "caption": "Il tagliando: il viaggio che non hai scelto. Destinazione: il portafoglio.\n\nTagga chi lo paga a malincuore.\n\n#sgommando #auto #tagliando"
+  },
+  {
+    "id": "g2-st",
+    "day": "G2",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/auto/img/st/g2-st.jpg"
+  },
+  {
+    "id": "g3-p1",
+    "day": "G3",
+    "slot": "post1",
+    "type": "image",
+    "format": "F07",
+    "image": "pages/auto/img/s/g3-p1.jpg",
+    "caption": "La discussione di famiglia che non ha mai un vincitore.\n\nScrivi nei commenti da che parte stai.\n\n#sgommando #auto #dieselobenzina"
+  },
+  {
+    "id": "g3-p2",
+    "day": "G3",
+    "slot": "post2",
+    "type": "image",
+    "format": "F02",
+    "image": "pages/auto/img/s/g3-p2.jpg",
+    "caption": "Cinque minuti di manovre. Poi esce dall'auto e dice: \"Perfetto\".\n\nTagga chi parcheggia solo a marcia indietro.\n\n#sgommando #auto #parcheggio"
+  },
+  {
+    "id": "g3-p3",
+    "day": "G3",
+    "slot": "post3",
+    "type": "carousel",
+    "format": "F08",
+    "images": [
+      "pages/auto/img/car/g3-p3/g3-p3-1.jpg",
+      "pages/auto/img/car/g3-p3/g3-p3-2.jpg"
+    ],
+    "caption": "Mito: prima di partire il motore va scaldato da fermo. Realtà: nelle auto moderne si scalda meglio guidando piano per i primi minuti.\n\nSalva e mandalo a chi accende l'auto dieci minuti prima.\n\n#sgommando #auto #manutenzione",
+    "fonte": "Autoblog.it, 'Perché riscaldare l'auto a motore freddo non è più necessario'; U.S. Department of Energy, fueleconomy.gov (idling: guidare piano dopo circa 30 secondi)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g3-st",
+    "day": "G3",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/auto/img/st/g3-st.jpg"
+  }
+]
