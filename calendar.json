@@ -1,0 +1,44 @@
+[
+  {
+    "id": "chat-01",
+    "when": "2026-10-07T13:00:00+02:00",
+    "type": "image",
+    "image_url": "https://raw.githubusercontent.com/net-Bull/mmm-media/main/img/01_calcetto.jpg",
+    "caption": "Giovedì sera, 22:47. Il gruppo che conferma sempre all'ultimo. ⚽\n\n#maschiomediomediocre #MMM #memeitaliani #calcetto #amici"
+  },
+  {
+    "id": "chat-02",
+    "when": "2026-10-08T13:00:00+02:00",
+    "type": "image",
+    "image_url": "https://raw.githubusercontent.com/net-Bull/mmm-media/main/img/02_ex.jpg",
+    "caption": "Non rispondere. NON rispondere. …Hai risposto. 📱\n\n#maschiomediomediocre #MMM #memeitaliani #ex #relazioni"
+  },
+  {
+    "id": "chat-03",
+    "when": "2026-10-09T13:00:00+02:00",
+    "type": "image",
+    "image_url": "https://raw.githubusercontent.com/net-Bull/mmm-media/main/img/03_aperitivo.jpg",
+    "caption": "L'aperitivo delle 19 che finisce con \"ci vediamo domani\". 🍻\n\n#maschiomediomediocre #MMM #memeitaliani #aperitivo #amici"
+  },
+  {
+    "id": "chat-04",
+    "when": "2026-10-10T13:00:00+02:00",
+    "type": "image",
+    "image_url": "https://raw.githubusercontent.com/net-Bull/mmm-media/main/img/04_capo.jpg",
+    "caption": "Messaggio del capo alle 21:03. Sì, è urgente. No, non lo è. 💼\n\n#maschiomediomediocre #MMM #memeitaliani #lavoro #ufficio"
+  },
+  {
+    "id": "chat-05",
+    "when": "2026-10-11T13:00:00+02:00",
+    "type": "image",
+    "image_url": "https://raw.githubusercontent.com/net-Bull/mmm-media/main/img/05_spesa.jpg",
+    "caption": "\"Prendi solo il pane.\" Il carrello a fine spesa: 🛒\n\n#maschiomediomediocre #MMM #memeitaliani #spesa #coppia"
+  },
+  {
+    "id": "chat-06",
+    "when": "2026-10-12T13:00:00+02:00",
+    "type": "image",
+    "image_url": "https://raw.githubusercontent.com/net-Bull/mmm-media/main/img/06_mamma.jpg",
+    "caption": "Ok. Sono sotto casa. 🏠\n\n#maschiomediomediocre #MMM #memeitaliani #mamma #italia"
+  }
+]
