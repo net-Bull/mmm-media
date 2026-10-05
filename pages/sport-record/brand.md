@@ -1,12 +1,12 @@
 # Sport: record e atleti — kit brand
 
-Stato: bozza, ondata 3. Nome da scegliere da Tony. Disponibilità degli handle **non verificata**.
+Stato: bozza, ondata 3. Nome scelto da Tony (5 ott 2026). Disponibilità degli handle **non verificata**.
 
 ## Identità
 - Idea: i più grandi record e atleti della storia, di ogni sport, raccontati in grafiche e caroselli originali: numeri, confronti, storie.
 - Pubblico: uomini 18-45 appassionati di sport in generale.
 - Promessa: "un fatto sportivo impressionante in 5 slide".
-- Nomi candidati (da scegliere): **Oltre Il Limite**, **Primato Assoluto**, **Leggende e Record**. Evitare marchi di federazioni e competizioni (Olimpiadi, nomi di leghe).
+- Nome scelto: **Oltre ogni limite**. Handle da verificare (solo lettere, numeri, punti e underscore: niente trattini o punti esclamativi) e controllo che non sia già in uso come marchio. Evitare marchi di federazioni e competizioni (Olimpiadi, nomi di leghe).
 - Bio (bozza, senza link): "I record che sembrano impossibili. / Ogni sport, ogni epoca."
 
 ## Voce

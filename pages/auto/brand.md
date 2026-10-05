@@ -1,12 +1,12 @@
 # Auto — kit brand
 
-Stato: bozza, ondata 2. Nome da scegliere da Tony. Disponibilità degli handle **non verificata**.
+Stato: bozza, ondata 2. Nome scelto da Tony (5 ott 2026). Disponibilità degli handle **non verificata**.
 
 ## Identità
 - Idea: il mondo dell'auto visto da chi la usa davvero: il meccanico, la spia, il tagliando, il bollo, la discussione sul diesel. Misto ironico e serio: meme + confronti e curiosità tecniche verificate.
 - Pubblico: uomini 20-45 appassionati o semplici automobilisti.
 - Promessa: "ridi dei problemi che hai e impari una cosa utile sull'auto".
-- Nomi candidati (da scegliere): **Cavalli Fiscali**, **Benzina e Bugie**, **Spia Accesa**. Evitare nomi o logo di case automobilistiche.
+- Nome scelto: **Sgommando**. Handle da verificare (solo lettere, numeri, punti e underscore: niente trattini o punti esclamativi) e controllo che non sia già in uso come marchio. Evitare nomi o logo di case automobilistiche.
 - Bio (bozza, senza link): "Auto, bollo e bugie del meccanico. / Meme e curiosità per chi guida."
 
 ## Voce
@@ -40,3 +40,4 @@ Stato: bozza, ondata 2. Nome da scegliere da Tony. Disponibilità degli handle *
 ## Rischi
 - Dati tecnici e di legge cambiano: verificare.
 - Niente consigli di guida pericolosi o su modifiche non omologate.
+- Il nome richiama le sgommate: il tono resta ironico sul "quasi" (l'auto che non parte, la frizione del vicino). Niente contenuti che mostrino o incoraggino sgommate, drift o gare su strada pubblica.

@@ -1,12 +1,12 @@
 # Film cult — kit brand
 
-Stato: bozza, ondata 3. Nome da scegliere da Tony. Disponibilità degli handle **non verificata**.
+Stato: bozza, ondata 3. Nome scelto da Tony (5 ott 2026). Disponibilità degli handle **non verificata**.
 
 ## Identità
 - Idea: i film cult raccontati con classifiche, curiosità, confronti e commento, non con trailer ripubblicati.
 - Pubblico: uomini e donne 20-45 appassionati di cinema.
 - Promessa: "il film che devi rivedere, con un motivo in più".
-- Nomi candidati (da scegliere): **Scena Cult**, **Cult & Popcorn**, **Fotogramma Cult**. Niente nomi di film, case di produzione o studi.
+- Nome scelto: **Fotogramma Cult**. Handle da verificare (solo lettere, numeri, punti e underscore: niente trattini o punti esclamativi) e controllo che non sia già in uso come marchio. Niente nomi di film, case di produzione o studi.
 - Bio (bozza, senza link): "Film cult, curiosità e classifiche. / Si rivede tutto."
 
 ## Regola chiave: niente trailer ripubblicati

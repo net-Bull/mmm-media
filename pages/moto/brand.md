@@ -1,12 +1,12 @@
 # Moto — kit brand
 
-Stato: bozza, ondata 2. Nome da scegliere da Tony. Disponibilità degli handle **non verificata**.
+Stato: bozza, ondata 2. Nome scelto da Tony (5 ott 2026). Disponibilità degli handle **non verificata**.
 
 ## Identità
 - Idea: la cultura del motociclista italiano: il giro della domenica, la compagnia del bar, il casco, il caffè "ci fermiamo 5 minuti". Misto ironico e serio.
 - Pubblico: uomini 20-50 motociclisti e appassionati.
 - Promessa: "è la mia vita in moto e lo mando al gruppo".
-- Nomi candidati (da scegliere): **Curva Larga**, **Il Motociclista della Domenica**, **Gas Aperto**. Evitare nomi di costruttori.
+- Nome scelto: **Col Ginocchio a terra**. Handle da verificare (solo lettere, numeri, punti e underscore: niente trattini o punti esclamativi) e controllo che non sia già in uso come marchio. Evitare nomi di costruttori.
 - Bio (bozza, senza link): "Moto, casco e caffè. / Per chi la domenica esce presto."
 
 ## Voce
@@ -38,3 +38,4 @@ Stato: bozza, ondata 2. Nome da scegliere da Tony. Disponibilità degli handle *
 ## Rischi
 - Argomento sensibile sulla sicurezza: ogni post con consigli è verificato e senza incoraggiare rischi.
 - Dati su modelli, norme e record verificati con fonte.
+- Il nome richiama la guida in pista: il tono resta ironico sul motociclista che "ci crede" (il ginocchio che non tocca mai). Niente contenuti che incoraggino la guida al limite su strada pubblica.

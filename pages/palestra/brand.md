@@ -1,12 +1,12 @@
 # Palestra (gymbro funny) — kit brand
 
-Stato: bozza, ondata 1. Nome da scegliere da Tony. Disponibilità degli handle **non verificata**.
+Stato: bozza, ondata 1. Nome scelto da Tony (5 ott 2026). Disponibilità degli handle **non verificata**.
 
 ## Identità
 - Idea: il gymbro italiano visto con affetto e ironia: proteine, scheda sacra, "oggi petto", gambe saltate, il tizio che parla di cutting mentre mangia la pizza.
 - Pubblico: uomini 18-35 che frequentano la palestra o vorrebbero.
 - Promessa: "ti riconosci e lo mandi al tuo compagno di allenamento".
-- Nomi candidati (da scegliere): **Proteine e Rimpianti**, **Panca Piana**, **Lunedì Petto**. Evitare nomi con marchi di integratori o di palestre.
+- Nome scelto: **Lunedì-Petto**. Handle da verificare (solo lettere, numeri, punti e underscore: niente trattini o punti esclamativi) e controllo che non sia già in uso come marchio. Evitare nomi con marchi di integratori o di palestre.
 - Bio (bozza, senza link): "Il gymbro che c'è in te. / Ironia da spogliatoio. / Tagga il tuo compagno di scheda."
 
 ## Voce

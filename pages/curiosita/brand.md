@@ -1,12 +1,12 @@
 # Curiosità — kit brand
 
-Stato: bozza, ondata 3. Nome da scegliere da Tony. Disponibilità degli handle **non verificata**.
+Stato: bozza, ondata 3. Nome scelto da Tony (5 ott 2026). Disponibilità degli handle **non verificata**.
 
 ## Identità
 - Idea: curiosità e fatti sorprendenti in caroselli puliti: storia, scienza, corpo umano, mondo, parole, oggetti.
 - Pubblico: ampio, 18-45. Funziona come pagina "serbatoio" di follower in italiano.
 - Promessa: "impari una cosa vera in 30 secondi, e la mandi a qualcuno".
-- Nomi candidati (da scegliere): **Sapevatelo**, **Un Fatto Al Giorno**, **Pillole di Mondo**.
+- Nome scelto: **Sapevatelo!**. Handle da verificare (solo lettere, numeri, punti e underscore: niente trattini o punti esclamativi) e controllo che non sia già in uso come marchio. 
 - Bio (bozza, senza link): "Una curiosità vera al giorno. / Con la fonte."
 
 ## Voce

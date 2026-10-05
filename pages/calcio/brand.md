@@ -1,12 +1,12 @@
 # Calcio A/B — kit brand
 
-Stato: bozza, ondata 1. Nome da scegliere da Tony. Disponibilità degli handle **non verificata**.
+Stato: bozza, ondata 1. Nome scelto da Tony (5 ott 2026). Disponibilità degli handle **non verificata**.
 
 ## Identità
 - Idea: il bar dello sport italiano: tifosi, categorie di tifoso, statistiche curiose, la provincia della Serie B che nessuno racconta.
 - Pubblico: uomini 18-40, tifosi di Serie A e B.
 - Promessa: "ridi, ti riconosci, impari un dato che al bar fa la figura".
-- Nomi candidati (da scegliere): **Cori e Rimpianti**, **Fuorigioco Mentale**, **Provincia Pallonara**. Niente "Serie A" o "Serie B" nel nome account, nessuno stemma, nessun nome di club: sono marchi.
+- Nome scelto: **Fallo da dietro**. Handle da verificare (solo lettere, numeri, punti e underscore: niente trattini o punti esclamativi) e controllo che non sia già in uso come marchio. Niente "Serie A" o "Serie B" nel nome account, nessuno stemma, nessun nome di club: sono marchi.
 - Bio (bozza, senza link): "Il bar dello sport, ma in italiano. / Serie A, Serie B, provincia e rimpianti."
 
 ## Voce
