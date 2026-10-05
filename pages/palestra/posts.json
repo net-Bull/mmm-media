@@ -120,5 +120,463 @@
     "type": "story",
     "format": "F10",
     "image": "pages/palestra/img/st/g3-st.jpg"
+  },
+  {
+    "id": "g4-p1",
+    "day": "G4",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F03",
+    "images": [
+      "pages/palestra/img/car/g4-p1/g4-p1-1.jpg",
+      "pages/palestra/img/car/g4-p1/g4-p1-2.jpg",
+      "pages/palestra/img/car/g4-p1/g4-p1-3.jpg",
+      "pages/palestra/img/car/g4-p1/g4-p1-4.jpg",
+      "pages/palestra/img/car/g4-p1/g4-p1-5.jpg",
+      "pages/palestra/img/car/g4-p1/g4-p1-6.jpg"
+    ],
+    "caption": "Ogni scheda ha il suo compagno. Il tuo qual è?\n\nSalva e tagga il tuo compagno di allenamento.\n\n#lunedipetto #palestra #gymbro"
+  },
+  {
+    "id": "g4-p2",
+    "day": "G4",
+    "slot": "post2",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/palestra/img/s/g4-p2.jpg",
+    "caption": "Prima la posa, poi la serie. Il bilanciere può aspettare.\n\nTagga chi si controlla prima di ogni serie.\n\n#lunedipetto #palestra #gymbro"
+  },
+  {
+    "id": "g4-p3",
+    "day": "G4",
+    "slot": "post3",
+    "type": "image",
+    "format": "F04",
+    "image": "pages/palestra/img/s/g4-p3.jpg",
+    "caption": "La scheda \"modificata\" da solo, spiegata al Personal.\n\nMandala al tuo compagno di scheda.\n\n#lunedipetto #palestra #gymbro"
+  },
+  {
+    "id": "g4-st",
+    "day": "G4",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/palestra/img/st/g4-st.jpg"
+  },
+  {
+    "id": "g5-p1",
+    "day": "G5",
+    "slot": "post1",
+    "type": "image",
+    "format": "F02",
+    "image": "pages/palestra/img/s/g5-p1.jpg",
+    "caption": "Tre foto, un angolo giusto, poi l'allenamento. Forse.\n\nTagga chi si fotografa prima di allenarsi.\n\n#lunedipetto #palestra #gymbro"
+  },
+  {
+    "id": "g5-p2",
+    "day": "G5",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/palestra/img/car/g5-p2/g5-p2-1.jpg",
+      "pages/palestra/img/car/g5-p2/g5-p2-2.jpg",
+      "pages/palestra/img/car/g5-p2/g5-p2-3.jpg",
+      "pages/palestra/img/car/g5-p2/g5-p2-4.jpg",
+      "pages/palestra/img/car/g5-p2/g5-p2-5.jpg",
+      "pages/palestra/img/car/g5-p2/g5-p2-6.jpg"
+    ],
+    "caption": "Le frasi che senti ogni giorno, in ordine di frequenza (secondo noi).\n\nSalva e scrivi nei commenti la tua preferita.\n\n#lunedipetto #palestra #gymbro"
+  },
+  {
+    "id": "g5-p3",
+    "day": "G5",
+    "slot": "post3",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/palestra/img/s/g5-p3.jpg",
+    "caption": "Le scale? Una discesa a gradini. Il water? Un'impresa.\n\nTagga chi cammina così dopo il giorno gambe.\n\n#lunedipetto #palestra #gymbro"
+  },
+  {
+    "id": "g5-st",
+    "day": "G5",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/palestra/img/st/g5-st.jpg"
+  },
+  {
+    "id": "g6-p1",
+    "day": "G6",
+    "slot": "post1",
+    "type": "image",
+    "format": "F07",
+    "image": "pages/palestra/img/s/g6-p1.jpg",
+    "caption": "Gennaio e marzo: stessa palestra, un'altra storia.\n\nScrivi nei commenti dove ti trovi tu.\n\n#lunedipetto #palestra #gymbro"
+  },
+  {
+    "id": "g6-p2",
+    "day": "G6",
+    "slot": "post2",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/palestra/img/s/g6-p2.jpg",
+    "caption": "Il barattolo nuovo \"funziona davvero\". Lo dice il barattolo.\n\nTagga chi compra tutto quello che vede.\n\n#lunedipetto #palestra #gymbro"
+  },
+  {
+    "id": "g6-p3",
+    "day": "G6",
+    "slot": "post3",
+    "type": "carousel",
+    "format": "F03",
+    "images": [
+      "pages/palestra/img/car/g6-p3/g6-p3-1.jpg",
+      "pages/palestra/img/car/g6-p3/g6-p3-2.jpg",
+      "pages/palestra/img/car/g6-p3/g6-p3-3.jpg",
+      "pages/palestra/img/car/g6-p3/g6-p3-4.jpg",
+      "pages/palestra/img/car/g6-p3/g6-p3-5.jpg",
+      "pages/palestra/img/car/g6-p3/g6-p3-6.jpg"
+    ],
+    "caption": "Lo spogliatoio ha le sue regole non scritte. E i suoi personaggi.\n\nSalva e tagga chi vive lì dentro.\n\n#lunedipetto #palestra #gymbro"
+  },
+  {
+    "id": "g6-st",
+    "day": "G6",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/palestra/img/st/g6-st.jpg"
+  },
+  {
+    "id": "g7-p1",
+    "day": "G7",
+    "slot": "post1",
+    "type": "image",
+    "format": "F04",
+    "image": "pages/palestra/img/s/g7-p1.jpg",
+    "caption": "L'allenamento di Brando: due ore di racconto, una di pesi.\n\nMandala a chi racconta più di quanto solleva.\n\n#lunedipetto #palestra #gymbro"
+  },
+  {
+    "id": "g7-p2",
+    "day": "G7",
+    "slot": "post2",
+    "type": "image",
+    "format": "F02",
+    "image": "pages/palestra/img/s/g7-p2.jpg",
+    "caption": "Lo shaker è pronto. L'allenamento un po' meno.\n\nTagga chi lo riempie prima di iniziare.\n\n#lunedipetto #palestra #gymbro"
+  },
+  {
+    "id": "g7-p3",
+    "day": "G7",
+    "slot": "post3",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/palestra/img/car/g7-p3/g7-p3-1.jpg",
+      "pages/palestra/img/car/g7-p3/g7-p3-2.jpg",
+      "pages/palestra/img/car/g7-p3/g7-p3-3.jpg",
+      "pages/palestra/img/car/g7-p3/g7-p3-4.jpg",
+      "pages/palestra/img/car/g7-p3/g7-p3-5.jpg",
+      "pages/palestra/img/car/g7-p3/g7-p3-6.jpg"
+    ],
+    "caption": "Cinque rumori che conosci a memoria. Il criterio è nostro: i più fastidiosi.\n\nSalva e scrivi nei commenti quale manca.\n\n#lunedipetto #palestra #gymbro"
+  },
+  {
+    "id": "g7-st",
+    "day": "G7",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/palestra/img/st/g7-st.jpg"
+  },
+  {
+    "id": "g8-p1",
+    "day": "G8",
+    "slot": "post1",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/palestra/img/s/g8-p1.jpg",
+    "caption": "Lunedì, ore 18:30. La panca è sacra e la fila pure.\n\nTagga chi fa la fila ogni lunedì.\n\n#lunedipetto #palestra #gymbro"
+  },
+  {
+    "id": "g8-p2",
+    "day": "G8",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F03",
+    "images": [
+      "pages/palestra/img/car/g8-p2/g8-p2-1.jpg",
+      "pages/palestra/img/car/g8-p2/g8-p2-2.jpg",
+      "pages/palestra/img/car/g8-p2/g8-p2-3.jpg",
+      "pages/palestra/img/car/g8-p2/g8-p2-4.jpg",
+      "pages/palestra/img/car/g8-p2/g8-p2-5.jpg",
+      "pages/palestra/img/car/g8-p2/g8-p2-6.jpg"
+    ],
+    "caption": "Il lunedì è sacro. Anche per chi lo sbaglia.\n\nSalva e tagga il tuo gymbro del lunedì.\n\n#lunedipetto #palestra #gymbro"
+  },
+  {
+    "id": "g8-p3",
+    "day": "G8",
+    "slot": "post3",
+    "type": "image",
+    "format": "F02",
+    "image": "pages/palestra/img/s/g8-p3.jpg",
+    "caption": "Ha un petto da copertina e due stuzzicadenti sotto. Lo conosci.\n\nTagga chi non ha mai fatto il giorno gambe.\n\n#lunedipetto #palestra #gymbro"
+  },
+  {
+    "id": "g8-st",
+    "day": "G8",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/palestra/img/st/g8-st.jpg"
+  },
+  {
+    "id": "g9-p1",
+    "day": "G9",
+    "slot": "post1",
+    "type": "image",
+    "format": "F07",
+    "image": "pages/palestra/img/s/g9-p1.jpg",
+    "caption": "Stesso bilanciere, due visioni del mondo.\n\nScrivi nei commenti chi sei tu.\n\n#lunedipetto #palestra #gymbro"
+  },
+  {
+    "id": "g9-p2",
+    "day": "G9",
+    "slot": "post2",
+    "type": "image",
+    "format": "F04",
+    "image": "pages/palestra/img/s/g9-p2.jpg",
+    "caption": "Le braccia in una settimana: il Personal ha risposto così.\n\nMandala a chi ha fretta.\n\n#lunedipetto #palestra #gymbro"
+  },
+  {
+    "id": "g9-p3",
+    "day": "G9",
+    "slot": "post3",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/palestra/img/s/g9-p3.jpg",
+    "caption": "Uno solo li rimette a posto. E guarda gli altri come un eroe stanco.\n\nTagga chi rimette sempre tutto a posto.\n\n#lunedipetto #palestra #gymbro"
+  },
+  {
+    "id": "g9-st",
+    "day": "G9",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/palestra/img/st/g9-st.jpg"
+  },
+  {
+    "id": "g10-p1",
+    "day": "G10",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/palestra/img/car/g10-p1/g10-p1-1.jpg",
+      "pages/palestra/img/car/g10-p1/g10-p1-2.jpg",
+      "pages/palestra/img/car/g10-p1/g10-p1-3.jpg",
+      "pages/palestra/img/car/g10-p1/g10-p1-4.jpg",
+      "pages/palestra/img/car/g10-p1/g10-p1-5.jpg",
+      "pages/palestra/img/car/g10-p1/g10-p1-6.jpg"
+    ],
+    "caption": "Frasi di chi \"è in massa\". Il criterio è nostro: le più ricorrenti.\n\nSalva e mandala a chi è in massa da tre anni.\n\n#lunedipetto #palestra #gymbro"
+  },
+  {
+    "id": "g10-p2",
+    "day": "G10",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F08",
+    "images": [
+      "pages/palestra/img/car/g10-p2/g10-p2-1.jpg",
+      "pages/palestra/img/car/g10-p2/g10-p2-2.jpg"
+    ],
+    "caption": "Mito: il riposo è tempo perso. Realtà (ironica): è sacro quanto il petto del lunedì.\n\nTagga chi non sa riposare.\n\n#lunedipetto #palestra #gymbro"
+  },
+  {
+    "id": "g10-p3",
+    "day": "G10",
+    "slot": "post3",
+    "type": "image",
+    "format": "F02",
+    "image": "pages/palestra/img/s/g10-p3.jpg",
+    "caption": "Domani riprende. Come domani, ieri e l'altro ieri.\n\nTagga chi riprende sempre domani.\n\n#lunedipetto #palestra #gymbro"
+  },
+  {
+    "id": "g10-st",
+    "day": "G10",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/palestra/img/st/g10-st.jpg"
+  },
+  {
+    "id": "g11-p1",
+    "day": "G11",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F03",
+    "images": [
+      "pages/palestra/img/car/g11-p1/g11-p1-1.jpg",
+      "pages/palestra/img/car/g11-p1/g11-p1-2.jpg",
+      "pages/palestra/img/car/g11-p1/g11-p1-3.jpg",
+      "pages/palestra/img/car/g11-p1/g11-p1-4.jpg",
+      "pages/palestra/img/car/g11-p1/g11-p1-5.jpg",
+      "pages/palestra/img/car/g11-p1/g11-p1-6.jpg"
+    ],
+    "caption": "Sui social i gymbro hanno una voce. Anzi, tante.\n\nSalva e tagga quello che segui.\n\n#lunedipetto #palestra #gymbro"
+  },
+  {
+    "id": "g11-p2",
+    "day": "G11",
+    "slot": "post2",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/palestra/img/s/g11-p2.jpg",
+    "caption": "Scheda sbagliata, convinzione giusta.\n\nTagga chi si è allenato con la scheda di un altro.\n\n#lunedipetto #palestra #gymbro"
+  },
+  {
+    "id": "g11-p3",
+    "day": "G11",
+    "slot": "post3",
+    "type": "image",
+    "format": "F04",
+    "image": "pages/palestra/img/s/g11-p3.jpg",
+    "caption": "Il gruppo \"Allenamento\" alle 22. Tutti presenti, nessuno risponde.\n\nMandala al tuo gruppo.\n\n#lunedipetto #palestra #gymbro"
+  },
+  {
+    "id": "g11-st",
+    "day": "G11",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/palestra/img/st/g11-st.jpg"
+  },
+  {
+    "id": "g12-p1",
+    "day": "G12",
+    "slot": "post1",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/palestra/img/s/g12-p1.jpg",
+    "caption": "Il bilanciere è carico. Chi lo ha usato? Un mistero.\n\nTagga chi non toglie mai i dischi.\n\n#lunedipetto #palestra #gymbro"
+  },
+  {
+    "id": "g12-p2",
+    "day": "G12",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/palestra/img/car/g12-p2/g12-p2-1.jpg",
+      "pages/palestra/img/car/g12-p2/g12-p2-2.jpg",
+      "pages/palestra/img/car/g12-p2/g12-p2-3.jpg",
+      "pages/palestra/img/car/g12-p2/g12-p2-4.jpg",
+      "pages/palestra/img/car/g12-p2/g12-p2-5.jpg",
+      "pages/palestra/img/car/g12-p2/g12-p2-6.jpg"
+    ],
+    "caption": "Il criterio è nostro: le scuse più usate.\n\nSalva e mandala a chi salta il cardio.\n\n#lunedipetto #palestra #gymbro"
+  },
+  {
+    "id": "g12-p3",
+    "day": "G12",
+    "slot": "post3",
+    "type": "image",
+    "format": "F07",
+    "image": "pages/palestra/img/s/g12-p3.jpg",
+    "caption": "Estate e inverno: due stagioni, un solo gymbro.\n\nScrivi nei commenti da che parte stai.\n\n#lunedipetto #palestra #gymbro"
+  },
+  {
+    "id": "g12-st",
+    "day": "G12",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/palestra/img/st/g12-st.jpg"
+  },
+  {
+    "id": "g13-p1",
+    "day": "G13",
+    "slot": "post1",
+    "type": "image",
+    "format": "F02",
+    "image": "pages/palestra/img/s/g13-p1.jpg",
+    "caption": "Il riposo dura novanta secondi. Lui ne misura ottantanove.\n\nTagga chi cronometra il riposo.\n\n#lunedipetto #palestra #gymbro"
+  },
+  {
+    "id": "g13-p2",
+    "day": "G13",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F03",
+    "images": [
+      "pages/palestra/img/car/g13-p2/g13-p2-1.jpg",
+      "pages/palestra/img/car/g13-p2/g13-p2-2.jpg",
+      "pages/palestra/img/car/g13-p2/g13-p2-3.jpg",
+      "pages/palestra/img/car/g13-p2/g13-p2-4.jpg",
+      "pages/palestra/img/car/g13-p2/g13-p2-5.jpg",
+      "pages/palestra/img/car/g13-p2/g13-p2-6.jpg"
+    ],
+    "caption": "Ogni Personal ha il suo stile. Il tuo qual è?\n\nSalva e tagga il tuo Personal (con affetto).\n\n#lunedipetto #palestra #gymbro"
+  },
+  {
+    "id": "g13-p3",
+    "day": "G13",
+    "slot": "post3",
+    "type": "image",
+    "format": "F04",
+    "image": "pages/palestra/img/s/g13-p3.jpg",
+    "caption": "Il Nuovo scopre il foam roller. Brando spiega.\n\nMandala a chi lo usa come sedia.\n\n#lunedipetto #palestra #gymbro"
+  },
+  {
+    "id": "g13-st",
+    "day": "G13",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/palestra/img/st/g13-st.jpg"
+  },
+  {
+    "id": "g14-p1",
+    "day": "G14",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/palestra/img/car/g14-p1/g14-p1-1.jpg",
+      "pages/palestra/img/car/g14-p1/g14-p1-2.jpg",
+      "pages/palestra/img/car/g14-p1/g14-p1-3.jpg",
+      "pages/palestra/img/car/g14-p1/g14-p1-4.jpg",
+      "pages/palestra/img/car/g14-p1/g14-p1-5.jpg",
+      "pages/palestra/img/car/g14-p1/g14-p1-6.jpg"
+    ],
+    "caption": "Cinque cose che Brando non fa mai. Il criterio è la sua reputazione.\n\nSalva e mandala a chi conosce un Brando.\n\n#lunedipetto #palestra #gymbro"
+  },
+  {
+    "id": "g14-p2",
+    "day": "G14",
+    "slot": "post2",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/palestra/img/s/g14-p2.jpg",
+    "caption": "Quattordici giorni dopo. Ti senti già Brando. Il bilanciere dice di no.\n\nTagga chi si sente già Brando.\n\n#lunedipetto #palestra #gymbro"
+  },
+  {
+    "id": "g14-p3",
+    "day": "G14",
+    "slot": "post3",
+    "type": "image",
+    "format": "F07",
+    "image": "pages/palestra/img/s/g14-p3.jpg",
+    "caption": "Scheda o improvvisazione: la questione dei secoli.\n\nScrivi nei commenti dove stai.\n\n#lunedipetto #palestra #gymbro"
+  },
+  {
+    "id": "g14-st",
+    "day": "G14",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/palestra/img/st/g14-st.jpg"
   }
 ]
