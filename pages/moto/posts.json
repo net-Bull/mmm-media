@@ -1,0 +1,126 @@
+[
+  {
+    "id": "g1-p1",
+    "day": "G1",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F03",
+    "images": [
+      "pages/moto/img/car/g1-p1/g1-p1-1.jpg",
+      "pages/moto/img/car/g1-p1/g1-p1-2.jpg",
+      "pages/moto/img/car/g1-p1/g1-p1-3.jpg",
+      "pages/moto/img/car/g1-p1/g1-p1-4.jpg",
+      "pages/moto/img/car/g1-p1/g1-p1-5.jpg",
+      "pages/moto/img/car/g1-p1/g1-p1-6.jpg"
+    ],
+    "caption": "Il giro della domenica ha sempre gli stessi personaggi. Tu chi sei?\n\nSalva e tagga il tuo gruppo.\n\n#moto #motociclisti #girodomenica"
+  },
+  {
+    "id": "g1-p2",
+    "day": "G1",
+    "slot": "post2",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/moto/img/s/g1-p2.jpg",
+    "caption": "Cinque minuti, un caffè e una storia sulla moto del 1998. Sono le undici.\n\nTagga chi dice sempre \"cinque minuti\".\n\n#moto #motociclisti #girodomenica"
+  },
+  {
+    "id": "g1-p3",
+    "day": "G1",
+    "slot": "post3",
+    "type": "image",
+    "format": "F02",
+    "image": "pages/moto/img/s/g1-p3.jpg",
+    "caption": "Una curva diventa un passo. Il passo diventa una giornata.\n\nTagga chi \"torna subito\".\n\n#moto #motociclisti #curve"
+  },
+  {
+    "id": "g1-st",
+    "day": "G1",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/moto/img/st/g1-st.jpg"
+  },
+  {
+    "id": "g2-p1",
+    "day": "G2",
+    "slot": "post1",
+    "type": "image",
+    "format": "F04",
+    "image": "pages/moto/img/s/g2-p1.jpg",
+    "caption": "L'orario di partenza è una proposta. Il gruppo lo sa.\n\nMandalo al tuo gruppo del giro.\n\n#moto #motociclisti #girodomenica"
+  },
+  {
+    "id": "g2-p2",
+    "day": "G2",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/moto/img/car/g2-p2/g2-p2-1.jpg",
+      "pages/moto/img/car/g2-p2/g2-p2-2.jpg",
+      "pages/moto/img/car/g2-p2/g2-p2-3.jpg",
+      "pages/moto/img/car/g2-p2/g2-p2-4.jpg",
+      "pages/moto/img/car/g2-p2/g2-p2-5.jpg",
+      "pages/moto/img/car/g2-p2/g2-p2-6.jpg"
+    ],
+    "caption": "Ne hai usata almeno una. Ammettilo.\n\nSalva e mandala a chi disdice sempre.\n\n#moto #motociclisti #girodomenica"
+  },
+  {
+    "id": "g2-p3",
+    "day": "G2",
+    "slot": "post3",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/moto/img/s/g2-p3.jpg",
+    "caption": "Il primo metro di strada è sempre il più educativo.\n\nTagga chi ci è già passato.\n\n#moto #motociclisti #garage"
+  },
+  {
+    "id": "g2-st",
+    "day": "G2",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/moto/img/st/g2-st.jpg"
+  },
+  {
+    "id": "g3-p1",
+    "day": "G3",
+    "slot": "post1",
+    "type": "image",
+    "format": "F07",
+    "image": "pages/moto/img/s/g3-p1.jpg",
+    "caption": "Libertà o compagnia? Ognuno ha la sua risposta.\n\nScrivi nei commenti da che parte stai.\n\n#moto #motociclisti #girodomenica"
+  },
+  {
+    "id": "g3-p2",
+    "day": "G3",
+    "slot": "post2",
+    "type": "image",
+    "format": "F02",
+    "image": "pages/moto/img/s/g3-p2.jpg",
+    "caption": "\"Tanto sono due minuti.\" Quelle strisce non sono tue.\n\nTagga chi parcheggia dove capita.\n\n#moto #motociclisti #parcheggio"
+  },
+  {
+    "id": "g3-p3",
+    "day": "G3",
+    "slot": "post3",
+    "type": "carousel",
+    "format": "F08",
+    "images": [
+      "pages/moto/img/car/g3-p3/g3-p3-1.jpg",
+      "pages/moto/img/car/g3-p3/g3-p3-2.jpg"
+    ],
+    "caption": "Mito: se il casco non ha graffi dopo una caduta, va ancora bene. Realtà: l'imbottitura interna si comprime all'urto e non torna come prima. Dopo una caduta va sostituito.\n\nSalva e mandalo a chi tiene il vecchio casco \"perché sembra a posto\".\n\n#moto #motociclisti #sicurezza",
+    "fonte": "Quotidiano Motori, 'Quanto dura un casco da moto e quando va sostituito' (https://www.quotidianomotori.com/moto/quanto-dura-un-casco-da-moto-e-quando-sostituirlo/); Motorbox, 'Caschi moto: se in caso di urto va sostituito lo dice lo scan'",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g3-st",
+    "day": "G3",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/moto/img/st/g3-st.jpg"
+  }
+]
