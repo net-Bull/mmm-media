@@ -137,5 +137,516 @@
     "type": "story",
     "format": "F10",
     "image": "pages/film/img/st/g3-st.jpg"
+  },
+  {
+    "id": "g4-p1",
+    "day": "G4",
+    "slot": "post1",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/film/img/s/g4-p1.jpg",
+    "caption": "\"Tanto lo sai come finisce.\" Lo dice a metà film. Ad alta voce.\n\nTagga chi spoilera il finale.\n\n#fotogrammacult #cinema"
+  },
+  {
+    "id": "g4-p2",
+    "day": "G4",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F08",
+    "images": [
+      "pages/film/img/car/g4-p2/g4-p2-1.jpg",
+      "pages/film/img/car/g4-p2/g4-p2-2.jpg"
+    ],
+    "caption": "Mito: Brando era la prima scelta per Vito Corleone. Realtà: la Paramount spingeva altri nomi, e Coppola ottenne un provino \"travestito\" da prova di attrezzatura.\n\nFonte: Libreriamo; Overstreet Access; Panorama. Verificato il 5 ottobre 2026.\n\n#fotogrammacult #cinema #padrino",
+    "fonte": "Libreriamo, 'Il Padrino'; Overstreet Access, 'The drama behind casting The Godfather'; Panorama, 'Il Padrino, Marlon Brando 40 anni' (la Paramount era restia a scegliere Brando; Coppola ottenne un provino registrato come test delle attrezzature)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g4-p3",
+    "day": "G4",
+    "slot": "post3",
+    "type": "carousel",
+    "format": "F03",
+    "images": [
+      "pages/film/img/car/g4-p3/g4-p3-1.jpg",
+      "pages/film/img/car/g4-p3/g4-p3-2.jpg",
+      "pages/film/img/car/g4-p3/g4-p3-3.jpg",
+      "pages/film/img/car/g4-p3/g4-p3-4.jpg",
+      "pages/film/img/car/g4-p3/g4-p3-5.jpg",
+      "pages/film/img/car/g4-p3/g4-p3-6.jpg"
+    ],
+    "caption": "Ogni film di culto ha il suo fan. Il tuo qual è?\n\nSalva e tagga il tuo amico cinefilo.\n\n#fotogrammacult #cinema"
+  },
+  {
+    "id": "g4-st",
+    "day": "G4",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/film/img/st/g4-st.jpg"
+  },
+  {
+    "id": "g5-p1",
+    "day": "G5",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/film/img/car/g5-p1/g5-p1-1.jpg",
+      "pages/film/img/car/g5-p1/g5-p1-2.jpg",
+      "pages/film/img/car/g5-p1/g5-p1-3.jpg",
+      "pages/film/img/car/g5-p1/g5-p1-4.jpg",
+      "pages/film/img/car/g5-p1/g5-p1-5.jpg",
+      "pages/film/img/car/g5-p1/g5-p1-6.jpg"
+    ],
+    "caption": "Il criterio è dichiarato: i sequel che nei bar vengono citati più spesso come \"meglio dell'originale\". È un'opinione, non una classifica ufficiale.\n\nSalva e scrivi nei commenti il tuo.\n\n#fotogrammacult #cinema #sequel"
+  },
+  {
+    "id": "g5-p2",
+    "day": "G5",
+    "slot": "post2",
+    "type": "image",
+    "format": "F02",
+    "image": "pages/film/img/s/g5-p2.jpg",
+    "caption": "Lo sa a memoria. Lo guarda lo stesso. E piange nello stesso punto.\n\nTagga chi si commuove sempre allo stesso film.\n\n#fotogrammacult #cinema"
+  },
+  {
+    "id": "g5-p3",
+    "day": "G5",
+    "slot": "post3",
+    "type": "image",
+    "format": "F06",
+    "image": "pages/film/img/s/g5-p3.jpg",
+    "caption": "Ennio Morricone vince nel 2016 il suo primo Oscar competitivo, per The Hateful Eight, a 87 anni: il più anziano di sempre a vincerlo. Nel 2007 aveva ricevuto l'Oscar onorario.\n\nFonte: Variety; ANSA; Rockit. Verificato il 5 ottobre 2026.\n\n#fotogrammacult #cinema #morricone #musica",
+    "fonte": "Variety, 'Ennio Morricone wins original score Oscar for The Hateful Eight' (29 febbraio 2016); ANSA English, 'Morricone wins Oscar for Hateful Eight score'; Rockit, 'Finalmente Morricone vince l'Oscar' (primo Oscar competitivo; onorario nel 2007; 87 anni)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g5-st",
+    "day": "G5",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/film/img/st/g5-st.jpg"
+  },
+  {
+    "id": "g6-p1",
+    "day": "G6",
+    "slot": "post1",
+    "type": "image",
+    "format": "F07",
+    "image": "pages/film/img/s/g6-p1.jpg",
+    "caption": "Lo stesso anno, 1960, due film che hanno fatto storia: Psycho di Hitchcock, in bianco e nero e con un budget di circa 807.000 dollari, e La dolce vita di Fellini, Palma d'oro a Cannes.\n\nScrivi nei commenti quale scegli.\n\nFonte: Wikipedia (Psycho); Festival di Cannes. Verificato il 5 ottobre 2026.\n\n#fotogrammacult #cinema #1960",
+    "fonte": "Wikipedia, 'Psycho (1960 film)' (budget 806.947 dollari; bianco e nero); Festival di Cannes, scheda 'La Dolce Vita' (Palma d'oro 1960, all'unanimità)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g6-p2",
+    "day": "G6",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F09",
+    "images": [
+      "pages/film/img/car/g6-p2/g6-p2-1.jpg",
+      "pages/film/img/car/g6-p2/g6-p2-2.jpg",
+      "pages/film/img/car/g6-p2/g6-p2-3.jpg",
+      "pages/film/img/car/g6-p2/g6-p2-4.jpg",
+      "pages/film/img/car/g6-p2/g6-p2-5.jpg",
+      "pages/film/img/car/g6-p2/g6-p2-6.jpg"
+    ],
+    "caption": "Blade Runner esce nel 1982 e incassa 33 milioni di dollari con un budget di 28: un flop. Diventa un cult grazie alla videocassetta e al Director's Cut del 1992.\n\nSalva e mandalo a un fan della fantascienza.\n\nFonte: TCM; MentalFloss; Wikipedia. Verificato il 5 ottobre 2026.\n\n#fotogrammacult #cinema #bladerunner",
+    "fonte": "TCM, 'Blade Runner (1982)'; Mental Floss, 'Movie theater mistake changed Blade Runner'; Wikipedia, 'Blade Runner' (incasso circa 33 milioni su 28 di budget; videocassetta; Director's Cut 1992)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g6-p3",
+    "day": "G6",
+    "slot": "post3",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/film/img/s/g6-p3.jpg",
+    "caption": "\"Davvero non l'hai visto?\" Lo guardi. Non sei più lo stesso.\n\nTagga chi ti ha fatto vedere un classico.\n\n#fotogrammacult #cinema"
+  },
+  {
+    "id": "g6-st",
+    "day": "G6",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/film/img/st/g6-st.jpg"
+  },
+  {
+    "id": "g7-p1",
+    "day": "G7",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/film/img/car/g7-p1/g7-p1-1.jpg",
+      "pages/film/img/car/g7-p1/g7-p1-2.jpg",
+      "pages/film/img/car/g7-p1/g7-p1-3.jpg",
+      "pages/film/img/car/g7-p1/g7-p1-4.jpg",
+      "pages/film/img/car/g7-p1/g7-p1-5.jpg",
+      "pages/film/img/car/g7-p1/g7-p1-6.jpg"
+    ],
+    "caption": "Il criterio è nostro: nessun titolo, solo il tipo di film che serve quando piove.\n\nSalva e scrivi nei commenti il titolo che scegli.\n\n#fotogrammacult #cinema #serata"
+  },
+  {
+    "id": "g7-p2",
+    "day": "G7",
+    "slot": "post2",
+    "type": "image",
+    "format": "F04",
+    "image": "pages/film/img/s/g7-p2.jpg",
+    "caption": "Il gruppo vota. Nessuno si decide. Si finisce a guardare una serie.\n\nMandala al tuo gruppo.\n\n#fotogrammacult #cinema"
+  },
+  {
+    "id": "g7-p3",
+    "day": "G7",
+    "slot": "post3",
+    "type": "carousel",
+    "format": "F08",
+    "images": [
+      "pages/film/img/car/g7-p3/g7-p3-1.jpg",
+      "pages/film/img/car/g7-p3/g7-p3-2.jpg"
+    ],
+    "caption": "Mito: il Gladiatore Massimo Decimo Meridio è esistito. Realtà: è un personaggio inventato, ispirato a figure reali dell'antica Roma. Marco Aurelio, Commodo e Lucilla, invece, sono storici.\n\nFonte: Cinefilos; Meer; Il Giornale. Verificato il 5 ottobre 2026.\n\n#fotogrammacult #cinema #gladiatore",
+    "fonte": "Cinefilos, 'Massimo Decimo Meridio de Il Gladiatore era una persona reale?'; Meer, 'Il vero gladiatore'; Il Giornale, 'Gladiatore, film pieno di errori e anacronismi' (Massimo non è un personaggio storico; Marco Aurelio, Commodo e Lucilla sì)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g7-st",
+    "day": "G7",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/film/img/st/g7-st.jpg"
+  },
+  {
+    "id": "g8-p1",
+    "day": "G8",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F03",
+    "images": [
+      "pages/film/img/car/g8-p1/g8-p1-1.jpg",
+      "pages/film/img/car/g8-p1/g8-p1-2.jpg",
+      "pages/film/img/car/g8-p1/g8-p1-3.jpg",
+      "pages/film/img/car/g8-p1/g8-p1-4.jpg",
+      "pages/film/img/car/g8-p1/g8-p1-5.jpg",
+      "pages/film/img/car/g8-p1/g8-p1-6.jpg"
+    ],
+    "caption": "Sul divano ognuno ha il suo stile. Il tuo?\n\nSalva e tagga il tuo compagno di divano.\n\n#fotogrammacult #cinema"
+  },
+  {
+    "id": "g8-p2",
+    "day": "G8",
+    "slot": "post2",
+    "type": "image",
+    "format": "F06",
+    "image": "pages/film/img/s/g8-p2.jpg",
+    "caption": "La scena della doccia di Psycho dura circa 45 secondi, con 78 inquadrature e 52 stacchi. Gli archi di Bernard Herrmann sono parte del terrore: Hitchcock stesso li considerava decisivi.\n\nAttenzione: la scena è nota, ma non la descriviamo.\n\nSalva e mandalo a un fan di Hitchcock.\n\nFonte: No Film School; Wikipedia. Verificato il 5 ottobre 2026.\n\n#fotogrammacult #cinema #psycho #colonnasonora",
+    "fonte": "No Film School, 'Unpacking the Psycho shower scene with Hitchcock'; Wikipedia, 'Psycho (1960 film)'; Paul Rennie, '78/52 documentary' (45 secondi, 78 setup, 52 stacchi; colonna sonora di Bernard Herrmann)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g8-p3",
+    "day": "G8",
+    "slot": "post3",
+    "type": "image",
+    "format": "F02",
+    "image": "pages/film/img/s/g8-p3.jpg",
+    "caption": "Non ricorda dove ha parcheggiato. Ma la battuta, sì.\n\nTagga chi sa tutte le battute a memoria.\n\n#fotogrammacult #cinema"
+  },
+  {
+    "id": "g8-st",
+    "day": "G8",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/film/img/st/g8-st.jpg"
+  },
+  {
+    "id": "g9-p1",
+    "day": "G9",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F09",
+    "images": [
+      "pages/film/img/car/g9-p1/g9-p1-1.jpg",
+      "pages/film/img/car/g9-p1/g9-p1-2.jpg",
+      "pages/film/img/car/g9-p1/g9-p1-3.jpg",
+      "pages/film/img/car/g9-p1/g9-p1-4.jpg",
+      "pages/film/img/car/g9-p1/g9-p1-5.jpg",
+      "pages/film/img/car/g9-p1/g9-p1-6.jpg"
+    ],
+    "caption": "Per Alien, Ridley Scott scopre un libro dell'artista svizzero H.R. Giger e lo ingaggia per disegnare il mostro. Scott ha detto che il film non sarebbe stato lo stesso senza il suo lavoro.\n\nSalva e mandalo a un fan di Alien.\n\nFonte: Artnet; Bloody Disgusting; Bold Entrance. Verificato il 5 ottobre 2026.\n\n#fotogrammacult #cinema #alien",
+    "fonte": "Artnet, 'As seen on Alien: H.R. Giger's biomorphic nightmare'; Bloody Disgusting, 'Ridley Scott praises late H.R. Giger'; Bold Entrance, 'Ridley Scott admits Alien would not have been the same without H.R. Giger's designs'",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g9-p2",
+    "day": "G9",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/film/img/car/g9-p2/g9-p2-1.jpg",
+      "pages/film/img/car/g9-p2/g9-p2-2.jpg",
+      "pages/film/img/car/g9-p2/g9-p2-3.jpg",
+      "pages/film/img/car/g9-p2/g9-p2-4.jpg",
+      "pages/film/img/car/g9-p2/g9-p2-5.jpg",
+      "pages/film/img/car/g9-p2/g9-p2-6.jpg"
+    ],
+    "caption": "Spoiler: solo i titoli, nessun dettaglio sul finale. Il criterio è nostro: i film che hanno un finale famoso.\n\nSalva e scrivi nei commenti il tuo.\n\n#fotogrammacult #cinema #finali"
+  },
+  {
+    "id": "g9-p3",
+    "day": "G9",
+    "slot": "post3",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/film/img/s/g9-p3.jpg",
+    "caption": "Il primo era un caso. Il secondo una coincidenza. Il terzo è un festival.\n\nTagga chi ha un regista del cuore.\n\n#fotogrammacult #cinema"
+  },
+  {
+    "id": "g9-st",
+    "day": "G9",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/film/img/st/g9-st.jpg"
+  },
+  {
+    "id": "g10-p1",
+    "day": "G10",
+    "slot": "post1",
+    "type": "image",
+    "format": "F07",
+    "image": "pages/film/img/s/g10-p1.jpg",
+    "caption": "Due film, due budget e due incassi: Psycho (1960, bianco e nero) costa circa 807.000 dollari e ne incassa 50 milioni. Star Wars (1977, a colori) costa 11 milioni e ne incassa circa 775.\n\nScrivi nei commenti quale ti sorprende.\n\nFonte: Wikipedia (Psycho); Wikipedia (Star Wars). Verificato il 5 ottobre 2026.\n\n#fotogrammacult #cinema #incassi",
+    "fonte": "Wikipedia, 'Psycho (1960 film)' (budget 806.947 dollari; incasso 50 milioni); Wikipedia, 'Star Wars (film)' (budget 11 milioni di dollari; incasso 775,4 milioni)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g10-p2",
+    "day": "G10",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F03",
+    "images": [
+      "pages/film/img/car/g10-p2/g10-p2-1.jpg",
+      "pages/film/img/car/g10-p2/g10-p2-2.jpg",
+      "pages/film/img/car/g10-p2/g10-p2-3.jpg",
+      "pages/film/img/car/g10-p2/g10-p2-4.jpg",
+      "pages/film/img/car/g10-p2/g10-p2-5.jpg",
+      "pages/film/img/car/g10-p2/g10-p2-6.jpg"
+    ],
+    "caption": "Ogni sala ha il suo tipo. Il tuo qual è?\n\nSalva e tagga chi esce sempre a metà film.\n\n#fotogrammacult #cinema"
+  },
+  {
+    "id": "g10-p3",
+    "day": "G10",
+    "slot": "post3",
+    "type": "image",
+    "format": "F06",
+    "image": "pages/film/img/s/g10-p3.jpg",
+    "caption": "Titanic vince 11 Oscar, come Ben-Hur nel 1959 e, dopo, Il Signore degli Anelli - Il ritorno del re nel 2003. Al botteghino sfiora i 2 miliardi di dollari.\n\nSalva e mandalo a chi ha pianto in sala.\n\nFonte: Movieplayer; Il Post; Britannica. Verificato il 5 ottobre 2026.\n\n#fotogrammacult #cinema #titanic #oscar",
+    "fonte": "Movieplayer, 'Titanic: 10 cose che (forse) non sapete'; Il Post, 'E pure Titanic ha già vent'anni' (19 dicembre 2017); Britannica, 'Titanic' (11 Oscar, pari a Ben-Hur 1959 e Il ritorno del re 2003; quasi 2 miliardi di dollari d'incasso)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g10-st",
+    "day": "G10",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/film/img/st/g10-st.jpg"
+  },
+  {
+    "id": "g11-p1",
+    "day": "G11",
+    "slot": "post1",
+    "type": "image",
+    "format": "F04",
+    "image": "pages/film/img/s/g11-p1.jpg",
+    "caption": "Il film \"brutto ma bello\" del Cinefilo: consigliato, rimpianto, rivisto.\n\nMandala a chi consiglia film dubbi.\n\n#fotogrammacult #cinema"
+  },
+  {
+    "id": "g11-p2",
+    "day": "G11",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/film/img/car/g11-p2/g11-p2-1.jpg",
+      "pages/film/img/car/g11-p2/g11-p2-2.jpg",
+      "pages/film/img/car/g11-p2/g11-p2-3.jpg",
+      "pages/film/img/car/g11-p2/g11-p2-4.jpg",
+      "pages/film/img/car/g11-p2/g11-p2-5.jpg",
+      "pages/film/img/car/g11-p2/g11-p2-6.jpg"
+    ],
+    "caption": "Il criterio è nostro e dichiarato: i film comici italiani che al bar si citano di più. È un'opinione, non una classifica ufficiale.\n\nSalva e scrivi nei commenti il tuo.\n\n#fotogrammacult #cinema #commedia"
+  },
+  {
+    "id": "g11-p3",
+    "day": "G11",
+    "slot": "post3",
+    "type": "carousel",
+    "format": "F08",
+    "images": [
+      "pages/film/img/car/g11-p3/g11-p3-1.jpg",
+      "pages/film/img/car/g11-p3/g11-p3-2.jpg"
+    ],
+    "caption": "Mito: in Italia si doppia da sempre perché ci piace. Realtà: i primi film doppiati sono del 1932 e nel 1934 una legge vieta di distribuire i film nella lingua originale. Il doppiaggio nasce anche per il controllo del regime.\n\nFonte: Focus; Between (Università di Cagliari); Benjamins. Verificato il 5 ottobre 2026.\n\n#fotogrammacult #cinema #doppiaggio",
+    "fonte": "Focus, 'Da quando abbiamo iniziato a doppiare i film'; Between, 'Il doppiaggio italiano' (Università di Cagliari); Benjamins, 'Dubbing in Italy' (primo studio di doppiaggio nel 1932; legge del 1934 contro la distribuzione di film in lingua originale)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g11-st",
+    "day": "G11",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/film/img/st/g11-st.jpg"
+  },
+  {
+    "id": "g12-p1",
+    "day": "G12",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F09",
+    "images": [
+      "pages/film/img/car/g12-p1/g12-p1-1.jpg",
+      "pages/film/img/car/g12-p1/g12-p1-2.jpg",
+      "pages/film/img/car/g12-p1/g12-p1-3.jpg",
+      "pages/film/img/car/g12-p1/g12-p1-4.jpg",
+      "pages/film/img/car/g12-p1/g12-p1-5.jpg",
+      "pages/film/img/car/g12-p1/g12-p1-6.jpg"
+    ],
+    "caption": "Con Matrix, nel 1999, il bullet time diventa famoso: decine di macchine fotografiche attorno all'attore, su sfondo verde, e una scena che sembra rallentata. Il termine entra nel linguaggio del cinema.\n\nFonte: Wikipedia (Bullet time); SlashFilm. Verificato il 5 ottobre 2026.\n\n#fotogrammacult #cinema #matrix #effetti",
+    "fonte": "Wikipedia, 'Bullet time'; SlashFilm, 'The Matrix's original bullet time method was a little too risky to work' (la parola \"bullet time\" è associata a Matrix, 1999; tecnica con molte macchine fotografiche su sfondo verde)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g12-p2",
+    "day": "G12",
+    "slot": "post2",
+    "type": "image",
+    "format": "F01",
+    "image": "pages/film/img/s/g12-p2.jpg",
+    "caption": "\"Ultimo, poi si dorme.\" Sono le tre. Il quarto è partito.\n\nTagga chi ti ha trascinato in una maratona.\n\n#fotogrammacult #cinema"
+  },
+  {
+    "id": "g12-p3",
+    "day": "G12",
+    "slot": "post3",
+    "type": "image",
+    "format": "F02",
+    "image": "pages/film/img/s/g12-p3.jpg",
+    "caption": "Lo dice a ogni film tratto da un libro. Anche quando non l'ha letto.\n\nTagga chi lo dice sempre.\n\n#fotogrammacult #cinema"
+  },
+  {
+    "id": "g12-st",
+    "day": "G12",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/film/img/st/g12-st.jpg"
+  },
+  {
+    "id": "g13-p1",
+    "day": "G13",
+    "slot": "post1",
+    "type": "image",
+    "format": "F07",
+    "image": "pages/film/img/s/g13-p1.jpg",
+    "caption": "Remake o originale: nessun vincitore, solo molti commenti.\n\nScrivi nei commenti da che parte stai.\n\n#fotogrammacult #cinema"
+  },
+  {
+    "id": "g13-p2",
+    "day": "G13",
+    "slot": "post2",
+    "type": "image",
+    "format": "F06",
+    "image": "pages/film/img/s/g13-p2.jpg",
+    "caption": "I tre film del Signore degli Anelli sono stati girati insieme in Nuova Zelanda, dall'11 ottobre 1999 al 22 dicembre 2000: 438 giorni di riprese.\n\nSalva e mandalo a un fan di Tolkien.\n\nFonte: Wikipedia; Movieplayer; Cinefilos. Verificato il 5 ottobre 2026.\n\n#fotogrammacult #cinema #signoredeglianelli #set",
+    "fonte": "Wikipedia, 'The Lord of the Rings (film series)'; Movieplayer, 'Il signore degli anelli - Le due torri: 10 cose da sapere'; Cinefilos, 'Il Signore degli Anelli: la compagnia dell'anello' (riprese simultanee dei tre film in Nuova Zelanda dall'11 ottobre 1999 al 22 dicembre 2000, 438 giorni)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g13-p3",
+    "day": "G13",
+    "slot": "post3",
+    "type": "carousel",
+    "format": "F03",
+    "images": [
+      "pages/film/img/car/g13-p3/g13-p3-1.jpg",
+      "pages/film/img/car/g13-p3/g13-p3-2.jpg",
+      "pages/film/img/car/g13-p3/g13-p3-3.jpg",
+      "pages/film/img/car/g13-p3/g13-p3-4.jpg",
+      "pages/film/img/car/g13-p3/g13-p3-5.jpg",
+      "pages/film/img/car/g13-p3/g13-p3-6.jpg"
+    ],
+    "caption": "Quando esce un sequel, tutti hanno un'opinione. Anche prima di vederlo.\n\nSalva e tagga il tuo amico dei sequel.\n\n#fotogrammacult #cinema"
+  },
+  {
+    "id": "g13-st",
+    "day": "G13",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/film/img/st/g13-st.jpg"
+  },
+  {
+    "id": "g14-p1",
+    "day": "G14",
+    "slot": "post1",
+    "type": "carousel",
+    "format": "F05",
+    "images": [
+      "pages/film/img/car/g14-p1/g14-p1-1.jpg",
+      "pages/film/img/car/g14-p1/g14-p1-2.jpg",
+      "pages/film/img/car/g14-p1/g14-p1-3.jpg",
+      "pages/film/img/car/g14-p1/g14-p1-4.jpg",
+      "pages/film/img/car/g14-p1/g14-p1-5.jpg",
+      "pages/film/img/car/g14-p1/g14-p1-6.jpg"
+    ],
+    "caption": "I cinque film più citati in queste due settimane di Fotogramma Cult. Il criterio è nostro: quelli di cui abbiamo parlato di più.\n\nSalva e scrivi nei commenti il tuo.\n\n#fotogrammacult #cinema #riepilogo"
+  },
+  {
+    "id": "g14-p2",
+    "day": "G14",
+    "slot": "post2",
+    "type": "carousel",
+    "format": "F09",
+    "images": [
+      "pages/film/img/car/g14-p2/g14-p2-1.jpg",
+      "pages/film/img/car/g14-p2/g14-p2-2.jpg",
+      "pages/film/img/car/g14-p2/g14-p2-3.jpg",
+      "pages/film/img/car/g14-p2/g14-p2-4.jpg",
+      "pages/film/img/car/g14-p2/g14-p2-5.jpg",
+      "pages/film/img/car/g14-p2/g14-p2-6.jpg"
+    ],
+    "caption": "Nel 1960 La dolce vita di Fellini vince la Palma d'oro a Cannes all'unanimità. Con Marcello Mastroianni e Anita Ekberg, in Italia fa scandalo e diventa un successo commerciale.\n\nFonte: Festival di Cannes; Wikipedia. Verificato il 5 ottobre 2026.\n\n#fotogrammacult #cinema #fellini",
+    "fonte": "Festival di Cannes, scheda 'La Dolce Vita' e 'Palme d'or: the 1960s' (Palma d'oro 1960, all'unanimità); Wikipedia, 'La Dolce Vita' (cast; scandalo in Italia; successo commerciale)",
+    "verificato_il": "5 ottobre 2026"
+  },
+  {
+    "id": "g14-p3",
+    "day": "G14",
+    "slot": "post3",
+    "type": "image",
+    "format": "F07",
+    "image": "pages/film/img/s/g14-p3.jpg",
+    "caption": "Amare un film e rispettarlo sono due cose diverse.\n\nScrivi nei commenti il tuo.\n\n#fotogrammacult #cinema #riepilogo"
+  },
+  {
+    "id": "g14-st",
+    "day": "G14",
+    "slot": "story",
+    "type": "story",
+    "format": "F10",
+    "image": "pages/film/img/st/g14-st.jpg"
   }
 ]
