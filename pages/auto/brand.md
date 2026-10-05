@@ -29,7 +29,7 @@ Stato: bozza, ondata 2. Nome scelto da Tony (5 ott 2026). Disponibilità degli h
 5. Mito/Realtà su manutenzione (F08): 10%
 
 ## Cadenza e orari (ipotesi)
-- Slot: 09:30 e 19:30.
+- Ritmo: 3 post + 1 story al giorno. Post 09:30 · 13:00 · 19:30, story 16:30. Ipotesi da verificare con gli Insights; se la reach cala, scendere a 2 post.
 
 ## Esempi di gancio
 - "POV: il meccanico dice 'Eh, bisogna aprire e vedere'."

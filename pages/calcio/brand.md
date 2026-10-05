@@ -30,7 +30,7 @@ Stato: bozza, ondata 1. Nome scelto da Tony (5 ott 2026). Disponibilità degli h
 5. Angolo Serie B/provincia: 10%
 
 ## Cadenza e orari (ipotesi, da verificare con Insights)
-- Slot: 12:00 e 21:30. Nei weekend di campionato: contenuto di commento la sera, dopo le partite, creato in giornata.
+- Ritmo: 3 post + 1 story al giorno. Post 09:00 · 12:30 · 21:30, story 18:00. Ipotesi da verificare con gli Insights; se la reach cala, scendere a 2 post.
 - Il calendario di campionato cambia: l'agente verifica date e partite con ricerca web prima di ogni post di giornata.
 
 ## Esempi di gancio

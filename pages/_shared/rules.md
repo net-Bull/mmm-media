@@ -38,7 +38,7 @@ Dal 30 aprile 2026 Instagram non raccomanda gli account che pubblicano per lo pi
 - Niente follow/unfollow automatici, niente scambi di like.
 
 ## 8. Controllo di Tony
-- Il primo lotto di ogni pagina (i post G1-G9) viene approvato da Tony prima di entrare nel calendario.
+- Il primo lotto di ogni pagina (i primi 3 giorni, G1-G3) viene approvato da Tony prima di entrare nel calendario.
 - Ogni decisione irreversibile (pubblicare, spendere, cambiare permessi) richiede il suo ok esplicito.
 
 ## 9. Repo

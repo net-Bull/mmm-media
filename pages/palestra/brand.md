@@ -29,7 +29,7 @@ Stato: bozza, ondata 1. Nome scelto da Tony (5 ott 2026). Disponibilità degli h
 5. Mito/Realtà leggero e non medico (F08), classifiche scherzose (F05): 15%
 
 ## Cadenza e orari (ipotesi, da verificare con Insights)
-- Slot: 07:00, 12:30 (story), 18:30. Diversi da MMM per non sovrapporre i segnali.
+- Ritmo: 3 post + 1 story al giorno. Post 07:00 · 12:30 · 18:30, story 21:00. Ipotesi da verificare con gli Insights; se la reach cala, scendere a 2 post.
 - Lunedì: "Lunedì petto" ricorrente. Venerdì: "Giorno gambe" (ironia sul saltarlo).
 
 ## Esempi di gancio

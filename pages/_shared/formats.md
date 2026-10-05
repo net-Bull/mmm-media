@@ -27,7 +27,8 @@ Struttura: gancio (prima riga, la vera battuta o il fatto) + una o due righe + i
 - Parole chiave nel testo della caption, hashtag pochi (0-5).
 - Mai richiami al funnel o alla pagina promo.
 
-## Lotto di partenza (valido per tutte le pagine)
-- Prima di rendere pubblico l'account: 9 post pronti (G1-G9).
-- Pubblicazione: G1-G6 nei primi 2 giorni (3 al giorno), poi 1 al giorno. Ipotesi da verificare con gli Insights dopo 14 giorni.
-- Stories: da G8 in poi, 1-2 al giorno.
+## Ritmo e lotto di partenza (valido per tutte le pagine)
+- Ritmo: 3 post + 1 story al giorno per 14 giorni (56 pubblicazioni per pagina).
+- Prima di rendere pubblico l'account: pronti i primi 3 giorni (G1-G3: 9 post e 3 story), approvati da Tony. I giorni successivi si preparano a blocchi di 3-4 giorni.
+- Ipotesi da verificare con gli Insights dopo 7 e 14 giorni: se la reach cala, scendere a 2 post al giorno.
+- Carico di produzione stimato: circa 150 immagini per pagina in 14 giorni (molti post sono caroselli di 4-6 slide).

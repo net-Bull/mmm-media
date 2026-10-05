@@ -33,7 +33,7 @@ I trailer sono materiale dei distributori, e un repost integrale è un contenuto
 5. Domande in story (F10): 10%
 
 ## Cadenza e orari (ipotesi)
-- Slot: 15:00 e 21:30.
+- Ritmo: 3 post + 1 story al giorno. Post 12:30 · 18:30 · 21:30, story 15:30. Ipotesi da verificare con gli Insights; se la reach cala, scendere a 2 post.
 
 ## Rischi
 - È la nicchia con più rischio copyright. Strategia: contenuto originale, pochissimo materiale altrui.

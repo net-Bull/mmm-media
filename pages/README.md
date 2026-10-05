@@ -1,6 +1,6 @@
 # Nuove pagine — indice e istruzioni per l'agente
 
-Stato al 5 ottobre 2026: **nessun account esiste ancora**. Questi file sono la preparazione: kit brand e piano di 14 giorni per 7 pagine. `calendar.json` in radice (MMM) non va toccato.
+Stato al 5 ottobre 2026: **nessun account esiste ancora**. Questi file sono la preparazione: kit brand e piano di 14 giorni (3 post + 1 story al giorno) per 7 pagine. `calendar.json` in radice (MMM) non va toccato.
 
 ## Pagine
 | Slug | Tema | Ondata | Kit | Piano |
@@ -26,7 +26,7 @@ Ogni lancio richiede il via libera di Tony.
 Per ogni pagina dell'ondata 1, in questo ordine, **una pagina alla volta e solo dopo l'ok di Tony sul nome**:
 1. Verificare la disponibilità degli handle candidati e riferire a Tony (senza creare account).
 2. Creare in Canva il brand kit (palette e font da `brand.md`) e un template per ogni formato usato nel piano.
-3. Produrre le immagini del lotto G1-G9 in JPEG (misure in `_shared/formats.md`), caricarle in `pages/<slug>/img/...`.
+3. Produrre le immagini del lotto G1-G3 (poi a blocchi di 3-4 giorni) in JPEG (misure in `_shared/formats.md`), caricarle in `pages/<slug>/img/...`.
 4. Per i post con dati: ricerca web, `fonte:` e `verificato il:`.
 5. Preparare `pages/<slug>/calendar.json` con lo schema di MMM, **senza** `enabled` nel registry finché non esiste l'account.
 6. Non toccare il workflow n8n pubblicato né `calendar.json` in radice.

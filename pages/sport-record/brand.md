@@ -28,7 +28,7 @@ Stato: bozza, ondata 3. Nome scelto da Tony (5 ott 2026). Disponibilità degli h
 5. Meme sportivi leggeri (F01, F02): 10%
 
 ## Cadenza e orari (ipotesi)
-- Slot: 11:00 e 17:30.
+- Ritmo: 3 post + 1 story al giorno. Post 10:30 · 14:30 · 18:30, story 21:00. Ipotesi da verificare con gli Insights; se la reach cala, scendere a 2 post.
 
 ## Regola critica: verificare tutto
 I record e i primati cambiano. Ogni post ha nel suo file `fonte:` e `verificato il:` (data). Nessun numero a memoria. Se la fonte è incerta o contraddittoria, il post non esce.

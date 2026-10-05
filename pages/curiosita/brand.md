@@ -28,7 +28,7 @@ Stato: bozza, ondata 3. Nome scelto da Tony (5 ott 2026). Disponibilità degli h
 5. POV leggero (F01): 5%
 
 ## Cadenza e orari (ipotesi)
-- Slot: 08:30 e 14:00.
+- Ritmo: 3 post + 1 story al giorno. Post 08:00 · 13:00 · 20:00, story 16:30. Ipotesi da verificare con gli Insights; se la reach cala, scendere a 2 post.
 
 ## Regola critica: verificare tutto
 Ogni post ha `fonte:` e `verificato il:`. Almeno due fonti indipendenti quando il fatto è sorprendente. Se non si verifica, non esce.

@@ -1,12 +1,12 @@
 {
   "_nota": "Nessun account esiste ancora. enabled resta false finché Tony non crea l'account e l'agente imposta ig_user_id e credential. Nessun token in questo file.",
   "pages": [
-    { "slug": "palestra", "name": "Lunedì-Petto", "ig_user_id": null, "credential": null, "calendar": "pages/palestra/calendar.json", "enabled": false, "slots": ["07:00", "12:30", "18:30"] },
-    { "slug": "calcio", "name": "Fallo da dietro", "ig_user_id": null, "credential": null, "calendar": "pages/calcio/calendar.json", "enabled": false, "slots": ["12:00", "21:30"] },
-    { "slug": "auto", "name": "Sgommando", "ig_user_id": null, "credential": null, "calendar": "pages/auto/calendar.json", "enabled": false, "slots": ["09:30", "19:30"] },
-    { "slug": "moto", "name": "Col Ginocchio a terra", "ig_user_id": null, "credential": null, "calendar": "pages/moto/calendar.json", "enabled": false, "slots": ["10:00", "18:00"] },
-    { "slug": "sport-record", "name": "Oltre ogni limite", "ig_user_id": null, "credential": null, "calendar": "pages/sport-record/calendar.json", "enabled": false, "slots": ["11:00", "17:30"] },
-    { "slug": "film", "name": "Fotogramma Cult", "ig_user_id": null, "credential": null, "calendar": "pages/film/calendar.json", "enabled": false, "slots": ["15:00", "21:30"] },
-    { "slug": "curiosita", "name": "Sapevatelo!", "ig_user_id": null, "credential": null, "calendar": "pages/curiosita/calendar.json", "enabled": false, "slots": ["08:30", "14:00"] }
+    { "slug": "palestra", "name": "Lunedì-Petto", "ig_user_id": null, "credential": null, "calendar": "pages/palestra/calendar.json", "enabled": false, "slots": ["07:00", "12:30", "18:30"], "story_slot": "21:00" },
+    { "slug": "calcio", "name": "Fallo da dietro", "ig_user_id": null, "credential": null, "calendar": "pages/calcio/calendar.json", "enabled": false, "slots": ["09:00", "12:30", "21:30"], "story_slot": "18:00" },
+    { "slug": "auto", "name": "Sgommando", "ig_user_id": null, "credential": null, "calendar": "pages/auto/calendar.json", "enabled": false, "slots": ["09:30", "13:00", "19:30"], "story_slot": "16:30" },
+    { "slug": "moto", "name": "Col Ginocchio a terra", "ig_user_id": null, "credential": null, "calendar": "pages/moto/calendar.json", "enabled": false, "slots": ["08:30", "13:30", "18:00"], "story_slot": "21:00" },
+    { "slug": "sport-record", "name": "Oltre ogni limite", "ig_user_id": null, "credential": null, "calendar": "pages/sport-record/calendar.json", "enabled": false, "slots": ["10:30", "14:30", "18:30"], "story_slot": "21:00" },
+    { "slug": "film", "name": "Fotogramma Cult", "ig_user_id": null, "credential": null, "calendar": "pages/film/calendar.json", "enabled": false, "slots": ["12:30", "18:30", "21:30"], "story_slot": "15:30" },
+    { "slug": "curiosita", "name": "Sapevatelo!", "ig_user_id": null, "credential": null, "calendar": "pages/curiosita/calendar.json", "enabled": false, "slots": ["08:00", "13:00", "20:00"], "story_slot": "16:30" }
   ]
 }
