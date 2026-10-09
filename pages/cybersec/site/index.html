@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cybermagazine</title>
+<meta name="description" content="Incidenti reali spiegati passo per passo, guide pratiche e strumenti di cybersicurezza, scritti da chi lavora ogni giorno nel monitoraggio della sicurezza.">
+<meta name="theme-color" content="#05070d">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@500;800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="importmap">{ "imports": { "three": "./vendor/three.module.min.js" } }</script>
+</head>
+<body>
+<canvas id="scene" aria-hidden="true"></canvas>
+<div class="rail" aria-hidden="true"><i id="rail"></i></div>
+
+<header class="top">
+  <a class="mark" href="#">Cybermagazine</a>
+  <nav aria-label="Principale">
+    <a href="#cosa">Cosa trovi</a>
+    <a href="#console">Come ragiona un analista</a>
+    <a href="#articoli">Articoli</a>
+    <a href="#newsletter">Newsletter</a>
+  </nav>
+</header>
+
+<main>
+  <section class="hero">
+    <h1><span>Dove finisce</span> <span>la tua rete,</span> <span>comincia</span> <span>l'attacco.</span></h1>
+    <p class="lede">Incidenti reali spiegati passo per passo, guide pratiche e strumenti, scritti da chi lavora ogni giorno nel monitoraggio della sicurezza.</p>
+    <div class="cta">
+      <a class="btn" href="#articoli">Leggi gli articoli</a>
+      <a class="btn ghost" href="#newsletter">Ricevi le novità</a>
+    </div>
+  </section>
+
+  <section id="cosa">
+    <div class="panel">
+      <h2>Tre cose che trovi qui</h2>
+      <p class="sub">Contenuti da analista, senza gergo inutile e senza allarmismo.</p>
+      <div class="cols">
+        <div><h3>Casi</h3><p><b>Anatomia di un attacco.</b> Un incidente ricostruito dall'allarme alla chiusura: cosa si è visto, cosa si è deciso, cosa ha funzionato.</p></div>
+        <div><h3>Guide</h3><p><b>Difese che si possono fare oggi.</b> Configurazioni e controlli concreti per siti, posta e account, con i passaggi nell'ordine giusto.</p></div>
+        <div><h3>Strumenti</h3><p><b>Quello che uso davvero.</b> Utility, query e checklist provate sul campo, con i limiti detti chiaramente.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="console">
+    <div class="panel">
+      <h2>Come ragiona un analista</h2>
+      <p class="sub">Ogni caso parte da qui: una sequenza di eventi da leggere, ordinare e decidere.</p>
+      <ol class="log">
+        <li><time>02:14:07</time><span class="sev info">Info</span><span class="ttp">T1110</span><span class="msg">Molti accessi falliti da 203.0.113.42 su /wp-login.php, 180 richieste in 4 minuti.</span></li>
+        <li><time>02:16:51</time><span class="sev high">Alta</span><span class="ttp">T1190</span><span class="msg">Richieste con parametri sospetti verso un endpoint pubblico, risposta 500 ripetuta.</span></li>
+        <li><time>02:19:30</time><span class="sev crit">Critica</span><span class="ttp">T1059</span><span class="msg">Processo anomalo avviato dal servizio web. Isolamento del server e blocco dell'IP sorgente.</span></li>
+      </ol>
+      <p class="note">Esempio didattico: dati inventati, indirizzo dall'intervallo riservato alla documentazione (203.0.113.0/24). Le sigle T1110, T1190 e T1059 sono tecniche del catalogo MITRE ATT&amp;CK.</p>
+    </div>
+  </section>
+
+  <section id="articoli">
+    <div class="panel">
+      <h2>Ultimi articoli</h2>
+      <p class="sub">Titoli di esempio per mostrare l'impaginazione. Il contenuto vero arriva con il lancio.</p>
+      <ul class="posts">
+        <li><div><h3>Picchi di errori 5xx: attacco o semplice guasto?</h3><p>Tre domande da farsi prima di bloccare un indirizzo.</p></div><span>8 min</span></li>
+        <li><div><h3>Brute force su un sito con molti sottodomini</h3><p>Dove guardare nei log e come ridurre il rumore.</p></div><span>6 min</span></li>
+        <li><div><h3>SQL injection: i segnali che si vedono nei log</h3><p>Come riconoscere un tentativo e cosa fare dopo.</p></div><span>9 min</span></li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="newsletter">
+    <div class="panel">
+      <h2>Una mail quando esce qualcosa di nuovo</h2>
+      <p class="sub">Niente spam. Un avviso per ogni nuovo caso o guida.</p>
+      <form id="nl">
+        <input id="email" type="email" placeholder="La tua email" aria-label="La tua email" autocomplete="email" required>
+        <button class="btn" type="submit">Iscrivimi</button>
+      </form>
+      <p id="msg" role="status"></p>
+    </div>
+  </section>
+
+  <footer>
+    <span><b>Cybermagazine</b> (nome provvisorio)</span>
+    <span>Instagram, TikTok, YouTube: link da inserire</span>
+  </footer>
+</main>
+
+<script type="module" src="js/main.js"></script>
+</body>
+</html>
